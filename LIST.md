@@ -1,8 +1,8 @@
 # awesome-rss-feeds · Full Feed Index
 
-> Auto-generated 2026-07-10T19:00:54Z · **8903 live English feeds** across 21 categories. Every feed is HTTP-validated.
+> Auto-generated 2026-07-10T19:12:09Z · **8905 live English feeds** across 21 categories. Every feed is HTTP-validated.
 
-## 🧠 AI Research & Labs (243)
+## 🧠 AI Research & Labs (242)
 
 - [2.0.7 Mayte Li - Learning to climb: mountains and research](https://feed.podbean.com/ThePAMTalks/feed.xml)
 - [2026 JIRN Virtual Research Conference Thursday](https://jirn.org/feed)
@@ -77,7 +77,6 @@
 - [Global Virtual Conference on Epidemiologic Research and Collaboration Advancing Equity in Scientific Dissemination and Capacity Building for lower- to middle- income countries (LMICs) – Day 2](https://epiresearch.org/feed)
 - [Google DeepMind Blog](https://deepmind.com/blog/feed/basic)
 - [Google DeepMind(@GoogleDeepMind)](https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec)
-- [Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data](https://www.marktechpost.com/feed)
 - [GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark](https://www.lennysnewsletter.com/feed)
 - [Hallucinations to the Edge of Consciousness and Visions](https://en.aspekti.top/feed)
 - [Hello Paperspace](https://blog.paperspace.com/feed)
@@ -248,7 +247,7 @@
 - [World-class UK research organisations launch new group](https://www.bas.ac.uk/feed?post_type=news)
 - [Your Advocacy in Action: The Road to Increased Federal Research Funding](https://pancan.org/feed)
 
-## ⚙️ AI Engineering & LLM (216)
+## ⚙️ AI Engineering & LLM (215)
 
 - [#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies](https://mixergy.com/?feed=mixergy_feed)
 - [(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, & DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak](https://braddelong.substack.com/feed)
@@ -345,7 +344,6 @@
 - [How to Gain Non-Artificial Intelligence (Revisited)](https://elizabethgpreston.substack.com/feed)
 - [How to run multiple Claude Code or Codex agents in parallel against a single codebase](https://www.patrickdap.com/index.xml)
 - [How to Secure a Generative AI Internship at Microsoft](https://www.acte.in/feed)
-- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/feed)
 - [Hugging Face(@huggingface)](https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f)
 - [idiallo.com](https://idiallo.com/feed.rss)
 - [idoubi(@idoubicc)](https://api.xgo.ing/rss/user/3d72acd51d21414ea39871fc01982a65)
@@ -467,7 +465,7 @@
 - [Yummy 😋 - Telegram Channel](https://rsshub.imlg.co/telegram/channel/GodlyNews1)
 - [💥 Issue 112: How to build an AI agent, How k8s Networking Works, The Future of Software Engineering, The AI Code Review Problem](https://www.techtalksweekly.io/feed)
 
-## 📡 AI News & Insights (9)
+## 📡 AI News & Insights (15)
 
 - [AI Legislative Update: July 10, 2026](https://www.transparencycoalition.ai/news?format=rss)
 - [AI News Wrap-Up: 8th July 2026](https://www.aiassistantstore.com/blogs/latest-news.atom)
@@ -475,8 +473,14 @@
 - [Banning 7-OH Will Make Consumers Less Safe](https://www.painnewsnetwork.org/stories?format=rss)
 - [Blog AI Trends](https://www.aitrends.com/feed)
 - [Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability](https://www.signalbloom.ai/news/rss.xml)
+- [Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data](https://www.marktechpost.com/feed)
+- [How to shrink the token budget without shrinking the team](https://www.artificialintelligence-news.com/feed)
 - [News Roundup July 2026](https://www.greenairnews.com/?feed=rss2)
 - [SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://genainews.tech/feed)
+- [TechCrunch](http://feeds.feedburner.com/TechCrunch)
+- [VentureBeat](http://venturebeat.com/feed)
+- [VentureBeat](https://feeds.feedburner.com/venturebeat/SZYF)
+- [VentureBeat AI](https://venturebeat.com/category/ai/feed)
 - [Why easyJet Prefers Apollo Over Castlelake](https://airinsight.com/feed)
 
 ## 🔐 Cybersecurity (480)
@@ -3178,7 +3182,7 @@
 - [“I Am an Unabashed Optimist About the Long-Term Future of Science.”](https://issues.org/feed/atom)
 - [【Caitlin’s】ガザで、パレスチナ人は浄化され続けている](https://digital-humanities.space/feed)
 
-## 🚀 Startups & Indie Hackers (148)
+## 🚀 Startups & Indie Hackers (146)
 
 - [15 things I have learned launching AI projects - Part 4](https://puntofisso.net/blog//index.xml)
 - [15 Years of Indie Dev In 4 Bits of Advice](https://www.pentadact.com/feed)
@@ -3320,8 +3324,6 @@
 - [UAE Launches New 10-Year Golden Visa Path for Freelancers](https://www.startanybusiness.in/feed)
 - [UK police launch murder investigation following death of former minister Widdecombe (Reuters)](https://www.memeorandum.com/feed.xml)
 - [UN Watch Urges UNESCO to Retract False Designation of Hamas Terrorists as Journalists, Launch Independent Probe](https://unwatch.org/feed)
-- [VentureBeat](http://venturebeat.com/feed)
-- [VentureBeat](https://feeds.feedburner.com/venturebeat/SZYF)
 - [Wegovy pill launch day saw a surge in consultations: Boots](https://www.pharmacy.biz/feeds/news.rss)
 - [Wheelchair Alliance launches new Academy for wheelchair community and professionals](https://www.wheelchair-alliance.co.uk/blog/rss.xml)
 - [Why SaaS Companies Need Professional SaaS SEO Services](https://heralddiary.com/feed)

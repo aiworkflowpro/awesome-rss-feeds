@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI Engineering &amp; LLM</title>
-    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
+    <dateCreated>2026-07-10T19:12:09Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" title="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" xmlUrl="https://mixergy.com/?feed=mixergy_feed" htmlUrl=""/>
@@ -100,7 +100,6 @@
     <outline type="rss" text="How to Gain Non-Artificial Intelligence (Revisited)" title="How to Gain Non-Artificial Intelligence (Revisited)" xmlUrl="https://elizabethgpreston.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="How to run multiple Claude Code or Codex agents in parallel against a single codebase" title="How to run multiple Claude Code or Codex agents in parallel against a single codebase" xmlUrl="https://www.patrickdap.com/index.xml" htmlUrl=""/>
     <outline type="rss" text="How to Secure a Generative AI Internship at Microsoft" title="How to Secure a Generative AI Internship at Microsoft" xmlUrl="https://www.acte.in/feed" htmlUrl=""/>
-    <outline type="rss" text="How to shrink the token budget without shrinking the team" title="How to shrink the token budget without shrinking the team" xmlUrl="https://www.artificialintelligence-news.com/feed" htmlUrl=""/>
     <outline type="rss" text="Hugging Face(@huggingface)" title="Hugging Face(@huggingface)" xmlUrl="https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f" htmlUrl=""/>
     <outline type="rss" text="idiallo.com" title="idiallo.com" xmlUrl="https://idiallo.com/feed.rss" htmlUrl="https://idiallo.com"/>
     <outline type="rss" text="idoubi(@idoubicc)" title="idoubi(@idoubicc)" xmlUrl="https://api.xgo.ing/rss/user/3d72acd51d21414ea39871fc01982a65" htmlUrl=""/>

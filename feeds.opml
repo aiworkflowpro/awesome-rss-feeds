@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · The most complete English RSS feed library</title>
-    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
+    <dateCreated>2026-07-10T19:12:09Z</dateCreated>
   </head>
   <body>
     <outline text="🧠 AI Research &amp; Labs" title="🧠 AI Research &amp; Labs">
@@ -79,7 +79,6 @@
       <outline type="rss" text="Global Virtual Conference on Epidemiologic Research and Collaboration Advancing Equity in Scientific Dissemination and Capacity Building for lower- to middle- income countries (LMICs) – Day 2" title="Global Virtual Conference on Epidemiologic Research and Collaboration Advancing Equity in Scientific Dissemination and Capacity Building for lower- to middle- income countries (LMICs) – Day 2" xmlUrl="https://epiresearch.org/feed" htmlUrl=""/>
       <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl=""/>
       <outline type="rss" text="Google DeepMind(@GoogleDeepMind)" title="Google DeepMind(@GoogleDeepMind)" xmlUrl="https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec" htmlUrl=""/>
-      <outline type="rss" text="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" title="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" xmlUrl="https://www.marktechpost.com/feed" htmlUrl=""/>
       <outline type="rss" text="GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark" title="GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark" xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl=""/>
       <outline type="rss" text="Hallucinations to the Edge of Consciousness and Visions" title="Hallucinations to the Edge of Consciousness and Visions" xmlUrl="https://en.aspekti.top/feed" htmlUrl=""/>
       <outline type="rss" text="Hello Paperspace" title="Hello Paperspace" xmlUrl="https://blog.paperspace.com/feed" htmlUrl="https://blog.paperspace.com/"/>
@@ -346,7 +345,6 @@
       <outline type="rss" text="How to Gain Non-Artificial Intelligence (Revisited)" title="How to Gain Non-Artificial Intelligence (Revisited)" xmlUrl="https://elizabethgpreston.substack.com/feed" htmlUrl=""/>
       <outline type="rss" text="How to run multiple Claude Code or Codex agents in parallel against a single codebase" title="How to run multiple Claude Code or Codex agents in parallel against a single codebase" xmlUrl="https://www.patrickdap.com/index.xml" htmlUrl=""/>
       <outline type="rss" text="How to Secure a Generative AI Internship at Microsoft" title="How to Secure a Generative AI Internship at Microsoft" xmlUrl="https://www.acte.in/feed" htmlUrl=""/>
-      <outline type="rss" text="How to shrink the token budget without shrinking the team" title="How to shrink the token budget without shrinking the team" xmlUrl="https://www.artificialintelligence-news.com/feed" htmlUrl=""/>
       <outline type="rss" text="Hugging Face(@huggingface)" title="Hugging Face(@huggingface)" xmlUrl="https://api.xgo.ing/rss/user/fc16750ce50741f1b1f05ea1fb29436f" htmlUrl=""/>
       <outline type="rss" text="idiallo.com" title="idiallo.com" xmlUrl="https://idiallo.com/feed.rss" htmlUrl="https://idiallo.com"/>
       <outline type="rss" text="idoubi(@idoubicc)" title="idoubi(@idoubicc)" xmlUrl="https://api.xgo.ing/rss/user/3d72acd51d21414ea39871fc01982a65" htmlUrl=""/>
@@ -475,8 +473,14 @@
       <outline type="rss" text="Banning 7-OH Will Make Consumers Less Safe" title="Banning 7-OH Will Make Consumers Less Safe" xmlUrl="https://www.painnewsnetwork.org/stories?format=rss" htmlUrl=""/>
       <outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/"/>
       <outline type="rss" text="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" title="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" xmlUrl="https://www.signalbloom.ai/news/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" title="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" xmlUrl="https://www.marktechpost.com/feed" htmlUrl=""/>
+      <outline type="rss" text="How to shrink the token budget without shrinking the team" title="How to shrink the token budget without shrinking the team" xmlUrl="https://www.artificialintelligence-news.com/feed" htmlUrl=""/>
       <outline type="rss" text="News Roundup July 2026" title="News Roundup July 2026" xmlUrl="https://www.greenairnews.com/?feed=rss2" htmlUrl=""/>
       <outline type="rss" text="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" title="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" xmlUrl="https://genainews.tech/feed" htmlUrl=""/>
+      <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" htmlUrl=""/>
+      <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed" htmlUrl=""/>
+      <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" htmlUrl=""/>
+      <outline type="rss" text="VentureBeat AI" title="VentureBeat AI" xmlUrl="https://venturebeat.com/category/ai/feed" htmlUrl="https://venturebeat.com/category/ai/"/>
       <outline type="rss" text="Why easyJet Prefers Apollo Over Castlelake" title="Why easyJet Prefers Apollo Over Castlelake" xmlUrl="https://airinsight.com/feed" htmlUrl=""/>
     </outline>
     <outline text="🔐 Cybersecurity" title="🔐 Cybersecurity">
@@ -3311,8 +3315,6 @@
       <outline type="rss" text="UAE Launches New 10-Year Golden Visa Path for Freelancers" title="UAE Launches New 10-Year Golden Visa Path for Freelancers" xmlUrl="https://www.startanybusiness.in/feed" htmlUrl=""/>
       <outline type="rss" text="UK police launch murder investigation following death of former minister Widdecombe (Reuters)" title="UK police launch murder investigation following death of former minister Widdecombe (Reuters)" xmlUrl="https://www.memeorandum.com/feed.xml" htmlUrl=""/>
       <outline type="rss" text="UN Watch Urges UNESCO to Retract False Designation of Hamas Terrorists as Journalists, Launch Independent Probe" title="UN Watch Urges UNESCO to Retract False Designation of Hamas Terrorists as Journalists, Launch Independent Probe" xmlUrl="https://unwatch.org/feed" htmlUrl=""/>
-      <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed" htmlUrl=""/>
-      <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" htmlUrl=""/>
       <outline type="rss" text="Wegovy pill launch day saw a surge in consultations: Boots" title="Wegovy pill launch day saw a surge in consultations: Boots" xmlUrl="https://www.pharmacy.biz/feeds/news.rss" htmlUrl=""/>
       <outline type="rss" text="Wheelchair Alliance launches new Academy for wheelchair community and professionals" title="Wheelchair Alliance launches new Academy for wheelchair community and professionals" xmlUrl="https://www.wheelchair-alliance.co.uk/blog/rss.xml" htmlUrl=""/>
       <outline type="rss" text="Why SaaS Companies Need Professional SaaS SEO Services" title="Why SaaS Companies Need Professional SaaS SEO Services" xmlUrl="https://heralddiary.com/feed" htmlUrl=""/>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI Research &amp; Labs</title>
-    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
+    <dateCreated>2026-07-10T19:12:09Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="2.0.7 Mayte Li - Learning to climb: mountains and research" title="2.0.7 Mayte Li - Learning to climb: mountains and research" xmlUrl="https://feed.podbean.com/ThePAMTalks/feed.xml" htmlUrl=""/>
@@ -78,7 +78,6 @@
     <outline type="rss" text="Global Virtual Conference on Epidemiologic Research and Collaboration Advancing Equity in Scientific Dissemination and Capacity Building for lower- to middle- income countries (LMICs) – Day 2" title="Global Virtual Conference on Epidemiologic Research and Collaboration Advancing Equity in Scientific Dissemination and Capacity Building for lower- to middle- income countries (LMICs) – Day 2" xmlUrl="https://epiresearch.org/feed" htmlUrl=""/>
     <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl=""/>
     <outline type="rss" text="Google DeepMind(@GoogleDeepMind)" title="Google DeepMind(@GoogleDeepMind)" xmlUrl="https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec" htmlUrl=""/>
-    <outline type="rss" text="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" title="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" xmlUrl="https://www.marktechpost.com/feed" htmlUrl=""/>
     <outline type="rss" text="GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark" title="GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark" xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl=""/>
     <outline type="rss" text="Hallucinations to the Edge of Consciousness and Visions" title="Hallucinations to the Edge of Consciousness and Visions" xmlUrl="https://en.aspekti.top/feed" htmlUrl=""/>
     <outline type="rss" text="Hello Paperspace" title="Hello Paperspace" xmlUrl="https://blog.paperspace.com/feed" htmlUrl="https://blog.paperspace.com/"/>

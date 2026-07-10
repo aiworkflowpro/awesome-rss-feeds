@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI News &amp; Insights</title>
-    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
+    <dateCreated>2026-07-10T19:12:09Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="AI Legislative Update: July 10, 2026" title="AI Legislative Update: July 10, 2026" xmlUrl="https://www.transparencycoalition.ai/news?format=rss" htmlUrl=""/>
@@ -11,8 +11,14 @@
     <outline type="rss" text="Banning 7-OH Will Make Consumers Less Safe" title="Banning 7-OH Will Make Consumers Less Safe" xmlUrl="https://www.painnewsnetwork.org/stories?format=rss" htmlUrl=""/>
     <outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/"/>
     <outline type="rss" text="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" title="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" xmlUrl="https://www.signalbloom.ai/news/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" title="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" xmlUrl="https://www.marktechpost.com/feed" htmlUrl=""/>
+    <outline type="rss" text="How to shrink the token budget without shrinking the team" title="How to shrink the token budget without shrinking the team" xmlUrl="https://www.artificialintelligence-news.com/feed" htmlUrl=""/>
     <outline type="rss" text="News Roundup July 2026" title="News Roundup July 2026" xmlUrl="https://www.greenairnews.com/?feed=rss2" htmlUrl=""/>
     <outline type="rss" text="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" title="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" xmlUrl="https://genainews.tech/feed" htmlUrl=""/>
+    <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" htmlUrl=""/>
+    <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed" htmlUrl=""/>
+    <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" htmlUrl=""/>
+    <outline type="rss" text="VentureBeat AI" title="VentureBeat AI" xmlUrl="https://venturebeat.com/category/ai/feed" htmlUrl="https://venturebeat.com/category/ai/"/>
     <outline type="rss" text="Why easyJet Prefers Apollo Over Castlelake" title="Why easyJet Prefers Apollo Over Castlelake" xmlUrl="https://airinsight.com/feed" htmlUrl=""/>
   </body>
 </opml>
