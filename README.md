@@ -2,10 +2,10 @@
 
 # 🌐 awesome-rss-feeds
 
-> 💎 **2759+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
+> 💎 **3234+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
 
-[![Live feeds](https://img.shields.io/badge/live_feeds-2759+-brightgreen?style=for-the-badge)](LIST.md)
-[![English only](https://img.shields.io/badge/English_only-2759-2188FF?style=for-the-badge)](#-quick-start)
+[![Live feeds](https://img.shields.io/badge/live_feeds-3234+-brightgreen?style=for-the-badge)](LIST.md)
+[![English only](https://img.shields.io/badge/English_only-3234-2188FF?style=for-the-badge)](#-quick-start)
 [![Categories](https://img.shields.io/badge/categories-16-orange?style=for-the-badge)](#-quick-start)
 [![Stars](https://img.shields.io/github/stars/aiworkflowpro/awesome-rss-feeds?style=for-the-badge&logo=github&color=181717)](https://github.com/aiworkflowpro/awesome-rss-feeds/stargazers)
 
@@ -15,7 +15,7 @@
 
 > 🎯 **Algorithms wrap you in a filter bubble, platforms chain you to a timeline, and AI-generated content is destroying the signal-to-noise ratio — RSS is the last pillar for taking back control of what you read.**
 >
-> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **2759+ live feeds** across **16 categories**, with AI as a first-class focus.
+> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **3234+ live feeds** across **16 categories**, with AI as a first-class focus.
 
 <div align="center">
 
@@ -31,13 +31,13 @@
 |---|---|---:|
 | 🧠 AI Research & Labs | [feeds/en-ai-research.opml](feeds/en-ai-research.opml) | **127** |
 | 🧩 AI Tools & Agents | [feeds/en-ai-tools.opml](feeds/en-ai-tools.opml) | **107** |
-| 🔐 Cybersecurity | [feeds/en-cybersecurity.opml](feeds/en-cybersecurity.opml) | **712** |
-| ⚛️ Web Frontend & Standards | [feeds/en-web-frontend.opml](feeds/en-web-frontend.opml) | **628** |
+| 🔐 Cybersecurity | [feeds/en-cybersecurity.opml](feeds/en-cybersecurity.opml) | **817** |
+| ⚛️ Web Frontend & Standards | [feeds/en-web-frontend.opml](feeds/en-web-frontend.opml) | **735** |
 | 🛠️ Developer Tools | [feeds/en-dev-tools.opml](feeds/en-dev-tools.opml) | **262** |
 | 💻 Backend & Systems | [feeds/en-backend.opml](feeds/en-backend.opml) | **82** |
 | ☁️ DevOps & Data | [feeds/en-devops-data.opml](feeds/en-devops-data.opml) | **23** |
 | 📱 Mobile Development | [feeds/en-mobile.opml](feeds/en-mobile.opml) | **70** |
-| 🏗️ Engineering Team Blogs | [feeds/en-tech-teams.opml](feeds/en-tech-teams.opml) | **207** |
+| 🏗️ Engineering Team Blogs | [feeds/en-tech-teams.opml](feeds/en-tech-teams.opml) | **470** |
 | 🎨 Product Design & UX | [feeds/en-product-design.opml](feeds/en-product-design.opml) | **62** |
 | 🚀 Startups & Indie Hackers | [feeds/en-startups.opml](feeds/en-startups.opml) | **65** |
 | 💰 Finance & Investing | [feeds/en-finance.opml](feeds/en-finance.opml) | **37** |
