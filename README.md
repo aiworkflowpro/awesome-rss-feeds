@@ -109,6 +109,18 @@ This repository aggregates and re-indexes the public, open-source upstream lists
 
 [🌐 aiworkflowpro.com](https://aiworkflowpro.com) · [𝕏 @aiworkflowprolk](https://x.com/aiworkflowprolk) · [💻 GitHub](https://github.com/aiworkflowpro)
 
+
+## 🧩 More from AI Workflow Pro
+
+| Project | What it is |
+|---|---|
+| [workflow-agent-skill-spec](https://github.com/aiworkflowpro/workflow-agent-skill-spec) | Spec for building production-grade Claude Code Skills |
+| [video-editing-skill](https://github.com/aiworkflowpro/video-editing-skill) | Claude Code Skill — automated video editing |
+| ✅ [awesome-rss-feeds](https://github.com/aiworkflowpro/awesome-rss-feeds) | 2000+ curated RSS feeds, 30 categories |
+| [awesome-ai-practices](https://github.com/aiworkflowpro/awesome-ai-practices) | Real AI best practices, auto-curated every 6h |
+
+🌐 [aiworkflowpro.com](https://aiworkflowpro.com) · 👤 [@aiworkflowpro](https://github.com/aiworkflowpro) · 𝕏 [@aiworkflowprolk](https://x.com/aiworkflowprolk)
+
 ## 📄 License
 
 MIT License © 2026 AI Workflow Pro. Feed data is aggregated from public open-source upstream lists; those lists retain their own licenses.
