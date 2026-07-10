@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Newsletters</title>
-    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
+    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="2026 Newsletters so far…." title="2026 Newsletters so far…." xmlUrl="https://paulregan.studio/feed" htmlUrl=""/>
@@ -16,7 +16,6 @@
     <outline type="rss" text="feed" title="feed" xmlUrl="https://www.aihero.dev/rss.xml" htmlUrl=""/>
     <outline type="rss" text="From Content Monitoring to Monetized Newsletters with Scoop.it" title="From Content Monitoring to Monetized Newsletters with Scoop.it" xmlUrl="https://blog.scoop.it/feed" htmlUrl=""/>
     <outline type="rss" text="Future Blue Jays Newsletter" title="Future Blue Jays Newsletter" xmlUrl="https://rss.beehiiv.com/feeds/OHxqwHytWC.xml" htmlUrl=""/>
-    <outline type="rss" text="How OpenAI Builds Infrastructure Teams" title="How OpenAI Builds Infrastructure Teams" xmlUrl="https://newsletter.eng-leadership.com/feed" htmlUrl=""/>
     <outline type="rss" text="How to ship software with confidence - The Pillars" title="How to ship software with confidence - The Pillars" xmlUrl="https://newsletter.optimistengineer.com/feed" htmlUrl=""/>
     <outline type="rss" text="Israeli-Detained Palestinian Doctor in Life-Threatening Condition | Palestine Policy Roundup 7.8.26" title="Israeli-Detained Palestinian Doctor in Life-Threatening Condition | Palestine Policy Roundup 7.8.26" xmlUrl="https://www.imeupolicyproject.org/newsletters?format=rss" htmlUrl=""/>
     <outline type="rss" text="It's in All of Our Self-Interest" title="It's in All of Our Self-Interest" xmlUrl="https://newsletter.freewillastrology.com/feed" htmlUrl=""/>

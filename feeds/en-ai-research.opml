@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI Research &amp; Labs</title>
-    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
+    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="2.0.7 Mayte Li - Learning to climb: mountains and research" title="2.0.7 Mayte Li - Learning to climb: mountains and research" xmlUrl="https://feed.podbean.com/ThePAMTalks/feed.xml" htmlUrl=""/>
@@ -24,16 +24,11 @@
     <outline type="rss" text="AIM Sets a New Benchmark with Highest-Rated Global Network Week" title="AIM Sets a New Benchmark with Highest-Rated Global Network Week" xmlUrl="https://aim.edu/feed" htmlUrl=""/>
     <outline type="rss" text="AISI Blog (AI Security Institute)" title="AISI Blog (AI Security Institute)" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/aisi-blog.xml" htmlUrl="https://www.aisi.gov.uk/blog"/>
     <outline type="rss" text="AK(@_akhaliq)" title="AK(@_akhaliq)" xmlUrl="https://api.xgo.ing/rss/user/341f7b9f8d9b477e8bb200caa7f32c6e" htmlUrl=""/>
-    <outline type="rss" text="Allen Institute for Artificial Intelligence (AI2) - YouTube" title="Allen Institute for Artificial Intelligence (AI2) - YouTube" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEqgmyWChwvt6MFGGlmUQCQ" htmlUrl="AI2"/>
     <outline type="rss" text="Andrew's Research" title="Andrew's Research" xmlUrl="https://blog.jmpesp.org/feeds/posts/default?alt=rss" htmlUrl="https://blog.jmpesp.org/"/>
-    <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-news.xml" htmlUrl="https://www.anthropic.com/news"/>
     <outline type="rss" text="Anthropic Research" title="Anthropic Research" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-research.xml" htmlUrl="https://www.anthropic.com/research"/>
     <outline type="rss" text="Apartment Therapy| Saving the world, one room at a time" title="Apartment Therapy| Saving the world, one room at a time" xmlUrl="https://www.apartmenttherapy.com/design.rss" htmlUrl=""/>
     <outline type="rss" text="Archie.AI – Medium" title="Archie.AI – Medium" xmlUrl="https://medium.com/feed/archieai" htmlUrl="https://medium.com/archieai"/>
     <outline type="rss" text="ARENAS Research Presented at the World Congress of French Linguistics" title="ARENAS Research Presented at the World Congress of French Linguistics" xmlUrl="https://arenasproject.eu/feed" htmlUrl=""/>
-    <outline type="rss" text="Artificial Intelligence Resources" title="Artificial Intelligence Resources" xmlUrl="http://airesources.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://airesources.blogspot.com/"/>
-    <outline type="rss" text="AWS Machine Learning" title="AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" htmlUrl="https://aws.amazon.com/blogs/"/>
-    <outline type="rss" text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" xmlUrl="https://aws.amazon.com/blogs/ai/feed" htmlUrl="https://aws.amazon.com/cn/blogs/machine-learning/"/>
     <outline type="rss" text="BBC News - Science &amp; Environment" title="BBC News - Science &amp; Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Berkeley AI Research(@berkeley_ai)" title="Berkeley AI Research(@berkeley_ai)" xmlUrl="https://api.xgo.ing/rss/user/6bbf31cac345443585c3280320ba9009" htmlUrl=""/>
     <outline type="rss" text="Beyond TOPS: The First Full-Pipeline AI Vision Benchmark" title="Beyond TOPS: The First Full-Pipeline AI Vision Benchmark" xmlUrl="https://www.edge-ai-vision.com/feed" htmlUrl=""/>
@@ -58,7 +53,6 @@
     <outline type="rss" text="Charting Their Course in 2026: Research Associates Begin Next Steps for New Paths and Opportunities" title="Charting Their Course in 2026: Research Associates Begin Next Steps for New Paths and Opportunities" xmlUrl="https://www.frbsf.org/feed" htmlUrl=""/>
     <outline type="rss" text="Check Point Research" title="Check Point Research" xmlUrl="https://research.checkpoint.com/feed" htmlUrl=""/>
     <outline type="rss" text="City MP responds to new research by reaffirming pledge to closing sports participation gap for girls in Portsmouth" title="City MP responds to new research by reaffirming pledge to closing sports participation gap for girls in Portsmouth" xmlUrl="https://www.stephenmorgan.org.uk/feed" htmlUrl=""/>
-    <outline type="rss" text="Cohere Blog" title="Cohere Blog" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/cohere-blog.xml" htmlUrl="https://cohere.com/blog"/>
     <outline type="rss" text="Community &amp; Cultural Mapping Research Group Convenes Community Dialogue on Wildfire Resilience" title="Community &amp; Cultural Mapping Research Group Convenes Community Dialogue on Wildfire Resilience" xmlUrl="https://culturalmapping.trubox.ca/feed" htmlUrl=""/>
     <outline type="rss" text="computational biology blog" title="computational biology blog" xmlUrl="https://computationalbiologyblog.com/feed" htmlUrl="https://computationalbiologyblog.com/"/>
     <outline type="rss" text="Computational Intelligence" title="Computational Intelligence" xmlUrl="http://computational-intelligence.blogspot.com/feeds/posts/default" htmlUrl="http://computational-intelligence.blogspot.com/"/>
@@ -117,12 +111,9 @@
     <outline type="rss" text="Letting neural networks be weird" title="Letting neural networks be weird" xmlUrl="http://aiweirdness.com/rss" htmlUrl="http://aiweirdness.com/"/>
     <outline type="rss" text="Lexalytics - Blog" title="Lexalytics - Blog" xmlUrl="https://www.lexalytics.com/lexablog/feed" htmlUrl="https://www.lexalytics.com/lexablog/"/>
     <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" htmlUrl=""/>
-    <outline type="rss" text="Machine Learning Blog" title="Machine Learning Blog" xmlUrl="https://blogs.technet.microsoft.com/machinelearning/feed" htmlUrl="https://blogs.technet.microsoft.com/machinelearning/"/>
     <outline type="rss" text="Machine Learning Blog | ML@CMU | Carnegie Mellon University" title="Machine Learning Blog | ML@CMU | Carnegie Mellon University" xmlUrl="https://blog.ml.cmu.edu/feed" htmlUrl=""/>
     <outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/"/>
     <outline type="rss" text="Machine, Think!" title="Machine, Think!" xmlUrl="http://machinethink.net/blog/index.xml" htmlUrl="https://machinethink.net/"/>
-    <outline type="rss" text="Marketing Artificial Intelligence Institute" title="Marketing Artificial Intelligence Institute" xmlUrl="http://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl="https://www.marketingaiinstitute.com/blog"/>
-    <outline type="rss" text="Medium - Artificial Intelligence Magazine" title="Medium - Artificial Intelligence Magazine" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
     <outline type="rss" text="Michelle V. Joyce appointed vice president of institutional research, innovation and strategy" title="Michelle V. Joyce appointed vice president of institutional research, innovation and strategy" xmlUrl="https://news.nd.edu/news.atom" htmlUrl=""/>
     <outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="http://research.microsoft.com/rss/news.xml" htmlUrl=""/>
     <outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
@@ -130,7 +121,6 @@
     <outline type="rss" text="Mila News (Quebec AI Institute)" title="Mila News (Quebec AI Institute)" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/mila-news.xml" htmlUrl="https://mila.quebec/en/news"/>
     <outline type="rss" text="Milan News" title="Milan News" xmlUrl="https://www.milannews.it/rss" htmlUrl=""/>
     <outline type="rss" text="MIT News" title="MIT News" xmlUrl="https://news.mit.edu/rss/research" htmlUrl=""/>
-    <outline type="rss" text="MIT News - Artificial intelligence" title="MIT News - Artificial intelligence" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl=""/>
     <outline type="rss" text="MIT News - Machine learning" title="MIT News - Machine learning" xmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" htmlUrl=""/>
     <outline type="rss" text="MITCSAIL - YouTube" title="MITCSAIL - YouTube" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=MITCSAIL" htmlUrl="https://www.youtube.com/user/MITCSAIL/videos"/>
     <outline type="rss" text="ML in production" title="ML in production" xmlUrl="https://mlinproduction.com/feed" htmlUrl="https://mlinproduction.com/"/>
@@ -149,7 +139,6 @@
     <outline type="rss" text="New Research Traces How ‘Forever Chemicals’ Move Through the Great Lakes and Into People" title="New Research Traces How ‘Forever Chemicals’ Move Through the Great Lakes and Into People" xmlUrl="https://sentientmedia.org/feed" htmlUrl=""/>
     <outline type="rss" text="New SPICe research – Access to Legal Aid and Advice in Scotland" title="New SPICe research – Access to Legal Aid and Advice in Scotland" xmlUrl="https://spice-spotlight.scot/feed" htmlUrl=""/>
     <outline type="rss" text="Nicholas Carlini" title="Nicholas Carlini" xmlUrl="https://nicholas.carlini.com/writing/feed.xml" htmlUrl="https://nicholas.carlini.com/"/>
-    <outline type="rss" text="NVIDIA AI Blog" title="NVIDIA AI Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
     <outline type="rss" text="NYT &gt; Science" title="NYT &gt; Science" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl=""/>
     <outline type="rss" text="On GATE, Text and Social Media Analysis, and Detecting Misinformation Online" title="On GATE, Text and Social Media Analysis, and Detecting Misinformation Online" xmlUrl="https://gate4ugc.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://gate4ugc.blogspot.com/"/>
     <outline type="rss" text="One Developer, Two Dozen Agents, Zero Alignment" title="One Developer, Two Dozen Agents, Zero Alignment" xmlUrl="https://maggieappleton.com/rss.xml" htmlUrl=""/>

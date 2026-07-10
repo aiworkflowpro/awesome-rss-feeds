@@ -2,10 +2,10 @@
 
 # 🌐 awesome-rss-feeds
 
-> 💎 **8888+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
+> 💎 **8903+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
 
-[![Live feeds](https://img.shields.io/badge/live_feeds-8888+-brightgreen?style=for-the-badge)](LIST.md)
-[![English only](https://img.shields.io/badge/English_only-8888-2188FF?style=for-the-badge)](#-quick-start)
+[![Live feeds](https://img.shields.io/badge/live_feeds-8903+-brightgreen?style=for-the-badge)](LIST.md)
+[![English only](https://img.shields.io/badge/English_only-8903-2188FF?style=for-the-badge)](#-quick-start)
 [![Categories](https://img.shields.io/badge/categories-21-orange?style=for-the-badge)](#-quick-start)
 [![Stars](https://img.shields.io/github/stars/aiworkflowpro/awesome-rss-feeds?style=for-the-badge&logo=github&color=181717)](https://github.com/aiworkflowpro/awesome-rss-feeds/stargazers)
 
@@ -15,7 +15,7 @@
 
 > 🎯 **Algorithms wrap you in a filter bubble, platforms chain you to a timeline, and AI-generated content is destroying the signal-to-noise ratio — RSS is the last pillar for taking back control of what you read.**
 >
-> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **8888+ live feeds** across **21 categories**, with AI as a first-class focus.
+> The most complete open index of **English** RSS feeds. We aggregate open-source upstream lists → HTTP-validate every feed to drop dead links → organize by topic → keep **8903+ live feeds** across **21 categories**, with AI as a first-class focus.
 
 <div align="center">
 
@@ -29,27 +29,27 @@
 
 | What you want to read | Category | Feeds |
 |---|---|---:|
-| 🧠 AI Research & Labs | [feeds/en-ai-research.opml](feeds/en-ai-research.opml) | **254** |
-| ⚙️ AI Engineering & LLM | [feeds/en-ai-eng.opml](feeds/en-ai-eng.opml) | **146** |
-| 📡 AI News & Insights | [feeds/en-ai-news.opml](feeds/en-ai-news.opml) | **14** |
+| 🧠 AI Research & Labs | [feeds/en-ai-research.opml](feeds/en-ai-research.opml) | **243** |
+| ⚙️ AI Engineering & LLM | [feeds/en-ai-eng.opml](feeds/en-ai-eng.opml) | **216** |
+| 📡 AI News & Insights | [feeds/en-ai-news.opml](feeds/en-ai-news.opml) | **9** |
 | 🔐 Cybersecurity | [feeds/en-cybersecurity.opml](feeds/en-cybersecurity.opml) | **480** |
-| ⚛️ Web Frontend & Standards | [feeds/en-web-frontend.opml](feeds/en-web-frontend.opml) | **1160** |
-| 🛠️ Developer Tools | [feeds/en-dev-tools.opml](feeds/en-dev-tools.opml) | **36** |
-| 💻 Backend & Systems | [feeds/en-backend.opml](feeds/en-backend.opml) | **287** |
+| ⚛️ Web Frontend & Standards | [feeds/en-web-frontend.opml](feeds/en-web-frontend.opml) | **1159** |
+| 🛠️ Developer Tools | [feeds/en-dev-tools.opml](feeds/en-dev-tools.opml) | **35** |
+| 💻 Backend & Systems | [feeds/en-backend.opml](feeds/en-backend.opml) | **281** |
 | ☁️ DevOps & Data | [feeds/en-devops-data.opml](feeds/en-devops-data.opml) | **78** |
 | 📱 Mobile Development | [feeds/en-mobile.opml](feeds/en-mobile.opml) | **75** |
 | 🏗️ Engineering Team Blogs | [feeds/en-tech-teams.opml](feeds/en-tech-teams.opml) | **275** |
 | 🎨 Product Design & UX | [feeds/en-product-design.opml](feeds/en-product-design.opml) | **28** |
-| 🔬 Science | [feeds/en-science.opml](feeds/en-science.opml) | **262** |
-| 🚀 Startups & Indie Hackers | [feeds/en-startups.opml](feeds/en-startups.opml) | **152** |
-| 💰 Finance & Investing | [feeds/en-finance.opml](feeds/en-finance.opml) | **224** |
-| 📰 News & Politics | [feeds/en-news.opml](feeds/en-news.opml) | **1026** |
-| ✍️ Essays & Ideas | [feeds/en-essays.opml](feeds/en-essays.opml) | **1789** |
+| 🔬 Science | [feeds/en-science.opml](feeds/en-science.opml) | **260** |
+| 🚀 Startups & Indie Hackers | [feeds/en-startups.opml](feeds/en-startups.opml) | **148** |
+| 💰 Finance & Investing | [feeds/en-finance.opml](feeds/en-finance.opml) | **222** |
+| 📰 News & Politics | [feeds/en-news.opml](feeds/en-news.opml) | **1019** |
+| ✍️ Essays & Ideas | [feeds/en-essays.opml](feeds/en-essays.opml) | **1782** |
 | 🎬 Entertainment | [feeds/en-entertainment.opml](feeds/en-entertainment.opml) | **621** |
 | 🏆 Sports | [feeds/en-sports.opml](feeds/en-sports.opml) | **233** |
-| 🌿 Life & Culture | [feeds/en-lifestyle.opml](feeds/en-lifestyle.opml) | **1560** |
+| 🌿 Life & Culture | [feeds/en-lifestyle.opml](feeds/en-lifestyle.opml) | **1552** |
 | 🎧 Podcasts & Audio | [feeds/en-podcasts.opml](feeds/en-podcasts.opml) | **144** |
-| 📬 Newsletters | [feeds/en-newsletters.opml](feeds/en-newsletters.opml) | **44** |
+| 📬 Newsletters | [feeds/en-newsletters.opml](feeds/en-newsletters.opml) | **43** |
 
 > 💡 **Import everything at once:** [feeds.opml](feeds.opml) · **Full feed list:** [LIST.md](LIST.md)
 >

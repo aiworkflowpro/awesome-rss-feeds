@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Backend &amp; Systems</title>
-    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
+    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="(Slightly) Random Broken Thoughts" title="(Slightly) Random Broken Thoughts" xmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/feeds/posts/default" htmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/"/>
@@ -31,7 +31,6 @@
     <outline type="rss" text="Amjad Masad(@amasad)" title="Amjad Masad(@amasad)" xmlUrl="https://api.xgo.ing/rss/user/5fb1814c610c4af2911caa98c5c5ef82" htmlUrl=""/>
     <outline type="rss" text="Andrej Karpathy(@karpathy)" title="Andrej Karpathy(@karpathy)" xmlUrl="https://api.xgo.ing/rss/user/edf707b5c0b248579085f66d7a3c5524" htmlUrl=""/>
     <outline type="rss" text="Andrew Ng(@AndrewYNg)" title="Andrew Ng(@AndrewYNg)" xmlUrl="https://api.xgo.ing/rss/user/08b5488b20bc437c8bfc317a52e5c26d" htmlUrl=""/>
-    <outline type="rss" text="Anthropic(@AnthropicAI)" title="Anthropic(@AnthropicAI)" xmlUrl="https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5" htmlUrl=""/>
     <outline type="rss" text="Anton Osika – eu/acc(@antonosika)" title="Anton Osika – eu/acc(@antonosika)" xmlUrl="https://api.xgo.ing/rss/user/5f13b32b124a41cfb659f903a84032b1" htmlUrl=""/>
     <outline type="rss" text="API Security" title="API Security" xmlUrl="https://festivus.dev/index.xml" htmlUrl=""/>
     <outline type="rss" text="API Security News » Feed" title="API Security News » Feed" xmlUrl="https://apisecurity.io/feed/index.xml" htmlUrl="https://apisecurity.io"/>
@@ -59,7 +58,6 @@
     <outline type="rss" text="Character.AI(@character_ai)" title="Character.AI(@character_ai)" xmlUrl="https://api.xgo.ing/rss/user/3877c31cdb554cffb750b3b683c98c4d" htmlUrl=""/>
     <outline type="rss" text="Charleston Farmers Market Adjust Hours for July 11 Due to Forecasted Heat Conditions" title="Charleston Farmers Market Adjust Hours for July 11 Due to Forecasted Heat Conditions" xmlUrl="https://holycitysinner.com/api/rss/content.rss" htmlUrl=""/>
     <outline type="rss" text="ChatGPT(@ChatGPTapp)" title="ChatGPT(@ChatGPTapp)" xmlUrl="https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4" htmlUrl=""/>
-    <outline type="rss" text="Chinese AI models are eating into OpenAI and Anthropic’s API business, but it's not a bad news for your business" title="Chinese AI models are eating into OpenAI and Anthropic’s API business, but it's not a bad news for your business" xmlUrl="https://mixed-news.com/en/feed" htmlUrl=""/>
     <outline type="rss" text="clem 🤗(@ClementDelangue)" title="clem 🤗(@ClementDelangue)" xmlUrl="https://api.xgo.ing/rss/user/5dbd038a8f5140938d0877511571797b" htmlUrl=""/>
     <outline type="rss" text="cloud world" title="cloud world" xmlUrl="https://cloudsjhan.github.io/atom.xml" htmlUrl="/atom.xml"/>
     <outline type="rss" text="Cognition(@cognition_labs)" title="Cognition(@cognition_labs)" xmlUrl="https://api.xgo.ing/rss/user/4cc14cbd15c74e189d537c415369e1a7" htmlUrl=""/>
@@ -176,7 +174,6 @@
     <outline type="rss" text="Martin Kleppmann's blog" title="Martin Kleppmann's blog" xmlUrl="https://feeds.feedburner.com/martinkl?format=xml" htmlUrl=""/>
     <outline type="rss" text="Maya Higa Turns Down Kai Cenat’s Streamer University to Save Endangered Sperm Whales: “I Wanted to Go So Bad”" title="Maya Higa Turns Down Kai Cenat’s Streamer University to Save Endangered Sperm Whales: “I Wanted to Go So Bad”" xmlUrl="https://whereisthebuzz.com/feed" htmlUrl=""/>
     <outline type="rss" text="mem0(@mem0ai)" title="mem0(@mem0ai)" xmlUrl="https://api.xgo.ing/rss/user/94bb691baeff461686326af619beb116" htmlUrl=""/>
-    <outline type="rss" text="meng shao(@shao__meng)" title="meng shao(@shao__meng)" xmlUrl="https://api.xgo.ing/rss/user/48aae530e0bf413aa7d44380f418e2e3" htmlUrl=""/>
     <outline type="rss" text="Michele Spagnuolo" title="Michele Spagnuolo" xmlUrl="https://miki.it/blog/feed.atom" htmlUrl="https://blog.miki.it/"/>
     <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="https://azure.microsoft.com/en-us/blog/feed" htmlUrl=""/>
     <outline type="rss" text="Midjourney(@midjourney)" title="Midjourney(@midjourney)" xmlUrl="https://api.xgo.ing/rss/user/72dd496bfd9d44c5a5761a974630376d" htmlUrl=""/>
@@ -199,11 +196,8 @@
     <outline type="rss" text="Node.js 26.5.0 (Current)" title="Node.js 26.5.0 (Current)" xmlUrl="https://nodejs.org/en/feed/releases.xml" htmlUrl=""/>
     <outline type="rss" text="NotebookLM(@NotebookLM)" title="NotebookLM(@NotebookLM)" xmlUrl="https://api.xgo.ing/rss/user/221a88341acb475db221a12fed8208d0" htmlUrl=""/>
     <outline type="rss" text="Notion(@NotionHQ)" title="Notion(@NotionHQ)" xmlUrl="https://api.xgo.ing/rss/user/f97a26863aec4425b021720d4f8e4ede" htmlUrl=""/>
-    <outline type="rss" text="NVIDIA AI(@NVIDIAAI)" title="NVIDIA AI(@NVIDIAAI)" xmlUrl="https://api.xgo.ing/rss/user/05f1492e43514dc3862a076d3697c390" htmlUrl=""/>
     <outline type="rss" text="Offshore business setup in Dubai: A simpler way to go global" title="Offshore business setup in Dubai: A simpler way to go global" xmlUrl="https://www.3shconsultancy.com/feed" htmlUrl=""/>
     <outline type="rss" text="ollama(@ollama)" title="ollama(@ollama)" xmlUrl="https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2" htmlUrl=""/>
-    <outline type="rss" text="OpenAI Developers(@OpenAIDevs)" title="OpenAI Developers(@OpenAIDevs)" xmlUrl="https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55" htmlUrl=""/>
-    <outline type="rss" text="OpenAI(@OpenAI)" title="OpenAI(@OpenAI)" xmlUrl="https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049" htmlUrl=""/>
     <outline type="rss" text="OpenRouter(@OpenRouterAI)" title="OpenRouter(@OpenRouterAI)" xmlUrl="https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4" htmlUrl=""/>
     <outline type="rss" text="orange.ai(@oran_ge)" title="orange.ai(@oran_ge)" xmlUrl="https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7" htmlUrl=""/>
     <outline type="rss" text="Patrick Loeber(@patloeber)" title="Patrick Loeber(@patloeber)" xmlUrl="https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f" htmlUrl=""/>

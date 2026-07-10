@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Developer Tools</title>
-    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
+    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="6 Open Source Tools to Query OpenStreetMap" title="6 Open Source Tools to Query OpenStreetMap" xmlUrl="https://wcedmisten.fyi/feed.xml" htmlUrl=""/>
@@ -16,7 +16,6 @@
     <outline type="rss" text="feed" title="feed" xmlUrl="https://borischerny.com/feed.xml" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="https://iamfran.com/feed.rss" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="http://johnkeefe.net/posts.atom" htmlUrl=""/>
-    <outline type="rss" text="From open source hits to OpenAI" title="From open source hits to OpenAI" xmlUrl="https://changelog.com/feed" htmlUrl=""/>
     <outline type="rss" text="GDTR" title="GDTR" xmlUrl="http://gdtr.wordpress.com/feed" htmlUrl="https://gdtr.wordpress.com"/>
     <outline type="rss" text="Global Infrastructure, Shared Responsibility — UN Open Source Week 2026" title="Global Infrastructure, Shared Responsibility — UN Open Source Week 2026" xmlUrl="https://www.sovereign.tech/feed.rss" htmlUrl=""/>
     <outline type="rss" text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl=""/>

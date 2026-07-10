@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Web Frontend &amp; Standards</title>
-    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
+    <dateCreated>2026-07-10T19:00:54Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="#LFF 2024: It’s Not Me review" title="#LFF 2024: It’s Not Me review" xmlUrl="https://cine-vue.com/feed" htmlUrl=""/>
@@ -731,7 +731,6 @@
     <outline type="rss" text="Open Policy &amp; Advocacy" title="Open Policy &amp; Advocacy" xmlUrl="https://blog.mozilla.org/privacy/feed" htmlUrl="https://blog.mozilla.org/netpolicy/"/>
     <outline type="rss" text="Open Web Advocacy posts" title="Open Web Advocacy posts" xmlUrl="https://open-web-advocacy.org/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Open Web Docs blog" title="Open Web Docs blog" xmlUrl="https://openwebdocs.org/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="OpenAI is shutting down its Atlas web browser" title="OpenAI is shutting down its Atlas web browser" xmlUrl="https://mashable.com/feeds/rss/all" htmlUrl=""/>
     <outline type="rss" text="Opera Desktop" title="Opera Desktop" xmlUrl="https://www.opera.com/blogs/desktop/feed" htmlUrl="https://blogs.opera.com/desktop/"/>
     <outline type="rss" text="Opera Mobile" title="Opera Mobile" xmlUrl="http://www.opera.com/blogs/mobile/feed" htmlUrl="https://blogs.opera.com/mobile/"/>
     <outline type="rss" text="Opera News" title="Opera News" xmlUrl="https://blogs.opera.com/news/feed" htmlUrl="https://blogs.opera.com/news/"/>
