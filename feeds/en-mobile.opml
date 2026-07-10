@@ -2,78 +2,83 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Mobile Development</title>
-    <dateCreated>2026-07-10T18:45:29Z</dateCreated>
+    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
   </head>
   <body>
-    <outline type="rss" text="2750 words" title="2750 words" xmlUrl="https://pathos.page/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Alberto De Bortoli" title="Alberto De Bortoli" xmlUrl="https://albertodebortoli.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products-and-platforms/platforms/android/rss" htmlUrl=""/>
+    <outline type="rss" text="A Music Producer Deleted His Invite to Taylor Swift’s Wedding Because He Thought the Text Was Spam" title="A Music Producer Deleted His Invite to Taylor Swift’s Wedding Because He Thought the Text Was Spam" xmlUrl="https://thoughtcatalog.com/feed" htmlUrl=""/>
+    <outline type="rss" text="A truly inspiring swift summer!" title="A truly inspiring swift summer!" xmlUrl="https://jonathanpomroy.wordpress.com/feed" htmlUrl=""/>
+    <outline type="rss" text="and-rev" title="and-rev" xmlUrl="https://and-rev.blogspot.com/feeds/posts/default" htmlUrl="https://and-rev.blogspot.com/"/>
     <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products/android/rss" htmlUrl=""/>
     <outline type="rss" text="Android" title="Android" xmlUrl="https://www.reddit.com/r/android/.rss" htmlUrl=""/>
-    <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Android and the Art of Regulatory Self-Harm" title="Android and the Art of Regulatory Self-Harm" xmlUrl="https://truthonthemarket.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Android Authority Podcast" title="Android Authority Podcast" xmlUrl="https://androidauthority.libsyn.com/rss" htmlUrl=""/>
     <outline type="rss" text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" xmlUrl="http://feeds.androidcentral.com/androidcentral" htmlUrl=""/>
+    <outline type="rss" text="Android Central Podcast" title="Android Central Podcast" xmlUrl="http://feeds.feedburner.com/AndroidCentralPodcast" htmlUrl=""/>
     <outline type="rss" text="Android Community" title="Android Community" xmlUrl="https://androidcommunity.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Android Developers - Medium" title="Android Developers - Medium" xmlUrl="https://medium.com/feed/androiddevelopers" htmlUrl=""/>
-    <outline type="rss" text="Android Developers Blog" title="Android Developers Blog" xmlUrl="https://feeds.feedburner.com/blogspot/hsDu" htmlUrl=""/>
+    <outline type="rss" text="android cracking" title="android cracking" xmlUrl="http://androidcracking.blogspot.com/feeds/posts/default" htmlUrl="http://androidcracking.blogspot.com/"/>
+    <outline type="rss" text="android cracking" title="android cracking" xmlUrl="http://feeds.feedburner.com/AndroidCracking" htmlUrl="http://androidcracking.blogspot.com/"/>
+    <outline type="rss" text="Android Developers Backstage" title="Android Developers Backstage" xmlUrl="http://feeds.feedburner.com/blogspot/androiddevelopersbackstage" htmlUrl=""/>
+    <outline type="rss" text="Android Explorations" title="Android Explorations" xmlUrl="http://nelenkov.blogspot.com/feeds/posts/default" htmlUrl="https://nelenkov.blogspot.com/"/>
     <outline type="rss" text="Android in MindOrks on Medium" title="Android in MindOrks on Medium" xmlUrl="https://medium.com/feed/mindorks/tagged/android" htmlUrl=""/>
     <outline type="rss" text="Android in The Airbnb Tech Blog on Medium" title="Android in The Airbnb Tech Blog on Medium" xmlUrl="https://medium.com/feed/airbnb-engineering/tagged/android" htmlUrl=""/>
+    <outline type="rss" text="Android is open source, but your phone isn’t—here’s why Google locked it down" title="Android is open source, but your phone isn’t—here’s why Google locked it down" xmlUrl="https://gadgeteer.co.za/feed" htmlUrl=""/>
     <outline type="rss" text="Android Police – Android news, reviews, apps, games, phones, tablets" title="Android Police – Android news, reviews, apps, games, phones, tablets" xmlUrl="http://feeds.feedburner.com/AndroidPolice" htmlUrl=""/>
-    <outline type="rss" text="AndroidGuys" title="AndroidGuys" xmlUrl="https://www.androidguys.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl=""/>
-    <outline type="rss" text="AppleInsider News" title="AppleInsider News" xmlUrl="https://appleinsider.com/rss/news" htmlUrl=""/>
+    <outline type="rss" text="Android Reversing" title="Android Reversing" xmlUrl="http://androidreversing.blogspot.com/feeds/posts/default" htmlUrl="http://androidreversing.blogspot.com/"/>
+    <outline type="rss" text="Apple eyes PrismML to run huge AI models directly on iPhone" title="Apple eyes PrismML to run huge AI models directly on iPhone" xmlUrl="https://macdailynews.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Apple to announce iPhone VC" title="Apple to announce iPhone VC" xmlUrl="https://crazyapplerumors.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Apple Will Pay iPhone Owners Over the Siri It Promised and Delayed. Here’s Who Qualifies" title="Apple Will Pay iPhone Owners Over the Siri It Promised and Delayed. Here’s Who Qualifies" xmlUrl="https://tech-ish.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Augmented Code" title="Augmented Code" xmlUrl="https://augmentedcode.io/feed" htmlUrl=""/>
+    <outline type="rss" text="Automating your Xcode Project" title="Automating your Xcode Project" xmlUrl="https://brightdigit.com/feed.rss" htmlUrl=""/>
     <outline type="rss" text="Benoit Pasquier - Swift, Data and more" title="Benoit Pasquier - Swift, Data and more" xmlUrl="https://benoitpasquier.com/index.xml" htmlUrl=""/>
-    <outline type="rss" text="Blog – ScientiaMobile" title="Blog – ScientiaMobile" xmlUrl="https://www.scientiamobile.com/blog/feed" htmlUrl=""/>
-    <outline type="rss" text="CodingItWrong.com" title="CodingItWrong.com" xmlUrl="http://codingitwrong.com/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Best Budget Smartwatches for Men: 8 iPhone-Compatible Picks Under $150" title="Best Budget Smartwatches for Men: 8 iPhone-Compatible Picks Under $150" xmlUrl="https://impartpad.com/feed" htmlUrl=""/>
+    <outline type="rss" text="contagio mobile" title="contagio mobile" xmlUrl="http://contagiominidump.blogspot.com/feeds/posts/default" htmlUrl="http://contagiominidump.blogspot.com/"/>
     <outline type="rss" text="Cult of Android" title="Cult of Android" xmlUrl="https://www.cultofandroid.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Cult of Mac" title="Cult of Mac" xmlUrl="https://www.cultofmac.com/feed" htmlUrl=""/>
     <outline type="rss" text="Cyanogen Mods" title="Cyanogen Mods" xmlUrl="https://www.cyanogenmods.org/feed" htmlUrl=""/>
-    <outline type="rss" text="Danny Tuppeny" title="Danny Tuppeny" xmlUrl="http://feeds.dantup.com/DanTup" htmlUrl=""/>
     <outline type="rss" text="Developing Android Apps" title="Developing Android Apps" xmlUrl="https://reddit.com/r/androiddev.rss" htmlUrl=""/>
-    <outline type="rss" text="Droid Life" title="Droid Life" xmlUrl="https://www.droid-life.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Felix Krause" title="Felix Krause" xmlUrl="https://krausefx.com/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Flutter - Medium" title="Flutter - Medium" xmlUrl="https://medium.com/feed/flutter" htmlUrl=""/>
-    <outline type="rss" text="furbo.org" title="furbo.org" xmlUrl="http://furbo.org/feed" htmlUrl=""/>
-    <outline type="rss" text="goobar" title="goobar" xmlUrl="https://goobar.io/feed" htmlUrl=""/>
-    <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl=""/>
-    <outline type="rss" text="Handstand Sam" title="Handstand Sam" xmlUrl="https://handstandsam.com/feed" htmlUrl=""/>
+    <outline type="rss" text="DIG Lagat vows Swift Action Against Election Offenders in Ol Kalou" title="DIG Lagat vows Swift Action Against Election Offenders in Ol Kalou" xmlUrl="https://www.capitalfm.co.ke/news/feed" htmlUrl=""/>
+    <outline type="rss" text="feed" title="feed" xmlUrl="https://christianselig.com/index.xml" htmlUrl=""/>
+    <outline type="rss" text="Full List Of Smartphones Expected To Receive Android 17" title="Full List Of Smartphones Expected To Receive Android 17" xmlUrl="https://androidkenya.com/feed" htmlUrl=""/>
+    <outline type="rss" text="GeoSn0w" title="GeoSn0w" xmlUrl="https://geosn0w.github.io/feed.xml" htmlUrl="https://geosn0w.github.io/"/>
+    <outline type="rss" text="Google Photos Introduces Floating Navigation Bar for Android Users" title="Google Photos Introduces Floating Navigation Bar for Android Users" xmlUrl="https://www.openthenews.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Grow Christians Greatest Hits: The Gospel According to Taylor Swift" title="Grow Christians Greatest Hits: The Gospel According to Taylor Swift" xmlUrl="https://www.growchristians.org/feed" htmlUrl=""/>
+    <outline type="rss" text="HMD Arc 2: Android 14 Go, UNISOC T603 CPU, 5,000mAh battery" title="HMD Arc 2: Android 14 Go, UNISOC T603 CPU, 5,000mAh battery" xmlUrl="https://www.noypigeeks.com/feed" htmlUrl=""/>
+    <outline type="rss" text="How To Fix iPhone Screen Is Black [What To Do]" title="How To Fix iPhone Screen Is Black [What To Do]" xmlUrl="https://www.techvocast.co.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="IGN All" title="IGN All" xmlUrl="http://feeds.ign.com/ign/all" htmlUrl=""/>
     <outline type="rss" text="iMore - The #1 iPhone, iPad, and iPod touch blog" title="iMore - The #1 iPhone, iPad, and iPod touch blog" xmlUrl="http://feeds.feedburner.com/TheiPhoneBlog" htmlUrl=""/>
-    <outline type="rss" text="inessential.com" title="inessential.com" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Ionic Blog" title="Ionic Blog" xmlUrl="https://blog.ionicframework.com/feed" htmlUrl=""/>
+    <outline type="rss" text="IMQ Minded Security Blog" title="IMQ Minded Security Blog" xmlUrl="http://blog.mindedsecurity.com/feeds/posts/default" htmlUrl="https://blog.mindedsecurity.com/"/>
+    <outline type="rss" text="IOL section feed for News" title="IOL section feed for News" xmlUrl="http://rss.iol.io/iol/news" htmlUrl=""/>
+    <outline type="rss" text="iPhone 17 Pro Camera Review: Dolomite mountains" title="iPhone 17 Pro Camera Review: Dolomite mountains" xmlUrl="https://www.austinmann.com/trek?format=rss" htmlUrl=""/>
+    <outline type="rss" text="iPhone 18 Pro Max Massive Price Increase in Components" title="iPhone 18 Pro Max Massive Price Increase in Components" xmlUrl="https://directnewsupdates.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Is Your Android Emulator Safe? Security Best Practices for Mobile Gaming on PC" title="Is Your Android Emulator Safe? Security Best Practices for Mobile Gaming on PC" xmlUrl="https://gachago.com/en/feed" htmlUrl=""/>
     <outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="https://jakewharton.com/atom.xml" htmlUrl=""/>
     <outline type="rss" text="Joe Birch" title="Joe Birch" xmlUrl="https://joebirch.co/feed" htmlUrl=""/>
-    <outline type="rss" text="Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog" title="Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/kotlin/feed" htmlUrl=""/>
-    <outline type="rss" text="mobiForge" title="mobiForge" xmlUrl="https://mobiforge.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Mobile A11y" title="Mobile A11y" xmlUrl="https://mobilea11y.com/index.xml" htmlUrl=""/>
-    <outline type="rss" text="My life with Android :-)" title="My life with Android :-)" xmlUrl="http://mylifewithandroid.blogspot.com/feeds/posts/default" htmlUrl=""/>
-    <outline type="rss" text="NetNewsWire Releases" title="NetNewsWire Releases" xmlUrl="https://github.com/Ranchero-Software/NetNewsWire/releases.atom" htmlUrl=""/>
-    <outline type="rss" text="News - Apple Developer" title="News - Apple Developer" xmlUrl="https://developer.apple.com/news/rss/news.rss" htmlUrl=""/>
-    <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="https://oleb.net/blog/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Opera Mobile" title="Opera Mobile" xmlUrl="http://www.opera.com/blogs/mobile/feed" htmlUrl=""/>
-    <outline type="rss" text="OS X Daily" title="OS X Daily" xmlUrl="http://feeds.feedburner.com/osxdaily" htmlUrl=""/>
-    <outline type="rss" text="Phandroid" title="Phandroid" xmlUrl="http://feeds2.feedburner.com/AndroidPhoneFans" htmlUrl=""/>
-    <outline type="rss" text="Podcast -  Android Developers Backstage" title="Podcast -  Android Developers Backstage" xmlUrl="https://feeds.libsyn.com/332855/rss" htmlUrl=""/>
-    <outline type="rss" text="Podcast - Echoinnovate IT - Web &amp; Mobile App Development Technologies Podcast" title="Podcast - Echoinnovate IT - Web &amp; Mobile App Development Technologies Podcast" xmlUrl="https://anchor.fm/s/e6ccb78/podcast/rss" htmlUrl=""/>
-    <outline type="rss" text="Podcast - Now in Android" title="Podcast - Now in Android" xmlUrl="https://feeds.libsyn.com/244409/rss" htmlUrl=""/>
+    <outline type="rss" text="Kotlin Coroutine Confidence (PragProg)" title="Kotlin Coroutine Confidence (PragProg)" xmlUrl="https://forum.devtalk.com/t/kotlin-coroutine-confidence-pragprog/191722.rss" htmlUrl=""/>
+    <outline type="rss" text="My life with Android :-)" title="My life with Android :-)" xmlUrl="http://mylifewithandroid.blogspot.com/feeds/posts/default" htmlUrl="http://mylifewithandroid.blogspot.com/"/>
+    <outline type="rss" text="No Plugins, No Problem: Integrating TAK, Meshtastic, and iOS" title="No Plugins, No Problem: Integrating TAK, Meshtastic, and iOS" xmlUrl="https://meshtastic.org/blog/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="One Big Photo" title="One Big Photo" xmlUrl="http://feeds.feedburner.com/OneBigPhoto" htmlUrl=""/>
+    <outline type="rss" text="OS X and iOS Internals - The RSS Feed" title="OS X and iOS Internals - The RSS Feed" xmlUrl="http://newosxbook.com/index.php?format=rss" htmlUrl="http://www.newosxbook.com/"/>
+    <outline type="rss" text="Paul McCartney performs at Taylor Swift’s wedding" title="Paul McCartney performs at Taylor Swift’s wedding" xmlUrl="https://www.beatlesbible.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Ponder for iOS" title="Ponder for iOS" xmlUrl="https://kevuhnn.com/feed" htmlUrl=""/>
     <outline type="rss" text="ProAndroidDev - Medium" title="ProAndroidDev - Medium" xmlUrl="https://proandroiddev.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Public Object" title="Public Object" xmlUrl="https://publicobject.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Romain Guy" title="Romain Guy" xmlUrl="https://www.romainguy.dev/posts/index.xml" htmlUrl=""/>
-    <outline type="rss" text="Saket Narayan" title="Saket Narayan" xmlUrl="https://saket.me/feed" htmlUrl=""/>
+    <outline type="rss" text="pskonsult PX1: dual-layer DX-7-style FM Synthesizer plugin for iOS and macOS" title="pskonsult PX1: dual-layer DX-7-style FM Synthesizer plugin for iOS and macOS" xmlUrl="https://synthanatomy.com/feed" htmlUrl=""/>
+    <outline type="rss" text="r/iPhone" title="r/iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" htmlUrl=""/>
+    <outline type="rss" text="Samsung CEO Slams Korean iPhone Obsession: Why So Many?" title="Samsung CEO Slams Korean iPhone Obsession: Why So Many?" xmlUrl="https://jasondeegan.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Security Engineering Blog" title="Security Engineering Blog" xmlUrl="https://bughunters.google.com/feed/en" htmlUrl="https://bughunters.google.com/blog"/>
+    <outline type="rss" text="StyleFolio Apple iPad 10.9-11-inch (2022-2025 - 10th/11th gen A16) Case" title="StyleFolio Apple iPad 10.9-11-inch (2022-2025 - 10th/11th gen A16) Case" xmlUrl="https://speckproducts.com/collections/all-ipad.atom" htmlUrl=""/>
+    <outline type="rss" text="Suicoey 10-inch Tablet Android 16" title="Suicoey 10-inch Tablet Android 16" xmlUrl="https://www.reviews-tablet.com/feed" htmlUrl=""/>
+    <outline type="rss" text="SuspeKt" title="SuspeKt" xmlUrl="https://www.suspekt.org/feed" htmlUrl="https://www.suspekt.org"/>
     <outline type="rss" text="Swift by Sundell" title="Swift by Sundell" xmlUrl="https://www.swiftbysundell.com/feed.rss" htmlUrl=""/>
-    <outline type="rss" text="SwiftRocks" title="SwiftRocks" xmlUrl="https://swiftrocks.com/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="TalkAndroid" title="TalkAndroid" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" htmlUrl=""/>
+    <outline type="rss" text="Swift Goes Live with New Blockchain-Based Ledger" title="Swift Goes Live with New Blockchain-Based Ledger" xmlUrl="https://finovate.com/feed" htmlUrl=""/>
     <outline type="rss" text="Talking Kotlin" title="Talking Kotlin" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss" htmlUrl=""/>
+    <outline type="rss" text="Taylor Swift &amp; Travis Kelce Spotted on Post-Wedding Vacation with Family, Destination Revealed" title="Taylor Swift &amp; Travis Kelce Spotted on Post-Wedding Vacation with Family, Destination Revealed" xmlUrl="https://www.justjared.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Taylor Swift and Travis Kelce House Hunting in NYC for Their First Property: ‘Building One Life’…" title="Taylor Swift and Travis Kelce House Hunting in NYC for Their First Property: ‘Building One Life’…" xmlUrl="https://newsgho.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Taylor Swift walked down the aisle at her wedding to her own song — find out which one" title="Taylor Swift walked down the aisle at her wedding to her own song — find out which one" xmlUrl="https://www.hellomagazine.com/feeds/rss/uk/brides/any/50.xml" htmlUrl=""/>
     <outline type="rss" text="The Android Arsenal" title="The Android Arsenal" xmlUrl="https://feeds.feedburner.com/Android_Arsenal" htmlUrl=""/>
-    <outline type="rss" text="The Atomic Birdhouse" title="The Atomic Birdhouse" xmlUrl="https://atomicbird.com/index.xml" htmlUrl=""/>
-    <outline type="rss" text="The Desolation of Blog" title="The Desolation of Blog" xmlUrl="https://lapcatsoftware.com/articles/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="The Loop" title="The Loop" xmlUrl="https://www.loopinsight.com/feed" htmlUrl=""/>
-    <outline type="rss" text="The unofficial Apple community" title="The unofficial Apple community" xmlUrl="https://www.reddit.com/r/apple/.rss" htmlUrl=""/>
-    <outline type="rss" text="Tomoko RD - Telegram Channel" title="Tomoko RD - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/tomoko_channel" htmlUrl=""/>
-    <outline type="rss" text="tyler.io" title="tyler.io" xmlUrl="https://tyler.io/feed" htmlUrl=""/>
+    <outline type="rss" text="The Cobra Den Blog" title="The Cobra Den Blog" xmlUrl="http://blog.thecobraden.com/feeds/posts/default" htmlUrl="http://blog.thecobraden.com/"/>
+    <outline type="rss" text="This week’s best Apple deals: Apple Watch Ultra 3, AirPods, iPhone 17 Pro, Magic Mouse, more from $18" title="This week’s best Apple deals: Apple Watch Ultra 3, AirPods, iPhone 17 Pro, Magic Mouse, more from $18" xmlUrl="https://9to5toys.com/feed" htmlUrl=""/>
+    <outline type="rss" text="TouchArcade - iPhone, iPad, Android Games Forum" title="TouchArcade - iPhone, iPad, Android Games Forum" xmlUrl="https://toucharcade.com/community/forums/-/index.rss" htmlUrl=""/>
     <outline type="rss" text="Use Your Loaf - iOS Development News &amp; Tips" title="Use Your Loaf - iOS Development News &amp; Tips" xmlUrl="https://useyourloaf.com/blog/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Zac Sweers" title="Zac Sweers" xmlUrl="https://www.zacsweers.dev/rss" htmlUrl=""/>
-    <outline type="rss" text="Zach Klippenstein’s Blog" title="Zach Klippenstein’s Blog" xmlUrl="https://blog.zachklipp.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Zarah Dominguez" title="Zarah Dominguez" xmlUrl="https://zarah.dev/feed.xml" htmlUrl=""/>
-    <outline type="rss" text=" Apple Nuts - Telegram Channel" title=" Apple Nuts - Telegram Channel" xmlUrl="https://rsshub.imlg.co/telegram/channel/AppleNuts" htmlUrl=""/>
+    <outline type="rss" text="v0(@v0)" title="v0(@v0)" xmlUrl="https://api.xgo.ing/rss/user/dbf37973e6fc4eae91d4be9669a78fc7" htmlUrl=""/>
+    <outline type="rss" text="Wear OS 7: New Features Coming to Android Smartwatches in 2026" title="Wear OS 7: New Features Coming to Android Smartwatches in 2026" xmlUrl="https://celest-watches.com/feed" htmlUrl=""/>
   </body>
 </opml>

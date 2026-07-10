@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>awesome-rss-feeds · AI News &amp; Insights</title>
+    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="AI Legislative Update: July 10, 2026" title="AI Legislative Update: July 10, 2026" xmlUrl="https://www.transparencycoalition.ai/news?format=rss" htmlUrl=""/>
+    <outline type="rss" text="AI News Wrap-Up: 8th July 2026" title="AI News Wrap-Up: 8th July 2026" xmlUrl="https://www.aiassistantstore.com/blogs/latest-news.atom" htmlUrl=""/>
+    <outline type="rss" text="Ai2 News (Allen Institute for AI)" title="Ai2 News (Allen Institute for AI)" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/allenai-news.xml" htmlUrl="https://allenai.org/news"/>
+    <outline type="rss" text="Artificial Intelligence News — Newsletter on Deep Learning &amp; AI" title="Artificial Intelligence News — Newsletter on Deep Learning &amp; AI" xmlUrl="http://aiweekly.co/issues.rss" htmlUrl="http://aiweekly.co/"/>
+    <outline type="rss" text="Banning 7-OH Will Make Consumers Less Safe" title="Banning 7-OH Will Make Consumers Less Safe" xmlUrl="https://www.painnewsnetwork.org/stories?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/"/>
+    <outline type="rss" text="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" title="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" xmlUrl="https://www.signalbloom.ai/news/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="How to shrink the token budget without shrinking the team" title="How to shrink the token budget without shrinking the team" xmlUrl="https://www.artificialintelligence-news.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Mistral News" title="Mistral News" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/mistral-news.xml" htmlUrl="https://mistral.ai/news"/>
+    <outline type="rss" text="News Roundup July 2026" title="News Roundup July 2026" xmlUrl="https://www.greenairnews.com/?feed=rss2" htmlUrl=""/>
+    <outline type="rss" text="Science Daily AI News" title="Science Daily AI News" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/"/>
+    <outline type="rss" text="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" title="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" xmlUrl="https://genainews.tech/feed" htmlUrl=""/>
+    <outline type="rss" text="TLDR AI" title="TLDR AI" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/tldr-ai.xml" htmlUrl="https://tldr.tech/ai/archives"/>
+    <outline type="rss" text="Why easyJet Prefers Apollo Over Castlelake" title="Why easyJet Prefers Apollo Over Castlelake" xmlUrl="https://airinsight.com/feed" htmlUrl=""/>
+  </body>
+</opml>

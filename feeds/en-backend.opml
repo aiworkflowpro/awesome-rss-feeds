@@ -2,90 +2,295 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Backend &amp; Systems</title>
-    <dateCreated>2026-07-10T18:45:29Z</dateCreated>
+    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
   </head>
   <body>
-    <outline type="rss" text="antirez.com" title="antirez.com" xmlUrl="http://antirez.com/rss" htmlUrl=""/>
-    <outline type="rss" text="arighi's blog" title="arighi's blog" xmlUrl="http://arighi.blogspot.com/feeds/posts/default" htmlUrl=""/>
-    <outline type="rss" text="Armin Ronacher's Thoughts and Writings" title="Armin Ronacher's Thoughts and Writings" xmlUrl="https://lucumr.pocoo.org/feed.atom" htmlUrl=""/>
-    <outline type="rss" text="beej.us" title="beej.us" xmlUrl="https://beej.us/blog/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Ben Hoyt's technical writing" title="Ben Hoyt's technical writing" xmlUrl="https://benhoyt.com/writings/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="bernsteinbear.com" title="bernsteinbear.com" xmlUrl="https://bernsteinbear.com/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Brendan Gregg's Blog" title="Brendan Gregg's Blog" xmlUrl="http://www.brendangregg.com/blog/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="buttondown.com/hillelwayne" title="buttondown.com/hillelwayne" xmlUrl="https://buttondown.com/hillelwayne/rss" htmlUrl=""/>
-    <outline type="rss" text="Cay Horstmann's Unblog" title="Cay Horstmann's Unblog" xmlUrl="https://horstmann.com/unblog/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Chris James - Software developer" title="Chris James - Software developer" xmlUrl="https://quii.dev/rss" htmlUrl=""/>
-    <outline type="rss" text="Compilers Team" title="Compilers Team" xmlUrl="https://blogs.igalia.com/compilers/feed" htmlUrl=""/>
-    <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="https://danluu.com/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Daniel Immke's Blog Posts" title="Daniel Immke's Blog Posts" xmlUrl="https://daniel.do/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="David Heinemeier Hansson" title="David Heinemeier Hansson" xmlUrl="https://world.hey.com/dhh/feed.atom" htmlUrl=""/>
-    <outline type="rss" text="Dennis Schubert - Blog" title="Dennis Schubert - Blog" xmlUrl="https://overengineer.dev/blog/feeds/all.xml" htmlUrl=""/>
-    <outline type="rss" text="devblogs.microsoft.com/oldnewthing" title="devblogs.microsoft.com/oldnewthing" xmlUrl="https://devblogs.microsoft.com/oldnewthing/feed" htmlUrl=""/>
-    <outline type="rss" text="devever.net/~hl" title="devever.net/~hl" xmlUrl="https://www.devever.net/~hl/index.feed" htmlUrl=""/>
-    <outline type="rss" text="Dhananjay Kumar" title="Dhananjay Kumar" xmlUrl="http://debugmode.net/feed" htmlUrl=""/>
-    <outline type="rss" text="eli.thegreenplace.net" title="eli.thegreenplace.net" xmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Embedded in Academia" title="Embedded in Academia" xmlUrl="http://blog.regehr.org/feed" htmlUrl=""/>
-    <outline type="rss" text="Eyes Above The Waves" title="Eyes Above The Waves" xmlUrl="https://robert.ocallahan.org/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="fabiensanglard.net" title="fabiensanglard.net" xmlUrl="https://fabiensanglard.net/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="gilesthomas.com" title="gilesthomas.com" xmlUrl="https://gilesthomas.com/feed/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Go Blog" title="Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl=""/>
-    <outline type="rss" text="High Growth Engineering" title="High Growth Engineering" xmlUrl="https://highgrowthengineering.substack.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Holovaty.com" title="Holovaty.com" xmlUrl="http://www.holovaty.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Hugo Tunius - Blog" title="Hugo Tunius - Blog" xmlUrl="https://hugotunius.se/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Ian Bicking" title="Ian Bicking" xmlUrl="http://www.ianbicking.org/feeds/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="IETF Blog" title="IETF Blog" xmlUrl="http://www.ietf.org/blog/feed" htmlUrl=""/>
-    <outline type="rss" text="In Pursuit of Laziness" title="In Pursuit of Laziness" xmlUrl="http://manishearth.github.io/atom.xml" htmlUrl=""/>
+    <outline type="rss" text="(Slightly) Random Broken Thoughts" title="(Slightly) Random Broken Thoughts" xmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/feeds/posts/default" htmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/"/>
+    <outline type="rss" text="128 nops and counting" title="128 nops and counting" xmlUrl="https://carstein.github.io/feed.xml" htmlUrl="https://carstein.github.io/"/>
+    <outline type="rss" text="460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall" title="460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall" xmlUrl="https://www.thedrive.com/feed" htmlUrl=""/>
+    <outline type="rss" text="460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall" title="460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall" xmlUrl="https://www.thedrive.com/category/news/feed" htmlUrl=""/>
+    <outline type="rss" text="460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall" title="460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall" xmlUrl="https://www.thedrive.com/category/news-by-brand/feed" htmlUrl=""/>
+    <outline type="rss" text="611 Days Since / 852 Days to Go" title="611 Days Since / 852 Days to Go" xmlUrl="https://adailyactofresistance.com/feed" htmlUrl=""/>
+    <outline type="rss" text="95 to go" title="95 to go" xmlUrl="https://archivetvmusings.blog/feed" htmlUrl=""/>
+    <outline type="rss" text="[RODEN] Go Knicks, A Better Goodreads, 'Cheap' Killer Films" title="[RODEN] Go Knicks, A Better Goodreads, 'Cheap' Killer Films" xmlUrl="https://craigmod.com/index.xml" htmlUrl=""/>
+    <outline type="rss" text="A box of chocolate" title="A box of chocolate" xmlUrl="http://dakutenpura.hatenablog.com/feed" htmlUrl="https://dakutenpura.hatenablog.com/"/>
+    <outline type="rss" text="A Pastoral Statement on the Death of Lorenzo Salgado Araujo" title="A Pastoral Statement on the Death of Lorenzo Salgado Araujo" xmlUrl="https://um-insight.net/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="a16z(@a16z)" title="a16z(@a16z)" xmlUrl="https://api.xgo.ing/rss/user/f3fedf817599470dbf8d8d11f0872475" htmlUrl=""/>
+    <outline type="rss" text="Aadit Sheth(@aaditsh)" title="Aadit Sheth(@aaditsh)" xmlUrl="https://api.xgo.ing/rss/user/179bcc4b8e5d4274b6e9e935f9fd4434" htmlUrl=""/>
+    <outline type="rss" text="Accounting Analyst" title="Accounting Analyst" xmlUrl="https://remotejobshub.app/api/latest-jobs-feed" htmlUrl=""/>
+    <outline type="rss" text="ACT federal redistribution finalised – live" title="ACT federal redistribution finalised – live" xmlUrl="https://www.tallyroom.com.au/feed" htmlUrl=""/>
+    <outline type="rss" text="Adam D'Angelo(@adamdangelo)" title="Adam D'Angelo(@adamdangelo)" xmlUrl="https://api.xgo.ing/rss/user/3042b6f912b24f64982cc23f7bd59681" htmlUrl=""/>
+    <outline type="rss" text="Adding Redis and Sidekiq to your Ruby on Rails app" title="Adding Redis and Sidekiq to your Ruby on Rails app" xmlUrl="https://railsnotes.xyz/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="AI at Meta(@AIatMeta)" title="AI at Meta(@AIatMeta)" xmlUrl="https://api.xgo.ing/rss/user/ef7c70f9568d45f4915169fef4ce90b4" htmlUrl=""/>
+    <outline type="rss" text="AI Breakfast(@AiBreakfast)" title="AI Breakfast(@AiBreakfast)" xmlUrl="https://api.xgo.ing/rss/user/0e3ebaf288014c45b0d24b71fe37312b" htmlUrl=""/>
+    <outline type="rss" text="AI SDK(@aisdk)" title="AI SDK(@aisdk)" xmlUrl="https://api.xgo.ing/rss/user/22af005b21ec45b1a4503acca777b7f0" htmlUrl=""/>
+    <outline type="rss" text="AI Will(@FinanceYF5)" title="AI Will(@FinanceYF5)" xmlUrl="https://api.xgo.ing/rss/user/aa74321087f9405a872fd9a76b743bf8" htmlUrl=""/>
+    <outline type="rss" text="Akshay Kothari(@akothari)" title="Akshay Kothari(@akothari)" xmlUrl="https://api.xgo.ing/rss/user/3434c0d56ee0446f991fb6af42bfac4b" htmlUrl=""/>
+    <outline type="rss" text="Alex Albert(@alexalbert__)" title="Alex Albert(@alexalbert__)" xmlUrl="https://api.xgo.ing/rss/user/524525de0d69407b80f0a7d891fdc8df" htmlUrl=""/>
+    <outline type="rss" text="Aman Sanger(@amanrsanger)" title="Aman Sanger(@amanrsanger)" xmlUrl="https://api.xgo.ing/rss/user/a02496979a0e4d86baf2b72c24db52a4" htmlUrl=""/>
+    <outline type="rss" text="Amjad Masad(@amasad)" title="Amjad Masad(@amasad)" xmlUrl="https://api.xgo.ing/rss/user/5fb1814c610c4af2911caa98c5c5ef82" htmlUrl=""/>
+    <outline type="rss" text="Andrej Karpathy(@karpathy)" title="Andrej Karpathy(@karpathy)" xmlUrl="https://api.xgo.ing/rss/user/edf707b5c0b248579085f66d7a3c5524" htmlUrl=""/>
+    <outline type="rss" text="Andrew Ng(@AndrewYNg)" title="Andrew Ng(@AndrewYNg)" xmlUrl="https://api.xgo.ing/rss/user/08b5488b20bc437c8bfc317a52e5c26d" htmlUrl=""/>
+    <outline type="rss" text="Anthropic(@AnthropicAI)" title="Anthropic(@AnthropicAI)" xmlUrl="https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5" htmlUrl=""/>
+    <outline type="rss" text="Anton Osika – eu/acc(@antonosika)" title="Anton Osika – eu/acc(@antonosika)" xmlUrl="https://api.xgo.ing/rss/user/5f13b32b124a41cfb659f903a84032b1" htmlUrl=""/>
+    <outline type="rss" text="API Security" title="API Security" xmlUrl="https://festivus.dev/index.xml" htmlUrl=""/>
+    <outline type="rss" text="API Security News » Feed" title="API Security News » Feed" xmlUrl="https://apisecurity.io/feed/index.xml" htmlUrl="https://apisecurity.io"/>
+    <outline type="rss" text="Aravind Srinivas(@AravSrinivas)" title="Aravind Srinivas(@AravSrinivas)" xmlUrl="https://api.xgo.ing/rss/user/59e6b63ae9684d11be0ae13d9e7420f2" htmlUrl=""/>
+    <outline type="rss" text="arighi's blog" title="arighi's blog" xmlUrl="http://arighi.blogspot.com/feeds/posts/default" htmlUrl="http://arighi.blogspot.com/"/>
+    <outline type="rss" text="Arthur Mensch(@arthurmensch)" title="Arthur Mensch(@arthurmensch)" xmlUrl="https://api.xgo.ing/rss/user/d8121d969fb34c7daad2dd2aac4ba270" htmlUrl=""/>
+    <outline type="rss" text="Articles on Podalirius" title="Articles on Podalirius" xmlUrl="https://podalirius.net/en/articles/index.xml" htmlUrl="https://podalirius.net/en/articles/"/>
+    <outline type="rss" text="As Equal Times closes, the work continues" title="As Equal Times closes, the work continues" xmlUrl="https://equaltimes.org/spip.php?page=backend" htmlUrl=""/>
+    <outline type="rss" text="As Equal Times closes, the work continues" title="As Equal Times closes, the work continues" xmlUrl="https://www.equaltimes.org/spip.php?page=backend" htmlUrl=""/>
+    <outline type="rss" text="Augment Code(@augmentcode)" title="Augment Code(@augmentcode)" xmlUrl="https://api.xgo.ing/rss/user/e153fdd077df458b8298d975c060dcc3" htmlUrl=""/>
+    <outline type="rss" text="Australia’s First National Database of Mycorrhizal Fungi Reveals Hidden Biodiversity Beneath Our Feet" title="Australia’s First National Database of Mycorrhizal Fungi Reveals Hidden Biodiversity Beneath Our Feet" xmlUrl="https://www.azolifesciences.com/syndication.axd?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Axios" title="Axios" xmlUrl="https://api.axios.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Barman 3.19.0 and 3.19.1 Released" title="Barman 3.19.0 and 3.19.1 Released" xmlUrl="https://www.postgresql.org/news.rss" htmlUrl=""/>
+    <outline type="rss" text="Barsee 🐶(@heyBarsee)" title="Barsee 🐶(@heyBarsee)" xmlUrl="https://api.xgo.ing/rss/user/244eb9fa77ce4fa3b7fa5ceba80027a4" htmlUrl=""/>
+    <outline type="rss" text="BE API Developer C2C jobs Dallas, TX" title="BE API Developer C2C jobs Dallas, TX" xmlUrl="https://corptocorp.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Binyuan Hui(@huybery)" title="Binyuan Hui(@huybery)" xmlUrl="https://api.xgo.ing/rss/user/f54b2b40185943ce8f48a880110b7bc2" htmlUrl=""/>
+    <outline type="rss" text="Bitdefender Labs" title="Bitdefender Labs" xmlUrl="https://www.bitdefender.com/blog/api/rss/labs" htmlUrl="https://www.bitdefender.com/blog/labs/"/>
+    <outline type="rss" text="Blackhat Library" title="Blackhat Library" xmlUrl="http://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/"/>
+    <outline type="rss" text="Blog - Atredis Partners" title="Blog - Atredis Partners" xmlUrl="https://www.atredis.com/blog?format=RSS" htmlUrl="https://www.atredis.com/blog/"/>
+    <outline type="rss" text="bolt.new(@boltdotnew)" title="bolt.new(@boltdotnew)" xmlUrl="https://api.xgo.ing/rss/user/760ab7cd9708452c9ce1f9144b92a430" htmlUrl=""/>
+    <outline type="rss" text="British Columbia, Time Zones, and Postgres" title="British Columbia, Time Zones, and Postgres" xmlUrl="https://www.crunchydata.com/blog/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Capitol Hill bars go into ‘extra time’ to bring games to sportsball fans" title="Capitol Hill bars go into ‘extra time’ to bring games to sportsball fans" xmlUrl="https://www.capitolhillseattle.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Cardona: Salt of the Earth" title="Cardona: Salt of the Earth" xmlUrl="https://www.barcelona-metropolitan.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="Care Assistant" title="Care Assistant" xmlUrl="https://www.jobsinuk.app/api/latest-jobs-feed" htmlUrl=""/>
+    <outline type="rss" text="Character.AI(@character_ai)" title="Character.AI(@character_ai)" xmlUrl="https://api.xgo.ing/rss/user/3877c31cdb554cffb750b3b683c98c4d" htmlUrl=""/>
+    <outline type="rss" text="Charleston Farmers Market Adjust Hours for July 11 Due to Forecasted Heat Conditions" title="Charleston Farmers Market Adjust Hours for July 11 Due to Forecasted Heat Conditions" xmlUrl="https://holycitysinner.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="ChatGPT(@ChatGPTapp)" title="ChatGPT(@ChatGPTapp)" xmlUrl="https://api.xgo.ing/rss/user/f7992687b8d74b14bf2341eb3a0a5ec4" htmlUrl=""/>
+    <outline type="rss" text="Chinese AI models are eating into OpenAI and Anthropic’s API business, but it's not a bad news for your business" title="Chinese AI models are eating into OpenAI and Anthropic’s API business, but it's not a bad news for your business" xmlUrl="https://mixed-news.com/en/feed" htmlUrl=""/>
+    <outline type="rss" text="clem 🤗(@ClementDelangue)" title="clem 🤗(@ClementDelangue)" xmlUrl="https://api.xgo.ing/rss/user/5dbd038a8f5140938d0877511571797b" htmlUrl=""/>
+    <outline type="rss" text="cloud world" title="cloud world" xmlUrl="https://cloudsjhan.github.io/atom.xml" htmlUrl="/atom.xml"/>
+    <outline type="rss" text="Cognition(@cognition_labs)" title="Cognition(@cognition_labs)" xmlUrl="https://api.xgo.ing/rss/user/4cc14cbd15c74e189d537c415369e1a7" htmlUrl=""/>
+    <outline type="rss" text="cohere(@cohere)" title="cohere(@cohere)" xmlUrl="https://api.xgo.ing/rss/user/462aa134ed914f98b3491680ad9b36ed" htmlUrl=""/>
+    <outline type="rss" text="Colin and Justin: Why stripes never go out of style" title="Colin and Justin: Why stripes never go out of style" xmlUrl="https://ottawasun.com/feed/atom" htmlUrl=""/>
+    <outline type="rss" text="Construction starts on Grimsby GO Station with standardized design" title="Construction starts on Grimsby GO Station with standardized design" xmlUrl="https://www.ontarioconstructionnews.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Crowds Brawl With Recruiters In Lviv In Latest Clash Over Mobilization" title="Crowds Brawl With Recruiters In Lviv In Latest Clash Over Mobilization" xmlUrl="https://www.rferl.org/api" htmlUrl=""/>
+    <outline type="rss" text="Crowds Brawl With Recruiters In Lviv In Latest Clash Over Mobilization" title="Crowds Brawl With Recruiters In Lviv In Latest Clash Over Mobilization" xmlUrl="http://www.rferl.org/api" htmlUrl=""/>
+    <outline type="rss" text="Cruel to Be Kind, Cool to Be Masked: Nick Lowe and Los Straitjackets Return to Milwaukee" title="Cruel to Be Kind, Cool to Be Masked: Nick Lowe and Los Straitjackets Return to Milwaukee" xmlUrl="https://shepherdexpress.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="Cursor(@cursor_ai)" title="Cursor(@cursor_ai)" xmlUrl="https://api.xgo.ing/rss/user/5287b4e0e13a4ab7ab7b1d56f9d88960" htmlUrl=""/>
+    <outline type="rss" text="d0c_s4vage" title="d0c_s4vage" xmlUrl="http://d0cs4vage.blogspot.com/feeds/posts/default" htmlUrl="http://d0cs4vage.blogspot.com/"/>
+    <outline type="rss" text="Dario Amodei(@DarioAmodei)" title="Dario Amodei(@DarioAmodei)" xmlUrl="https://api.xgo.ing/rss/user/49666ce6fe3e4cb786c6574684542ec5" htmlUrl=""/>
+    <outline type="rss" text="Debugging ETW Event Drops in High-Throughput Applications" title="Debugging ETW Event Drops in High-Throughput Applications" xmlUrl="https://yasoob.me/index.xml" htmlUrl=""/>
+    <outline type="rss" text="DeepLearning.AI(@DeepLearningAI)" title="DeepLearning.AI(@DeepLearningAI)" xmlUrl="https://api.xgo.ing/rss/user/42e6b4901b97498eab2ab64c07d56177" htmlUrl=""/>
+    <outline type="rss" text="DeepSeek(@deepseek_ai)" title="DeepSeek(@deepseek_ai)" xmlUrl="https://api.xgo.ing/rss/user/68b610deb24b47ae9a236811563cda86" htmlUrl=""/>
+    <outline type="rss" text="Demis Hassabis(@demishassabis)" title="Demis Hassabis(@demishassabis)" xmlUrl="https://api.xgo.ing/rss/user/4a884d5e2f3740c5a26c9c093de6388a" htmlUrl=""/>
+    <outline type="rss" text="Dify(@dify_ai)" title="Dify(@dify_ai)" xmlUrl="https://api.xgo.ing/rss/user/0be252fedbe84ad7bea21be44b18da89" htmlUrl=""/>
+    <outline type="rss" text="Director, Software Engineering - Remote" title="Director, Software Engineering - Remote" xmlUrl="https://www.remoteitjobs.app/api/latest-jobs-feed" htmlUrl=""/>
+    <outline type="rss" text="dotcppfile's Blog" title="dotcppfile's Blog" xmlUrl="https://dotcppfile.wordpress.com/feed" htmlUrl="https://dotcppfile.wordpress.com"/>
+    <outline type="rss" text="Dr Alice Corbella" title="Dr Alice Corbella" xmlUrl="https://warwick.ac.uk/sitebuilder2/api/rss/siteChanges.rss?page=%2Ffac%2Fsci%2Fstatistics" htmlUrl=""/>
+    <outline type="rss" text="ElevenLabs Blog" title="ElevenLabs Blog" xmlUrl="https://api.bestblogs.dev/feed/elevenLabsBlog" htmlUrl=""/>
+    <outline type="rss" text="ElevenLabs(@elevenlabsio)" title="ElevenLabs(@elevenlabsio)" xmlUrl="https://api.xgo.ing/rss/user/1897eed387064dfab443764d6da50bc6" htmlUrl=""/>
+    <outline type="rss" text="elvis(@omarsar0)" title="elvis(@omarsar0)" xmlUrl="https://api.xgo.ing/rss/user/931d6e88e067496cac6bf23f69d60f33" htmlUrl=""/>
+    <outline type="rss" text="Empty Nest? Horses Can Help You Rediscover Yourself" title="Empty Nest? Horses Can Help You Rediscover Yourself" xmlUrl="https://equineguidedgrowth.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Episode 55 - May 31, 2026 - Matt Kercher" title="Episode 55 - May 31, 2026 - Matt Kercher" xmlUrl="https://api.substack.com/feed/podcast/2274525.rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 85: Go 4th! (of July)" title="Episode 85: Go 4th! (of July)" xmlUrl="https://feeds.buzzsprout.com/2079783.rss" htmlUrl=""/>
+    <outline type="rss" text="Eric Jing(@ericjing_ai)" title="Eric Jing(@ericjing_ai)" xmlUrl="https://api.xgo.ing/rss/user/ddfdcdd4e390495c942f0b5da62af0fb" htmlUrl=""/>
+    <outline type="rss" text="eric zakariasson(@ericzakariasson)" title="eric zakariasson(@ericzakariasson)" xmlUrl="https://api.xgo.ing/rss/user/65f321be670b4ffba7f40d0afd38c94d" htmlUrl=""/>
+    <outline type="rss" text="Everyday Grammar Video: Ramen, A Popular Food in Japan" title="Everyday Grammar Video: Ramen, A Popular Food in Japan" xmlUrl="https://learningenglish.voanews.com/api" htmlUrl=""/>
+    <outline type="rss" text="Exclusive First Look: MG’s Bold New Future! GO! Hatch, Cyber SUV and Self-Driving Tech Revealed" title="Exclusive First Look: MG’s Bold New Future! GO! Hatch, Cyber SUV and Self-Driving Tech Revealed" xmlUrl="https://browncarguy.com/feed" htmlUrl=""/>
+    <outline type="rss" text="FED26 Redistributions – Final Boundaries Released for A.C.T." title="FED26 Redistributions – Final Boundaries Released for A.C.T." xmlUrl="https://antonygreen.com.au/feed" htmlUrl=""/>
+    <outline type="rss" text="feed" title="feed" xmlUrl="https://www.jonmellman.com/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="feed" title="feed" xmlUrl="http://feeds.feedburner.com/nczonline" htmlUrl=""/>
+    <outline type="rss" text="Fei-Fei Li(@drfeifei)" title="Fei-Fei Li(@drfeifei)" xmlUrl="https://api.xgo.ing/rss/user/a4bfe44bfc0d4c949da21ebd3f5f42a5" htmlUrl=""/>
+    <outline type="rss" text="Fellou(@FellouAI)" title="Fellou(@FellouAI)" xmlUrl="https://api.xgo.ing/rss/user/326763c2f6154826babcfd71c5ab0f70" htmlUrl=""/>
+    <outline type="rss" text="Festive offers for books on Python, Linux, Regular Expressions, Vim and more!" title="Festive offers for books on Python, Linux, Regular Expressions, Vim and more!" xmlUrl="https://learnbyexample.github.io/atom.xml" htmlUrl=""/>
+    <outline type="rss" text="Figma(@figma)" title="Figma(@figma)" xmlUrl="https://api.xgo.ing/rss/user/f8a106a09a7d404fb8de7eb0c5ddd2a2" htmlUrl=""/>
+    <outline type="rss" text="Firecrawl(@firecrawl_dev)" title="Firecrawl(@firecrawl_dev)" xmlUrl="https://api.xgo.ing/rss/user/c04abb206bbf4f91b22795024d6c0614" htmlUrl=""/>
+    <outline type="rss" text="FireShell Security Team" title="FireShell Security Team" xmlUrl="https://fireshellsecurity.team/feed.xml" htmlUrl="https://fireshellsecurity.team/"/>
+    <outline type="rss" text="Fish Audio(@FishAudio)" title="Fish Audio(@FishAudio)" xmlUrl="https://api.xgo.ing/rss/user/4900b3dcd592424687582ff9e0f148ea" htmlUrl=""/>
+    <outline type="rss" text="Fish Go Deep Radio Show 2026-13" title="Fish Go Deep Radio Show 2026-13" xmlUrl="http://godeep.libsyn.com/rss" htmlUrl=""/>
+    <outline type="rss" text="FlowiseAI(@FlowiseAI)" title="FlowiseAI(@FlowiseAI)" xmlUrl="https://api.xgo.ing/rss/user/be74da51698d4cefb12b39830d6cd201" htmlUrl=""/>
+    <outline type="rss" text="Former Shorewood Hills president files legal challenge over ouster" title="Former Shorewood Hills president files legal challenge over ouster" xmlUrl="https://isthmus.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="Foss4g NL: late afternoon sessions (web components + railway API + long-living data)" title="Foss4g NL: late afternoon sessions (web components + railway API + long-living data)" xmlUrl="http://reinout.vanrees.org/weblog/atom.xml" htmlUrl=""/>
+    <outline type="rss" text="Free Outdoor Movies in Stamford: Harbor Point's Movies in the Park Returns This Summer" title="Free Outdoor Movies in Stamford: Harbor Point's Movies in the Park Returns This Summer" xmlUrl="https://www.heystamford.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="Friday miscellany: Morgan poll, by-election and redistribution news, Tasmanian state poll (open thread)" title="Friday miscellany: Morgan poll, by-election and redistribution news, Tasmanian state poll (open thread)" xmlUrl="https://www.pollbludger.net/feed" htmlUrl=""/>
+    <outline type="rss" text="Gamozo Labs Blog" title="Gamozo Labs Blog" xmlUrl="https://gamozolabs.github.io/feed.xml" htmlUrl="https://gamozolabs.github.io/"/>
+    <outline type="rss" text="Gear Up for the GO Tour: Why Your Feet Are the Most Important Part of Your Kalos Tour" title="Gear Up for the GO Tour: Why Your Feet Are the Most Important Part of Your Kalos Tour" xmlUrl="https://dandyinthebronx.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Geek(@geekbb)" title="Geek(@geekbb)" xmlUrl="https://api.xgo.ing/rss/user/9cb3b60e689e4445a7fbdfd0be144126" htmlUrl=""/>
+    <outline type="rss" text="Geoffrey Hinton(@geoffreyhinton)" title="Geoffrey Hinton(@geoffreyhinton)" xmlUrl="https://api.xgo.ing/rss/user/cb6169815e2e447e8e6148a4af3f9686" htmlUrl=""/>
+    <outline type="rss" text="Get Data from Password Protected Access Database" title="Get Data from Password Protected Access Database" xmlUrl="https://excelguru.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="GitHub(@github)" title="GitHub(@github)" xmlUrl="https://api.xgo.ing/rss/user/fa5b15f68a2e4df1ab301e26a4ab9190" htmlUrl=""/>
+    <outline type="rss" text="Go again" title="Go again" xmlUrl="https://billycarpenter.substack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Go Ask Alex: How do I leave an abusive bf when I've no money or place to go?" title="Go Ask Alex: How do I leave an abusive bf when I've no money or place to go?" xmlUrl="https://www.out.com/feeds/voices.rss" htmlUrl=""/>
+    <outline type="rss" text="Go Peat-free This Spring by Making Your Own Compost" title="Go Peat-free This Spring by Making Your Own Compost" xmlUrl="https://peatfreepartnership.org.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="Go Team!" title="Go Team!" xmlUrl="http://www.poisner.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Go+Elm vs Datastar/Go" title="Go+Elm vs Datastar/Go" xmlUrl="https://carlo-hamalainen.net/index.xml" htmlUrl=""/>
+    <outline type="rss" text="Google AI Developers(@googleaidevs)" title="Google AI Developers(@googleaidevs)" xmlUrl="https://api.xgo.ing/rss/user/69d925d4a8d44221b03eecbe07bd0f74" htmlUrl=""/>
+    <outline type="rss" text="Google AI(@GoogleAI)" title="Google AI(@GoogleAI)" xmlUrl="https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7" htmlUrl=""/>
+    <outline type="rss" text="Google Gemini App(@GeminiApp)" title="Google Gemini App(@GeminiApp)" xmlUrl="https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d" htmlUrl=""/>
+    <outline type="rss" text="grantslatton.com" title="grantslatton.com" xmlUrl="https://grantslatton.com/rss.xml" htmlUrl="https://grantslatton.com"/>
+    <outline type="rss" text="Graphic Designer (Remote)" title="Graphic Designer (Remote)" xmlUrl="https://www.designremotejobs.com/api/latest-jobs-feed" htmlUrl=""/>
+    <outline type="rss" text="Green mayoral candidate says Reform is abandoning Greater Manchester ‘to go and chase a guy with a bin on his head’" title="Green mayoral candidate says Reform is abandoning Greater Manchester ‘to go and chase a guy with a bin on his head’" xmlUrl="https://greenparty.org.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="Greg Brockman(@gdb)" title="Greg Brockman(@gdb)" xmlUrl="https://api.xgo.ing/rss/user/af19d054e26a49129f23abfa82d9e268" htmlUrl=""/>
+    <outline type="rss" text="Groq Inc(@GroqInc)" title="Groq Inc(@GroqInc)" xmlUrl="https://api.xgo.ing/rss/user/771b32075fe54a83bdb6966de9647b4f" htmlUrl=""/>
+    <outline type="rss" text="GT's Blog" title="GT's Blog" xmlUrl="http://ganeshtiwaridotcomdotnp.blogspot.com/feeds/posts/default" htmlUrl="http://blog.gtiwari333.com/"/>
+    <outline type="rss" text="Guillermo Rauch(@rauchg)" title="Guillermo Rauch(@rauchg)" xmlUrl="https://api.xgo.ing/rss/user/e8750659b8154dbfa0489f451e044af1" htmlUrl=""/>
+    <outline type="rss" text="Hailuo AI (MiniMax)(@Hailuo_AI)" title="Hailuo AI (MiniMax)(@Hailuo_AI)" xmlUrl="https://api.xgo.ing/rss/user/e65b5e59fcb544918c1ba17f5758f0f8" htmlUrl=""/>
+    <outline type="rss" text="Harrison Chase(@hwchase17)" title="Harrison Chase(@hwchase17)" xmlUrl="https://api.xgo.ing/rss/user/f299207df53745bca04a03db8d11c5aa" htmlUrl=""/>
+    <outline type="rss" text="HeyGen(@HeyGen_Official)" title="HeyGen(@HeyGen_Official)" xmlUrl="https://api.xgo.ing/rss/user/a9aff6b016c143ed8728dd86eb70d7db" htmlUrl=""/>
+    <outline type="rss" text="hidecloud(@hidecloud)" title="hidecloud(@hidecloud)" xmlUrl="https://api.xgo.ing/rss/user/23d41992b29340788aa3d09d8364c5f5" htmlUrl=""/>
+    <outline type="rss" text="Hong Kong eateries welcome dogs as city relaxes ban" title="Hong Kong eateries welcome dogs as city relaxes ban" xmlUrl="https://www.newsday.com/api/rss/recent" htmlUrl=""/>
+    <outline type="rss" text="Hong Kong eateries welcome dogs as city relaxes ban" title="Hong Kong eateries welcome dogs as city relaxes ban" xmlUrl="https://newsday.com/api/rss/recent" htmlUrl=""/>
+    <outline type="rss" text="Hotlist from Caritatech – QA Engineer/SDET/Python/Java/Product /Project Manager/QA/Salesforce/Devops/Devops Engineer" title="Hotlist from Caritatech – QA Engineer/SDET/Python/Java/Product /Project Manager/QA/Salesforce/Devops/Devops Engineer" xmlUrl="https://usstaffinginc.org/feed" htmlUrl=""/>
+    <outline type="rss" text="How does SPAM think the NCAA Men's Hockey Tournament will go?" title="How does SPAM think the NCAA Men's Hockey Tournament will go?" xmlUrl="https://6on5.substack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Hunyuan(@TXhunyuan)" title="Hunyuan(@TXhunyuan)" xmlUrl="https://api.xgo.ing/rss/user/6e8e7b42cb434818810f87bcf77d86fb" htmlUrl=""/>
+    <outline type="rss" text="Ian Goodfellow(@goodfellow_ian)" title="Ian Goodfellow(@goodfellow_ian)" xmlUrl="https://api.xgo.ing/rss/user/57831559d22440debbfb2f2528e4ba84" htmlUrl=""/>
+    <outline type="rss" text="ICE shot a dad dead in the middle of a Houston street. As details emerge, skepticism over the cops’ account grows [Obsession with Crime and Punishment]" title="ICE shot a dad dead in the middle of a Houston street. As details emerge, skepticism over the cops’ account grows [Obsession with Crime and Punishment]" xmlUrl="https://realtimefascism.com/api/feeds/all" htmlUrl=""/>
+    <outline type="rss" text="ICE shot a dad dead in the middle of a Houston street. As details emerge, skepticism over the cops’ account grows [Obsession with Crime and Punishment]" title="ICE shot a dad dead in the middle of a Houston street. As details emerge, skepticism over the cops’ account grows [Obsession with Crime and Punishment]" xmlUrl="https://www.realtimefascism.com/api/feeds/all" htmlUrl=""/>
+    <outline type="rss" text="Ideogram(@ideogram_ai)" title="Ideogram(@ideogram_ai)" xmlUrl="https://api.xgo.ing/rss/user/a719880fe66e4156a111187f50dae91b" htmlUrl=""/>
+    <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com/" htmlUrl=""/>
+    <outline type="rss" text="It's Tight, but Things Are Looking Good for Dems in November | Rick &amp; Andrew Wilson go Behind the Numbers" title="It's Tight, but Things Are Looking Good for Dems in November | Rick &amp; Andrew Wilson go Behind the Numbers" xmlUrl="https://www.lincolnsquare.media/feed" htmlUrl=""/>
+    <outline type="rss" text="It's Tight, but Things Are Looking Good for Dems in November | Rick &amp; Andrew Wilson go Behind the Numbers" title="It's Tight, but Things Are Looking Good for Dems in November | Rick &amp; Andrew Wilson go Behind the Numbers" xmlUrl="https://lincolnsquare.media/feed" htmlUrl=""/>
+    <outline type="rss" text="Java Annotated Monthly – July 2026" title="Java Annotated Monthly – July 2026" xmlUrl="https://blog.jetbrains.com/idea/feed" htmlUrl=""/>
+    <outline type="rss" text="Java Code to Calculate Harmonic Value | Java Programs" title="Java Code to Calculate Harmonic Value | Java Programs" xmlUrl="https://javatutoring.com/feed" htmlUrl=""/>
     <outline type="rss" text="Java, SQL and jOOQ." title="Java, SQL and jOOQ." xmlUrl="https://blog.jooq.org/feed" htmlUrl=""/>
-    <outline type="rss" text="Joel on Software" title="Joel on Software" xmlUrl="https://www.joelonsoftware.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Kashyap’s blog" title="Kashyap’s blog" xmlUrl="http://kgrz.io/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Kevin Cox's Blog" title="Kevin Cox's Blog" xmlUrl="https://kevincox.ca/feed.atom" htmlUrl=""/>
-    <outline type="rss" text="Kevin Sookocheff" title="Kevin Sookocheff" xmlUrl="http://sookocheff.com/index.xml" htmlUrl=""/>
-    <outline type="rss" text="knpw.rs" title="knpw.rs" xmlUrl="https://knpw.rs/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="kvark's dev blog" title="kvark's dev blog" xmlUrl="http://kvark.github.io/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Laurie On Tech Blog RSS Feed" title="Laurie On Tech Blog RSS Feed" xmlUrl="https://laurieontech.com/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Low-cost hardware and free software" title="Low-cost hardware and free software" xmlUrl="https://ferrancasanovas.wordpress.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl=""/>
+    <outline type="rss" text="Jeff Dean(@JeffDean)" title="Jeff Dean(@JeffDean)" xmlUrl="https://api.xgo.ing/rss/user/b1013166769c49f8aa3fbdc222867054" htmlUrl=""/>
+    <outline type="rss" text="Jerry Liu(@jerryjliu0)" title="Jerry Liu(@jerryjliu0)" xmlUrl="https://api.xgo.ing/rss/user/b3d904c0d7c446558ef3a1e7f2eb362b" htmlUrl=""/>
+    <outline type="rss" text="Jim Fan(@DrJimFan)" title="Jim Fan(@DrJimFan)" xmlUrl="https://api.xgo.ing/rss/user/c6cfe7c0d6b74849997073233fdea840" htmlUrl=""/>
+    <outline type="rss" text="Jina AI(@JinaAI_)" title="Jina AI(@JinaAI_)" xmlUrl="https://api.xgo.ing/rss/user/f510f6e7eecf456ca7e2895a46752888" htmlUrl=""/>
+    <outline type="rss" text="Julien Chaumond(@julien_c)" title="Julien Chaumond(@julien_c)" xmlUrl="https://api.xgo.ing/rss/user/44d9fa384087448a94d3c8595f8d535e" htmlUrl=""/>
+    <outline type="rss" text="Junyang Lin(@JustinLin610)" title="Junyang Lin(@JustinLin610)" xmlUrl="https://api.xgo.ing/rss/user/082097117b4543e9a741cd2580f936d3" htmlUrl=""/>
+    <outline type="rss" text="Justin Welsh(@thejustinwelsh)" title="Justin Welsh(@thejustinwelsh)" xmlUrl="https://api.xgo.ing/rss/user/58894bf2934a426ca833c682da2bc810" htmlUrl=""/>
+    <outline type="rss" text="Kevin Weil 🇺🇸(@kevinweil)" title="Kevin Weil 🇺🇸(@kevinweil)" xmlUrl="https://api.xgo.ing/rss/user/3ca3c7698fd04611a0e7d14fae93c84c" htmlUrl=""/>
+    <outline type="rss" text="Kim and Todd Saxton: Go for the gold! But maybe not every time." title="Kim and Todd Saxton: Go for the gold! But maybe not every time." xmlUrl="https://www.ibj.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Kling AI(@Kling_ai)" title="Kling AI(@Kling_ai)" xmlUrl="https://api.xgo.ing/rss/user/564237c3de274d58a04f064920817888" htmlUrl=""/>
+    <outline type="rss" text="Kristi Noem Begins Divorce Proceedings After Photos Purportedly Showing Her Husband Bryon Noem Cross-Dressing Go Viral" title="Kristi Noem Begins Divorce Proceedings After Photos Purportedly Showing Her Husband Bryon Noem Cross-Dressing Go Viral" xmlUrl="https://elizabethblog.com.ng/feed" htmlUrl=""/>
+    <outline type="rss" text="LAKEFRONT BREWERY INVITES WISCONSIN TO GO LONG WITH THEIR NEW YEAR-ROUND IPA, NOON GAME" title="LAKEFRONT BREWERY INVITES WISCONSIN TO GO LONG WITH THEIR NEW YEAR-ROUND IPA, NOON GAME" xmlUrl="https://allaboutbeer.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Lenny Rachitsky(@lennysan)" title="Lenny Rachitsky(@lennysan)" xmlUrl="https://api.xgo.ing/rss/user/77d5ce4736854b0ebae603e4b54d3095" htmlUrl=""/>
+    <outline type="rss" text="letter from the editor" title="letter from the editor" xmlUrl="https://fifthwheelpress.com/anth6backend?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Lex Fridman(@lexfridman)" title="Lex Fridman(@lexfridman)" xmlUrl="https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15" htmlUrl=""/>
+    <outline type="rss" text="Liberty Avenue shows how Bloomfield changed — and where it could go next" title="Liberty Avenue shows how Bloomfield changed — and where it could go next" xmlUrl="https://www.publicsource.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Lilian Weng(@lilianweng)" title="Lilian Weng(@lilianweng)" xmlUrl="https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498" htmlUrl=""/>
+    <outline type="rss" text="lmarena.ai(@lmarena_ai)" title="lmarena.ai(@lmarena_ai)" xmlUrl="https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5" htmlUrl=""/>
+    <outline type="rss" text="Logan Kilpatrick(@OfficialLoganK)" title="Logan Kilpatrick(@OfficialLoganK)" xmlUrl="https://api.xgo.ing/rss/user/4f63d960de644aeebd0aa97e4994dafe" htmlUrl=""/>
+    <outline type="rss" text="Los Valientes with Christopher Guerrero and Robert Allarte" title="Los Valientes with Christopher Guerrero and Robert Allarte" xmlUrl="https://api.substack.com/feed/podcast/3079970.rss" htmlUrl=""/>
+    <outline type="rss" text="Lovable(@lovable_dev)" title="Lovable(@lovable_dev)" xmlUrl="https://api.xgo.ing/rss/user/639cd13d44284e10ac89fbd1c5399767" htmlUrl=""/>
+    <outline type="rss" text="LovartAI(@lovart_ai)" title="LovartAI(@lovart_ai)" xmlUrl="https://api.xgo.ing/rss/user/db648e4d4eae4822aa0d34f0faef7ad2" htmlUrl=""/>
+    <outline type="rss" text="MailerSend Review 2026: I Tested Its API, SMTP &amp; Deliverability" title="MailerSend Review 2026: I Tested Its API, SMTP &amp; Deliverability" xmlUrl="https://www.emailvendorselection.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Major star shares brutally honest reaction to CM Punk winning the Undisputed WWE Championship" title="Major star shares brutally honest reaction to CM Punk winning the Undisputed WWE Championship" xmlUrl="https://internal-api.sportskeeda.com/en/v3/feeds/628" htmlUrl=""/>
+    <outline type="rss" text="ManusAI(@ManusAI_HQ)" title="ManusAI(@ManusAI_HQ)" xmlUrl="https://api.xgo.ing/rss/user/320181c4651a41a08015946b55f704ab" htmlUrl=""/>
+    <outline type="rss" text="Marc Andreessen 🇺🇸(@pmarca)" title="Marc Andreessen 🇺🇸(@pmarca)" xmlUrl="https://api.xgo.ing/rss/user/63316630d94543f5a6480f230f483008" htmlUrl=""/>
+    <outline type="rss" text="Martin Fowler(@martinfowler)" title="Martin Fowler(@martinfowler)" xmlUrl="https://api.xgo.ing/rss/user/55d2d3f3eaaf4357b3230e0b01a464d7" htmlUrl=""/>
     <outline type="rss" text="Martin Kleppmann's blog" title="Martin Kleppmann's blog" xmlUrl="https://feeds.feedburner.com/martinkl?format=xml" htmlUrl=""/>
-    <outline type="rss" text="MaskRay" title="MaskRay" xmlUrl="https://maskray.me/blog/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Maxim Orlov" title="Maxim Orlov" xmlUrl="https://maximorlov.com/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="michael.stapelberg.ch" title="michael.stapelberg.ch" xmlUrl="https://michael.stapelberg.ch/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="miguelgrinberg.com" title="miguelgrinberg.com" xmlUrl="https://blog.miguelgrinberg.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Mislav's blog" title="Mislav's blog" xmlUrl="http://mislav.net/feeds/dev.xml" htmlUrl=""/>
-    <outline type="rss" text="mitchellh.com" title="mitchellh.com" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="mrale.ph" title="mrale.ph" xmlUrl="http://mrale.ph/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="naildrivin5.com - David Bryant Copeland's Website" title="naildrivin5.com - David Bryant Copeland's Website" xmlUrl="https://www.naildrivin5.com/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Nathan's Blog" title="Nathan's Blog" xmlUrl="http://blog.mozilla.org/nfroyd/feed" htmlUrl=""/>
-    <outline type="rss" text="Necko Blog" title="Necko Blog" xmlUrl="https://mozilla-necko.github.io/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Nicholas Nethercote" title="Nicholas Nethercote" xmlUrl="https://blog.mozilla.org/nnethercote/feed" htmlUrl=""/>
-    <outline type="rss" text="Nick Craver" title="Nick Craver" xmlUrl="http://nickcraver.com/blog/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Nick Fitzgerald" title="Nick Fitzgerald" xmlUrl="http://fitzgeraldnick.com/weblog/feeds/latest-atom" htmlUrl=""/>
-    <outline type="rss" text="nikic's blog" title="nikic's blog" xmlUrl="https://nikic.github.io/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Node.js Blog" title="Node.js Blog" xmlUrl="https://nodejs.org/en/feed/blog.xml" htmlUrl=""/>
-    <outline type="rss" text="OkKotlin" title="OkKotlin" xmlUrl="https://okkotlin.com/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Paige Niedringhaus" title="Paige Niedringhaus" xmlUrl="https://www.paigeniedringhaus.com/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Pope Tech Blog" title="Pope Tech Blog" xmlUrl="https://blog.pope.tech/feed" htmlUrl=""/>
-    <outline type="rss" text="Python Blog" title="Python Blog" xmlUrl="https://blog.python.org/feeds/posts/default" htmlUrl=""/>
-    <outline type="rss" text="Rahul Nath" title="Rahul Nath" xmlUrl="http://feeds2.feedburner.com/rahulpnath" htmlUrl=""/>
-    <outline type="rss" text="Ramblings of a Madman" title="Ramblings of a Madman" xmlUrl="https://flailingmonkey.com/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Randall Degges" title="Randall Degges" xmlUrl="https://www.rdegges.com/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Random ASCII – tech blog of Bruce Dawson" title="Random ASCII – tech blog of Bruce Dawson" xmlUrl="https://randomascii.wordpress.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Raphael" title="Raphael" xmlUrl="https://rtpg.co/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Relentless Coding" title="Relentless Coding" xmlUrl="http://relentless-coding.blogspot.com/feeds/posts/default" htmlUrl=""/>
-    <outline type="rss" text="RisingStack Engineering" title="RisingStack Engineering" xmlUrl="http://blog.risingstack.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Rob Zolkos" title="Rob Zolkos" xmlUrl="https://www.zolkos.com/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Robin Verton" title="Robin Verton" xmlUrl="https://robinverton.de/index.xml" htmlUrl=""/>
-    <outline type="rss" text="Rust Blog" title="Rust Blog" xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Signs of Triviality" title="Signs of Triviality" xmlUrl="http://www.netmeister.org/blog/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Sjoerd Langkemper" title="Sjoerd Langkemper" xmlUrl="http://www.sjoerdlangkemper.nl/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="SpiderMonkey JavaScript/WebAssembly Engine" title="SpiderMonkey JavaScript/WebAssembly Engine" xmlUrl="https://spidermonkey.dev/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Spring Blog" title="Spring Blog" xmlUrl="http://spring.io/blog.atom" htmlUrl=""/>
-    <outline type="rss" text="The Grymoire" title="The Grymoire" xmlUrl="https://grymoire.wordpress.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Tim's Tech Blog" title="Tim's Tech Blog" xmlUrl="https://timtech.blog/feed/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Timmy O'Mahony" title="Timmy O'Mahony" xmlUrl="https://timmyomahony.com/feed.rss" htmlUrl=""/>
-    <outline type="rss" text="Valeri Karpov" title="Valeri Karpov" xmlUrl="https://thecodebarbarian.com/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="wingolog" title="wingolog" xmlUrl="https://wingolog.org/feed/atom" htmlUrl=""/>
-    <outline type="rss" text="xania.org" title="xania.org" xmlUrl="https://xania.org/feed" htmlUrl=""/>
-    <outline type="rss" text="xeiaso.net" title="xeiaso.net" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl=""/>
+    <outline type="rss" text="Maya Higa Turns Down Kai Cenat’s Streamer University to Save Endangered Sperm Whales: “I Wanted to Go So Bad”" title="Maya Higa Turns Down Kai Cenat’s Streamer University to Save Endangered Sperm Whales: “I Wanted to Go So Bad”" xmlUrl="https://whereisthebuzz.com/feed" htmlUrl=""/>
+    <outline type="rss" text="mem0(@mem0ai)" title="mem0(@mem0ai)" xmlUrl="https://api.xgo.ing/rss/user/94bb691baeff461686326af619beb116" htmlUrl=""/>
+    <outline type="rss" text="meng shao(@shao__meng)" title="meng shao(@shao__meng)" xmlUrl="https://api.xgo.ing/rss/user/48aae530e0bf413aa7d44380f418e2e3" htmlUrl=""/>
+    <outline type="rss" text="Michele Spagnuolo" title="Michele Spagnuolo" xmlUrl="https://miki.it/blog/feed.atom" htmlUrl="https://blog.miki.it/"/>
+    <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="https://azure.microsoft.com/en-us/blog/feed" htmlUrl=""/>
+    <outline type="rss" text="Midjourney(@midjourney)" title="Midjourney(@midjourney)" xmlUrl="https://api.xgo.ing/rss/user/72dd496bfd9d44c5a5761a974630376d" htmlUrl=""/>
+    <outline type="rss" text="Mike Krieger(@mikeyk)" title="Mike Krieger(@mikeyk)" xmlUrl="https://api.xgo.ing/rss/user/78d7b99318b04b309b04000f7e24da29" htmlUrl=""/>
+    <outline type="rss" text="Milvus(@milvusio)" title="Milvus(@milvusio)" xmlUrl="https://api.xgo.ing/rss/user/424e67b19eed4500b7a440976bbd2ade" htmlUrl=""/>
+    <outline type="rss" text="Misc" title="Misc" xmlUrl="https://kaimi.io/en/feed" htmlUrl="https://kaimi.io"/>
+    <outline type="rss" text="Missed Marks To Make You Go NOOOOOOOO" title="Missed Marks To Make You Go NOOOOOOOO" xmlUrl="https://www.cakewrecks.com/home?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Mistral AI(@MistralAI)" title="Mistral AI(@MistralAI)" xmlUrl="https://api.xgo.ing/rss/user/8d2d03aea8af49818096da4ea00409d1" htmlUrl=""/>
+    <outline type="rss" text="Moana (2026) Review: How Far She’ll Re-Go" title="Moana (2026) Review: How Far She’ll Re-Go" xmlUrl="https://loudandclearreviews.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Modernizing • The Applied Go Weekly Newsletter 2026-07-05" title="Modernizing • The Applied Go Weekly Newsletter 2026-07-05" xmlUrl="https://newsletter.appliedgo.net/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Multigenerational Skydiving Family Celebrates World Skydiving Day" title="Multigenerational Skydiving Family Celebrates World Skydiving Day" xmlUrl="https://www.chattanoogapulse.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="Mustafa Suleyman(@mustafasuleyman)" title="Mustafa Suleyman(@mustafasuleyman)" xmlUrl="https://api.xgo.ing/rss/user/394acfaff8c44e09936f5bc0b8504f2c" htmlUrl=""/>
+    <outline type="rss" text="Más de mil jugadores de Pokémon Go se dieron cita en Times Square para derrotar a Mewtwo" title="Más de mil jugadores de Pokémon Go se dieron cita en Times Square para derrotar a Mewtwo" xmlUrl="https://es.wired.com/feed/rss" htmlUrl=""/>
+    <outline type="rss" text="Naval(@naval)" title="Naval(@naval)" xmlUrl="https://api.xgo.ing/rss/user/b43bc203409e4c5a9c3ae86fe1ac00c9" htmlUrl=""/>
+    <outline type="rss" text="New Australian images go live" title="New Australian images go live" xmlUrl="https://www.photosymbols.com/blogs/news.atom" htmlUrl=""/>
+    <outline type="rss" text="New Book Release: Python Typing" title="New Book Release: Python Typing" xmlUrl="https://www.pythonpapers.com/feed" htmlUrl=""/>
+    <outline type="rss" text="New game digest: The Walking Dead, Rust, Tencent’s take on GTA, another new Rollic game, Bleach, more" title="New game digest: The Walking Dead, Rust, Tencent’s take on GTA, another new Rollic game, Bleach, more" xmlUrl="https://mobilegamer.biz/feed" htmlUrl=""/>
+    <outline type="rss" text="Nick St. Pierre(@nickfloats)" title="Nick St. Pierre(@nickfloats)" xmlUrl="https://api.xgo.ing/rss/user/6ebdf0d91eef4c149acd0ef110635866" htmlUrl=""/>
+    <outline type="rss" text="Night Work on NB I-97 Prior to New Cut Road" title="Night Work on NB I-97 Prior to New Cut Road" xmlUrl="https://whatsupmag.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="Node.js 26.5.0 (Current)" title="Node.js 26.5.0 (Current)" xmlUrl="https://nodejs.org/en/feed/releases.xml" htmlUrl=""/>
+    <outline type="rss" text="NotebookLM(@NotebookLM)" title="NotebookLM(@NotebookLM)" xmlUrl="https://api.xgo.ing/rss/user/221a88341acb475db221a12fed8208d0" htmlUrl=""/>
+    <outline type="rss" text="Notion(@NotionHQ)" title="Notion(@NotionHQ)" xmlUrl="https://api.xgo.ing/rss/user/f97a26863aec4425b021720d4f8e4ede" htmlUrl=""/>
+    <outline type="rss" text="NVIDIA AI(@NVIDIAAI)" title="NVIDIA AI(@NVIDIAAI)" xmlUrl="https://api.xgo.ing/rss/user/05f1492e43514dc3862a076d3697c390" htmlUrl=""/>
+    <outline type="rss" text="Offshore business setup in Dubai: A simpler way to go global" title="Offshore business setup in Dubai: A simpler way to go global" xmlUrl="https://www.3shconsultancy.com/feed" htmlUrl=""/>
+    <outline type="rss" text="ollama(@ollama)" title="ollama(@ollama)" xmlUrl="https://api.xgo.ing/rss/user/6326c63a2dfa445bbde88bea0c3112c2" htmlUrl=""/>
+    <outline type="rss" text="OpenAI Developers(@OpenAIDevs)" title="OpenAI Developers(@OpenAIDevs)" xmlUrl="https://api.xgo.ing/rss/user/971dc1fc90da449bac23e5fad8a33d55" htmlUrl=""/>
+    <outline type="rss" text="OpenAI(@OpenAI)" title="OpenAI(@OpenAI)" xmlUrl="https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049" htmlUrl=""/>
+    <outline type="rss" text="OpenRouter(@OpenRouterAI)" title="OpenRouter(@OpenRouterAI)" xmlUrl="https://api.xgo.ing/rss/user/e503a90c035c4b1d8f8dd34907d15bf4" htmlUrl=""/>
+    <outline type="rss" text="orange.ai(@oran_ge)" title="orange.ai(@oran_ge)" xmlUrl="https://api.xgo.ing/rss/user/0277b0bbefd54df7bc6b7880122da8f7" htmlUrl=""/>
+    <outline type="rss" text="Patrick Loeber(@patloeber)" title="Patrick Loeber(@patloeber)" xmlUrl="https://api.xgo.ing/rss/user/c65c68f3713747bba863f92d6b5e996f" htmlUrl=""/>
+    <outline type="rss" text="Paul Graham(@paulg)" title="Paul Graham(@paulg)" xmlUrl="https://api.xgo.ing/rss/user/900549ddadf04e839d3f7a17ebaba3fc" htmlUrl=""/>
+    <outline type="rss" text="Paul's Security Weekly" title="Paul's Security Weekly" xmlUrl="http://podcast.securityweekly.com/rss" htmlUrl="http://securityweekly.com/"/>
+    <outline type="rss" text="PEP 836: JIT Go Brrr: The Path to a Supported JIT Compiler for CPython" title="PEP 836: JIT Go Brrr: The Path to a Supported JIT Compiler for CPython" xmlUrl="https://peps.python.org/peps.rss" htmlUrl=""/>
+    <outline type="rss" text="pgBackRest" title="pgBackRest" xmlUrl="https://feeds.transistor.fm/postgres-fm" htmlUrl=""/>
+    <outline type="rss" text="Philipp Schmid(@_philschmid)" title="Philipp Schmid(@_philschmid)" xmlUrl="https://api.xgo.ing/rss/user/ce352bbf72e44033985bc756db2ee0e2" htmlUrl=""/>
+    <outline type="rss" text="Pi App Studio Adds Backend Infrastructure Support and App Planning for Newly Created Apps" title="Pi App Studio Adds Backend Infrastructure Support and App Planning for Newly Created Apps" xmlUrl="https://minepi.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Poe(@poe_platform)" title="Poe(@poe_platform)" xmlUrl="https://api.xgo.ing/rss/user/17687b1051204b2dbaed4ea4c9178f28" htmlUrl=""/>
+    <outline type="rss" text="PostgreSQL 19 Release: New Features, Release Date, and Upgrade Notes" title="PostgreSQL 19 Release: New Features, Release Date, and Upgrade Notes" xmlUrl="https://blog.devart.com/feed" htmlUrl=""/>
+    <outline type="rss" text="PostgreSQL Conference Japan 2026" title="PostgreSQL Conference Japan 2026" xmlUrl="https://www.postgresql.org/events.rss" htmlUrl=""/>
+    <outline type="rss" text="Protecting Your Work as AI Models Rapidly Come and Go" title="Protecting Your Work as AI Models Rapidly Come and Go" xmlUrl="https://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Python Full-Stack Engineer (Django focused) (80-100% Remote)" title="Python Full-Stack Engineer (Django focused) (80-100% Remote)" xmlUrl="https://www.opengis.ch/feed" htmlUrl=""/>
+    <outline type="rss" text="Qwen(@Alibaba_Qwen)" title="Qwen(@Alibaba_Qwen)" xmlUrl="https://api.xgo.ing/rss/user/80032d016d654eb4afe741ff34b7643d" htmlUrl=""/>
+    <outline type="rss" text="Radio Sweden Weekly: Tension, relief and a landmark deal for Sweden at Nato summit" title="Radio Sweden Weekly: Tension, relief and a landmark deal for Sweden at Nato summit" xmlUrl="https://api.sr.se/api/rss/pod/4901" htmlUrl=""/>
+    <outline type="rss" text="Ray Dalio(@RayDalio)" title="Ray Dalio(@RayDalio)" xmlUrl="https://api.xgo.ing/rss/user/4838204097ed422eac24ad48e68dc3ff" htmlUrl=""/>
+    <outline type="rss" text="Recraft(@recraftai)" title="Recraft(@recraftai)" xmlUrl="https://api.xgo.ing/rss/user/acc648327c614d9b985b9fc3d737165b" htmlUrl=""/>
+    <outline type="rss" text="Red XOR Blue" title="Red XOR Blue" xmlUrl="http://blog.redxorblue.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.redxorblue.com/"/>
+    <outline type="rss" text="Rediscovered: The Agony and the Ecstasy" title="Rediscovered: The Agony and the Ecstasy" xmlUrl="https://donherron.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/fashion/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Replicate(@replicate)" title="Replicate(@replicate)" xmlUrl="https://api.xgo.ing/rss/user/12eba9c3db4940c5ab2a72bd00f9ff2c" htmlUrl=""/>
+    <outline type="rss" text="Review of Burgle Bros 3: Future Flip – Here We Go Again … Again" title="Review of Burgle Bros 3: Future Flip – Here We Go Again … Again" xmlUrl="https://talkingshelfspace.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Rewriting the world in Rust" title="Rewriting the world in Rust" xmlUrl="https://bitfieldconsulting.com/posts?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Richard Socher(@RichardSocher)" title="Richard Socher(@RichardSocher)" xmlUrl="https://api.xgo.ing/rss/user/4d2d4165a7524217a08d3f57f27fa190" htmlUrl=""/>
+    <outline type="rss" text="Rowan Cheung(@rowancheung)" title="Rowan Cheung(@rowancheung)" xmlUrl="https://api.xgo.ing/rss/user/a636de3cbda0495daabd15b9fd298614" htmlUrl=""/>
+    <outline type="rss" text="Running DuckDB as a MySQL 9.7 storage engine" title="Running DuckDB as a MySQL 9.7 storage engine" xmlUrl="https://www.percona.com/blog/feed" htmlUrl=""/>
+    <outline type="rss" text="Runway(@runwayml)" title="Runway(@runwayml)" xmlUrl="https://api.xgo.ing/rss/user/e6bb4f612dd24db5bc1a6811e6dd5820" htmlUrl=""/>
+    <outline type="rss" text="Rust Antennae Mini d6" title="Rust Antennae Mini d6" xmlUrl="https://diceenvy.com/collections/pip-squeaks.atom" htmlUrl=""/>
+    <outline type="rss" text="Rust CUDA August 2025 project update" title="Rust CUDA August 2025 project update" xmlUrl="https://rust-gpu.github.io/blog/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Sam Altman(@sama)" title="Sam Altman(@sama)" xmlUrl="https://api.xgo.ing/rss/user/e30d4cd223f44bed9d404807105c8927" htmlUrl=""/>
+    <outline type="rss" text="San Miguel De Allende Markets — Practical Tips: When To Go, What To Buy &amp; Safety" title="San Miguel De Allende Markets — Practical Tips: When To Go, What To Buy &amp; Safety" xmlUrl="https://fallinginlovewithsanmiguel.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Satya Nadella(@satyanadella)" title="Satya Nadella(@satyanadella)" xmlUrl="https://api.xgo.ing/rss/user/baa68dbd9a9e461a96fd9b2e3f35dcbf" htmlUrl=""/>
+    <outline type="rss" text="Scott Wu(@ScottWu46)" title="Scott Wu(@ScottWu46)" xmlUrl="https://api.xgo.ing/rss/user/5fca8ccd87344d388bc863304ed6fd86" htmlUrl=""/>
+    <outline type="rss" text="SDCC 2026 Hasbro Transformers Panel Announced New Product Reveals Coming Soon" title="SDCC 2026 Hasbro Transformers Panel Announced New Product Reveals Coming Soon" xmlUrl="https://tformers.com/backend.php" htmlUrl=""/>
+    <outline type="rss" text="Security Consultant" title="Security Consultant" xmlUrl="https://www.australiajobs.app/api/latest-jobs-feed" htmlUrl=""/>
+    <outline type="rss" text="Shane Wright requested a trade; where do the Kraken go from here?" title="Shane Wright requested a trade; where do the Kraken go from here?" xmlUrl="https://soundofhockey.com/feed" htmlUrl=""/>
+    <outline type="rss" text="shift or die" title="shift or die" xmlUrl="https://shiftordie.de/feed.xml" htmlUrl="https://shiftordie.de/"/>
+    <outline type="rss" text="Should I still go to Okinawa?" title="Should I still go to Okinawa?" xmlUrl="https://www.lonelyjapan.com/feed" htmlUrl=""/>
+    <outline type="rss" text="SIGN: Help Pass the LEASH Act to Create a National Animal Abuser Database" title="SIGN: Help Pass the LEASH Act to Create a National Animal Abuser Database" xmlUrl="https://ladyfreethinker.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Skywork(@Skywork_ai)" title="Skywork(@Skywork_ai)" xmlUrl="https://api.xgo.ing/rss/user/6d7d398dd80b48d79669c92745d32cf6" htmlUrl=""/>
+    <outline type="rss" text="Speedier type checks in TypeScript 7.0 as first stable Go release ships" title="Speedier type checks in TypeScript 7.0 as first stable Go release ships" xmlUrl="https://devclass.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Sualeh Asif(@sualehasif996)" title="Sualeh Asif(@sualehasif996)" xmlUrl="https://api.xgo.ing/rss/user/fafa6df3c67644b1a367a177240e0173" htmlUrl=""/>
+    <outline type="rss" text="Subtitling ¡Vámonos, Bárbara! (Bárbara, Let’s Go!, Bartolomé 1978): Film History and Feminism" title="Subtitling ¡Vámonos, Bárbara! (Bárbara, Let’s Go!, Bartolomé 1978): Film History and Feminism" xmlUrl="https://reframe.sussex.ac.uk/mediatico/feed" htmlUrl=""/>
+    <outline type="rss" text="Suhail(@Suhail)" title="Suhail(@Suhail)" xmlUrl="https://api.xgo.ing/rss/user/c961547e08df4396b3ab69367a07a1cd" htmlUrl=""/>
+    <outline type="rss" text="Sundar Pichai(@sundarpichai)" title="Sundar Pichai(@sundarpichai)" xmlUrl="https://api.xgo.ing/rss/user/8324d65a63dc42c584a8c08cc8323c9f" htmlUrl=""/>
+    <outline type="rss" text="SymphonyAI Recruitment 2026 : Mass Hiring for Associate Software Engineer (Java)" title="SymphonyAI Recruitment 2026 : Mass Hiring for Associate Software Engineer (Java)" xmlUrl="https://fresheropenings.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Taiwan Braces for Bavi – July 10, 2026" title="Taiwan Braces for Bavi – July 10, 2026" xmlUrl="https://rss.taiwanplus.com/api/rss/google" htmlUrl=""/>
+    <outline type="rss" text="TDP-43: When microglia go off track" title="TDP-43: When microglia go off track" xmlUrl="https://scientificinquirer.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The Empire Film Podcast Ft. Evil Dead Burn Star Souheila Yacoub" title="The Empire Film Podcast Ft. Evil Dead Burn Star Souheila Yacoub" xmlUrl="https://rss.onebauer.media/api/feed-aggregator?hostname=https%3A%2F%2Fwww.empireonline.com" htmlUrl=""/>
+    <outline type="rss" text="The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?" title="The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The Rundown AI(@TheRundownAI)" title="The Rundown AI(@TheRundownAI)" xmlUrl="https://api.xgo.ing/rss/user/83b1ea38940b4a1d81ea57d1ffb12ad7" htmlUrl=""/>
+    <outline type="rss" text="The Star Card | Transform Your Life with the Star Tarot Card: Let Go of Negativity and Create Inner Peace" title="The Star Card | Transform Your Life with the Star Tarot Card: Let Go of Negativity and Create Inner Peace" xmlUrl="https://www.davidcunliffe.com/feed" htmlUrl=""/>
+    <outline type="rss" text="TheGeryCorner" title="TheGeryCorner" xmlUrl="http://thegreycorner.com/feed.xml" htmlUrl="http://thegreycorner.com/"/>
+    <outline type="rss" text="This Beat V3 - Wah Wah" title="This Beat V3 - Wah Wah" xmlUrl="https://ccmixter.org/api/query?f=rss&amp;ids=69436&amp;limit=12&amp;title=This+Beat+V3+-+Wah+Wah" htmlUrl=""/>
+    <outline type="rss" text="Thomas Wolf(@Thom_Wolf)" title="Thomas Wolf(@Thom_Wolf)" xmlUrl="https://api.xgo.ing/rss/user/4918efb13c47459b8dcaa79cfdf72d09" htmlUrl=""/>
+    <outline type="rss" text="Three things I don't like about Go - Part 1" title="Three things I don't like about Go - Part 1" xmlUrl="https://mariocarrion.com/index.xml" htmlUrl=""/>
+    <outline type="rss" text="Top Holiday Destinations from UAE: Where to Go This Season?" title="Top Holiday Destinations from UAE: Where to Go This Season?" xmlUrl="https://relationstatus.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Tw93(@HiTw93)" title="Tw93(@HiTw93)" xmlUrl="https://api.xgo.ing/rss/user/665fc88440fd4436acbc2e630d824926" htmlUrl=""/>
+    <outline type="rss" text="Varun Mohan(@_mohansolo)" title="Varun Mohan(@_mohansolo)" xmlUrl="https://api.xgo.ing/rss/user/7794c4268a504019a94af1778857a703" htmlUrl=""/>
+    <outline type="rss" text="Vatican: Francis stable, out of ‘imminent danger’ of death" title="Vatican: Francis stable, out of ‘imminent danger’ of death" xmlUrl="https://www.voanews.com/api" htmlUrl=""/>
+    <outline type="rss" text="Verne in GitHub" title="Verne in GitHub" xmlUrl="https://einverne.github.io/feed.xml" htmlUrl="https://einverne.github.io/"/>
+    <outline type="rss" text="Version API is down" title="Version API is down" xmlUrl="https://status.modrinth.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation" title="Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation" xmlUrl="https://unit42.paloaltonetworks.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Viking(@vikingmute)" title="Viking(@vikingmute)" xmlUrl="https://api.xgo.ing/rss/user/aab44cb2665a49258cd81f63b0b55192" htmlUrl=""/>
+    <outline type="rss" text="Watch Grannies Go Viral After Turning Hit The Road, Jack Into Protest Song Against ICE" title="Watch Grannies Go Viral After Turning Hit The Road, Jack Into Protest Song Against ICE" xmlUrl="https://karkpost.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Weaviate • vector database(@weaviate_io)" title="Weaviate • vector database(@weaviate_io)" xmlUrl="https://api.xgo.ing/rss/user/2f1035ec6b28475987af06b600e1d04c" htmlUrl=""/>
+    <outline type="rss" text="Week of 23 – 29 August 2026" title="Week of 23 – 29 August 2026" xmlUrl="https://sacredise.com/feed" htmlUrl=""/>
+    <outline type="rss" text="What Could Go Wrong #63" title="What Could Go Wrong #63" xmlUrl="https://lordrakim.wordpress.com/feed" htmlUrl=""/>
+    <outline type="rss" text="What Western Sydney Businesses Should Know About Go-To-Market Technology" title="What Western Sydney Businesses Should Know About Go-To-Market Technology" xmlUrl="https://westernweekender.com.au/feed" htmlUrl=""/>
+    <outline type="rss" text="What We’re Watching: Separatists go bust, Canada goes social, US readies tax retaliation" title="What We’re Watching: Separatists go bust, Canada goes social, US readies tax retaliation" xmlUrl="https://www.gzeromedia.com/feeds/gzero-north.rss" htmlUrl=""/>
+    <outline type="rss" text="What’s Next for the St. Paul Skyway?" title="What’s Next for the St. Paul Skyway?" xmlUrl="https://mspmag.com/api/rss/content.rss" htmlUrl=""/>
+    <outline type="rss" text="Where did the Billion Dollar Funding for Rohingya Refugees Go?" title="Where did the Billion Dollar Funding for Rohingya Refugees Go?" xmlUrl="https://www.ipsnews.net/feed" htmlUrl=""/>
+    <outline type="rss" text="Where the returns to AI go" title="Where the returns to AI go" xmlUrl="https://www.economicforces.xyz/feed" htmlUrl=""/>
+    <outline type="rss" text="Where they go one …" title="Where they go one …" xmlUrl="https://hipiseverything.wordpress.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Where’d You Go?" title="Where’d You Go?" xmlUrl="https://www.rejectedprincesses.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Why Can’t Today’s Children Go Shopping On Their Own? (A Question For National Children’s Day)" title="Why Can’t Today’s Children Go Shopping On Their Own? (A Question For National Children’s Day)" xmlUrl="https://zootsblogspot.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Why Your SQL Permissions Disappeared" title="Why Your SQL Permissions Disappeared" xmlUrl="https://www.sqlservercentral.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Wikimedia Commons picture of the day for July 1" title="Wikimedia Commons picture of the day for July 1" xmlUrl="https://commons.m.wikimedia.org/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom" htmlUrl=""/>
+    <outline type="rss" text="Will Canada go for a split F-35-Gripen fighter jet fleet?" title="Will Canada go for a split F-35-Gripen fighter jet fleet?" xmlUrl="https://www.espritdecorps.ca/feature?format=rss" htmlUrl=""/>
+    <outline type="rss" text="WP-CLI vs REST API vs Abilities API: Choosing the Right WordPress Interface for the Job" title="WP-CLI vs REST API vs Abilities API: Choosing the Right WordPress Interface for the Job" xmlUrl="https://wpmayor.com/feed" htmlUrl=""/>
+    <outline type="rss" text="xAI(@xai)" title="xAI(@xai)" xmlUrl="https://api.xgo.ing/rss/user/3953aa71e87a422eb9d7bf6ff1c7c43e" htmlUrl=""/>
+    <outline type="rss" text="Y Combinator(@ycombinator)" title="Y Combinator(@ycombinator)" xmlUrl="https://api.xgo.ing/rss/user/b1ab109f6afd42ab8ea32e17a19a3a3e" htmlUrl=""/>
+    <outline type="rss" text="Yangyi(@Yangyixxxx)" title="Yangyi(@Yangyixxxx)" xmlUrl="https://api.xgo.ing/rss/user/66c40de71a9842fda4853b7d9d1d20da" htmlUrl=""/>
+    <outline type="rss" text="Yann LeCun(@ylecun)" title="Yann LeCun(@ylecun)" xmlUrl="https://api.xgo.ing/rss/user/f5f4f928dede472ea55053672ad27ab6" htmlUrl=""/>
+    <outline type="rss" text="Your API Is Becoming a UI. Design It That Way." title="Your API Is Becoming a UI. Design It That Way." xmlUrl="https://www.webapper.com/feed" htmlUrl=""/>
+    <outline type="rss" text="‘Time to go fight Big Pharma’: Navigating US health care system and high costs strains mental health of people with chronic disease" title="‘Time to go fight Big Pharma’: Navigating US health care system and high costs strains mental health of people with chronic disease" xmlUrl="https://medillonthehill.medill.northwestern.edu/feed" htmlUrl=""/>
+    <outline type="rss" text="⏰ Fix Your Input Latency" title="⏰ Fix Your Input Latency" xmlUrl="https://gamesbymason.com/feed.xml" htmlUrl=""/>
   </body>
 </opml>

@@ -2,19 +2,52 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Newsletters</title>
-    <dateCreated>2026-07-10T18:45:29Z</dateCreated>
+    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
   </head>
   <body>
-    <outline type="rss" text="Android Weekly" title="Android Weekly" xmlUrl="https://androidweekly.net/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" xmlUrl="https://blog.bytebytego.com/feed" htmlUrl=""/>
-    <outline type="rss" text="dailydevlinks" title="dailydevlinks" xmlUrl="https://unicornclub.dev/feed" htmlUrl=""/>
-    <outline type="rss" text="Everything Is Amazing" title="Everything Is Amazing" xmlUrl="https://everythingisamazing.substack.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Firefox Archives - gHacks Tech News" title="Firefox Archives - gHacks Tech News" xmlUrl="https://www.ghacks.net/category/firefox/feed" htmlUrl=""/>
-    <outline type="rss" text="Golang Weekly" title="Golang Weekly" xmlUrl="https://golangweekly.com/rss" htmlUrl=""/>
-    <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com/" htmlUrl=""/>
-    <outline type="rss" text="Tech TLDR;" title="Tech TLDR;" xmlUrl="http://www.alexkras.com/feed" htmlUrl=""/>
-    <outline type="rss" text="tedium.co" title="tedium.co" xmlUrl="https://feed.tedium.co/" htmlUrl=""/>
-    <outline type="rss" text="This Week in Rust" title="This Week in Rust" xmlUrl="https://this-week-in-rust.org/atom.xml" htmlUrl=""/>
-    <outline type="rss" text="Yangyi(@Yangyixxxx)" title="Yangyi(@Yangyixxxx)" xmlUrl="https://api.xgo.ing/rss/user/66c40de71a9842fda4853b7d9d1d20da" htmlUrl=""/>
+    <outline type="rss" text="2026 Newsletters so far…." title="2026 Newsletters so far…." xmlUrl="https://paulregan.studio/feed" htmlUrl=""/>
+    <outline type="rss" text="A balanced review of Math Academy" title="A balanced review of Math Academy" xmlUrl="https://newsletter.ozwrites.com/feed" htmlUrl=""/>
+    <outline type="rss" text="ACAT’s June Newsletter" title="ACAT’s June Newsletter" xmlUrl="https://www.akaction.org/feed" htmlUrl=""/>
+    <outline type="rss" text="AI could keep poor countries poor" title="AI could keep poor countries poor" xmlUrl="https://newsletter.deenamousa.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Before MYTHOS, SATAN: a 1990s Software Satanic Panic" title="Before MYTHOS, SATAN: a 1990s Software Satanic Panic" xmlUrl="https://newsletter.pessimistsarchive.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Contributor Newsletter – Spring 2026" title="Contributor Newsletter – Spring 2026" xmlUrl="https://foundation.pbs.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Danziger Draws" title="Danziger Draws" xmlUrl="https://www.nationalmemo.com/feeds/newsletter.rss" htmlUrl=""/>
+    <outline type="rss" text="Eat This Newsletter | ruk.ca" title="Eat This Newsletter | ruk.ca" xmlUrl="https://stream.jeremycherfas.net/content/all?_t=rss" htmlUrl=""/>
+    <outline type="rss" text="feed" title="feed" xmlUrl="https://www.aihero.dev/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="From Content Monitoring to Monetized Newsletters with Scoop.it" title="From Content Monitoring to Monetized Newsletters with Scoop.it" xmlUrl="https://blog.scoop.it/feed" htmlUrl=""/>
+    <outline type="rss" text="Future Blue Jays Newsletter" title="Future Blue Jays Newsletter" xmlUrl="https://rss.beehiiv.com/feeds/OHxqwHytWC.xml" htmlUrl=""/>
+    <outline type="rss" text="How OpenAI Builds Infrastructure Teams" title="How OpenAI Builds Infrastructure Teams" xmlUrl="https://newsletter.eng-leadership.com/feed" htmlUrl=""/>
+    <outline type="rss" text="How to ship software with confidence - The Pillars" title="How to ship software with confidence - The Pillars" xmlUrl="https://newsletter.optimistengineer.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Israeli-Detained Palestinian Doctor in Life-Threatening Condition | Palestine Policy Roundup 7.8.26" title="Israeli-Detained Palestinian Doctor in Life-Threatening Condition | Palestine Policy Roundup 7.8.26" xmlUrl="https://www.imeupolicyproject.org/newsletters?format=rss" htmlUrl=""/>
+    <outline type="rss" text="It's in All of Our Self-Interest" title="It's in All of Our Self-Interest" xmlUrl="https://newsletter.freewillastrology.com/feed" htmlUrl=""/>
+    <outline type="rss" text="It’s The July Newsletter" title="It’s The July Newsletter" xmlUrl="https://www.walterandersen.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Joyful Defiance and Local Organizing Are Saving American Democracy" title="Joyful Defiance and Local Organizing Are Saving American Democracy" xmlUrl="https://www.newsletter.samuel-warde.com/feed?sectionId=154066" htmlUrl=""/>
+    <outline type="rss" text="July 2026 Newsletter" title="July 2026 Newsletter" xmlUrl="https://carsonhume.com/feed" htmlUrl=""/>
+    <outline type="rss" text="July 2026 Newsletter" title="July 2026 Newsletter" xmlUrl="https://cnha.org/feed" htmlUrl=""/>
+    <outline type="rss" text="July 2026 Newsletter" title="July 2026 Newsletter" xmlUrl="https://chelseymortega.com/feed" htmlUrl=""/>
+    <outline type="rss" text="July Newsletter" title="July Newsletter" xmlUrl="https://www.justicerapidresponse.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Kyber Midplane Design, Making NVL72x2 Work, and All Roads Lead to CPO" title="Kyber Midplane Design, Making NVL72x2 Work, and All Roads Lead to CPO" xmlUrl="https://www.viksnewsletter.com/feed" htmlUrl=""/>
+    <outline type="rss" text="My July 2026 Newsletter" title="My July 2026 Newsletter" xmlUrl="https://marciaclayton.co.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="Newsletter April 2021" title="Newsletter April 2021" xmlUrl="https://weredog.co.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="Newsletter test" title="Newsletter test" xmlUrl="https://www.danishbioimaging.dk/feed" htmlUrl=""/>
+    <outline type="rss" text="Newsletter: 06 July 2026" title="Newsletter: 06 July 2026" xmlUrl="https://www.adelaide-parklands.asn.au/blog?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Newsletter: Trans Awareness Week 2021" title="Newsletter: Trans Awareness Week 2021" xmlUrl="https://egale.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="OpenAPI Initiative Newsletter – June 2026" title="OpenAPI Initiative Newsletter – June 2026" xmlUrl="https://www.openapis.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Shalom Rav the Blog Becomes Shalom Rav the Newsletter" title="Shalom Rav the Blog Becomes Shalom Rav the Newsletter" xmlUrl="https://rabbibrant.com/feed" htmlUrl=""/>
+    <outline type="rss" text="ShentonSTAGE Newsletter: MARCH 18-24" title="ShentonSTAGE Newsletter: MARCH 18-24" xmlUrl="https://shentonstage.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Sign Up For My Newsletter" title="Sign Up For My Newsletter" xmlUrl="https://jaceykdew.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="Strike out Nulls – Inventing Reality’s Newsletter for July 7, 2026" title="Strike out Nulls – Inventing Reality’s Newsletter for July 7, 2026" xmlUrl="https://inventingrealityediting.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Student Researchers Discover Potential “Plastic-Eating” Bacteria on Campus" title="Student Researchers Discover Potential “Plastic-Eating” Bacteria on Campus" xmlUrl="https://newsletter.blogs.wesleyan.edu/feed" htmlUrl=""/>
+    <outline type="rss" text="Subscribe to our newsletter" title="Subscribe to our newsletter" xmlUrl="https://www.europeandatajournalism.eu/feed" htmlUrl=""/>
+    <outline type="rss" text="Subscribe to the new Vintage Ninja Newsletter!" title="Subscribe to the new Vintage Ninja Newsletter!" xmlUrl="https://vintageninja.net/feed" htmlUrl=""/>
+    <outline type="rss" text="Summer Treatment Program SIG Updates – Summer 2026" title="Summer Treatment Program SIG Updates – Summer 2026" xmlUrl="https://newsletter.sccap53.org/feed" htmlUrl=""/>
+    <outline type="rss" text="The State of AI Safety" title="The State of AI Safety" xmlUrl="https://www.luizasnewsletter.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The Summer 2026 Newsletter of CYANOTYPES is out!" title="The Summer 2026 Newsletter of CYANOTYPES is out!" xmlUrl="https://efvet.org/feed" htmlUrl=""/>
+    <outline type="rss" text="The Voting Rights Act" title="The Voting Rights Act" xmlUrl="https://darrellnewsletter7.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Think VAR is ruining the World Cup? Your workplace is next" title="Think VAR is ruining the World Cup? Your workplace is next" xmlUrl="https://newsletter.thedriftmag.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Thinking in Real Time About our Driverless Future" title="Thinking in Real Time About our Driverless Future" xmlUrl="https://www.changinglanesnewsletter.com/feed" htmlUrl=""/>
+    <outline type="rss" text="This week: ICE, data centers, Good Trouble actions, and our summer picnic" title="This week: ICE, data centers, Good Trouble actions, and our summer picnic" xmlUrl="https://www.indivisiblemv.org/weekly-newsletter?format=rss" htmlUrl=""/>
+    <outline type="rss" text="🌈 The Gospel According to Ordinary People – Pipeaway Newsletter #224" title="🌈 The Gospel According to Ordinary People – Pipeaway Newsletter #224" xmlUrl="https://www.pipeaway.com/feed" htmlUrl=""/>
+    <outline type="rss" text="👻 This Newsletter Has Moved 👻" title="👻 This Newsletter Has Moved 👻" xmlUrl="https://rss.beehiiv.com/feeds/1erpUYd0Eq.xml" htmlUrl=""/>
   </body>
 </opml>

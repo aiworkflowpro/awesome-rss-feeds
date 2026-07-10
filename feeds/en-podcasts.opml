@@ -2,88 +2,152 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Podcasts &amp; Audio</title>
-    <dateCreated>2026-07-10T18:45:29Z</dateCreated>
+    <dateCreated>2026-07-10T18:59:27Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="#115 - Stop Treating Your Website Like Your Magnum Opus" title="#115 - Stop Treating Your Website Like Your Magnum Opus" xmlUrl="https://www.ja-wol.com/blogs/podcast.atom" htmlUrl=""/>
+    <outline type="rss" text="#224 – David Snead on Building Trust and Collaboration in the Hosting Industry With the Secure Hosting Alliance" title="#224 – David Snead on Building Trust and Collaboration in the Hosting Industry With the Secure Hosting Alliance" xmlUrl="https://wptavern.com/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="#247: Memories of the Jungle, Interview with Richard Chaves" title="#247: Memories of the Jungle, Interview with Richard Chaves" xmlUrl="https://www.avpgalaxy.net/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="0234: Paramount, Warner Bros., and Lanterns" title="0234: Paramount, Warner Bros., and Lanterns" xmlUrl="http://www.theflitecast.com/podcast?format=rss" htmlUrl=""/>
+    <outline type="rss" text="14850 Happenings for the week beginning July 9th" title="14850 Happenings for the week beginning July 9th" xmlUrl="https://www.14850.com/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="168 Days, a memory from the future" title="168 Days, a memory from the future" xmlUrl="https://christmaspodcasts.com/feed" htmlUrl=""/>
+    <outline type="rss" text="168 | Daughters of God: How the Women of the Bible Reveal Our Worth in God" title="168 | Daughters of God: How the Women of the Bible Reveal Our Worth in God" xmlUrl="https://denverseminary.edu/feed/denver_podcast" htmlUrl=""/>
+    <outline type="rss" text="18 • Workplace scapegoating" title="18 • Workplace scapegoating" xmlUrl="https://priceperrott.com/podcast/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="1976: The Year Guitar Rock Split In Two" title="1976: The Year Guitar Rock Split In Two" xmlUrl="https://www.digmeoutpodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="226. Should You Quit or Double Down on Your Career?" title="226. Should You Quit or Double Down on Your Career?" xmlUrl="https://app.kajabi.com/podcasts/2147497144/feed" htmlUrl=""/>
     <outline type="rss" text="30 For 30 Podcasts" title="30 For 30 Podcasts" xmlUrl="https://feeds.megaphone.fm/ESP5765452710" htmlUrl=""/>
-    <outline type="rss" text="6 Minute English" title="6 Minute English" xmlUrl="https://www.spreaker.com/show/6007187/episodes/feed" htmlUrl=""/>
-    <outline type="rss" text="60-Second Science" title="60-Second Science" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast" htmlUrl=""/>
+    <outline type="rss" text="387: Memphis Belle with Joshua Donohue" title="387: Memphis Belle with Joshua Donohue" xmlUrl="https://www.basedonatruestorypodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="3rd Degree the Podcast #365" title="3rd Degree the Podcast #365" xmlUrl="https://feeds.castos.com/ow422" htmlUrl=""/>
+    <outline type="rss" text="890: Maximal Americanness" title="890: Maximal Americanness" xmlUrl="https://www.thisamericanlife.org/podcast/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="[Podcast] Ep. 82: [Interview] with DANI FILTH of CRADLE OF FILTH (UK) Ahead of Aus Tour Next Week." title="[Podcast] Ep. 82: [Interview] with DANI FILTH of CRADLE OF FILTH (UK) Ahead of Aus Tour Next Week." xmlUrl="https://www.innerstrengthcheckpodcast.com/blog?format=rss" htmlUrl=""/>
+    <outline type="rss" text="A note on the World Cup" title="A note on the World Cup" xmlUrl="https://thebluegrassbluespodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Accessible D&amp;D Isn’t Charity—It’s Better Design | Gaining Advantage 43" title="Accessible D&amp;D Isn’t Charity—It’s Better Design | Gaining Advantage 43" xmlUrl="https://wyrmworkspublishing.com/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="Accidental Tech Podcast" title="Accidental Tech Podcast" xmlUrl="https://atp.fm/rss" htmlUrl=""/>
-    <outline type="rss" text="All About Android (Audio)" title="All About Android (Audio)" xmlUrl="https://feeds.twit.tv/aaa.xml" htmlUrl=""/>
-    <outline type="rss" text="Analog(ue)" title="Analog(ue)" xmlUrl="https://www.relay.fm/analogue/feed" htmlUrl=""/>
-    <outline type="rss" text="Android Authority Podcast" title="Android Authority Podcast" xmlUrl="https://androidauthority.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Android Authority Podcast" title="Android Authority Podcast" xmlUrl="https://rss.libsyn.com/shows/62117/destinations/242501.xml" htmlUrl=""/>
-    <outline type="rss" text="Android Central Podcast" title="Android Central Podcast" xmlUrl="http://feeds.feedburner.com/AndroidCentralPodcast" htmlUrl=""/>
-    <outline type="rss" text="Android Developers Backstage" title="Android Developers Backstage" xmlUrl="http://feeds.feedburner.com/blogspot/androiddevelopersbackstage" htmlUrl=""/>
-    <outline type="rss" text="Can't Bowl Can't Throw Cricket Show" title="Can't Bowl Can't Throw Cricket Show" xmlUrl="http://feeds.feedburner.com/cantbowlcantthrow" htmlUrl=""/>
-    <outline type="rss" text="Clockwise" title="Clockwise" xmlUrl="https://www.relay.fm/clockwise/feed" htmlUrl=""/>
+    <outline type="rss" text="ARC Podcast: The Doubting Disease (AKA OCD)" title="ARC Podcast: The Doubting Disease (AKA OCD)" xmlUrl="https://www.anxietyresourcecenter.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Are podcast advertisers missing a trick?" title="Are podcast advertisers missing a trick?" xmlUrl="https://podnews.net/rss" htmlUrl=""/>
+    <outline type="rss" text="Behind the Scenes Questions 1" title="Behind the Scenes Questions 1" xmlUrl="http://feeds.nightvalepresents.com/welcometonightvalepodcast" htmlUrl=""/>
+    <outline type="rss" text="Better Together Podcast" title="Better Together Podcast" xmlUrl="https://dacnw.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Bit like snow - 7 July 2026" title="Bit like snow - 7 July 2026" xmlUrl="https://www.motoringpodcast.com/episodes?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Bookaholic Podcast — A Hidden Town. Retired Spies. One Impossible Choice." title="Bookaholic Podcast — A Hidden Town. Retired Spies. One Impossible Choice." xmlUrl="https://booktrib.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Building Better SharePoint with PowerShell with Dan Adams" title="Building Better SharePoint with PowerShell with Dan Adams" xmlUrl="https://feed.podbean.com/powershellpodcast/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Caring for couples, caring about marriage" title="Caring for couples, caring about marriage" xmlUrl="https://www.cbcew.org.uk/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="Chatting with Chris Barnes of The Australian Pink Floyd Show" title="Chatting with Chris Barnes of The Australian Pink Floyd Show" xmlUrl="https://www.rockatnight.com/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="Clare Mulley" title="Clare Mulley" xmlUrl="https://thecomfortablespotpodcast.com/feed" htmlUrl=""/>
     <outline type="rss" text="CodeNewbie" title="CodeNewbie" xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" htmlUrl=""/>
-    <outline type="rss" text="Daily Tech News Show" title="Daily Tech News Show" xmlUrl="https://feeds.acast.com/public/shows/61954547cb03c875f7617118" htmlUrl=""/>
+    <outline type="rss" text="Colloquy Podcast: Gordon Wood on the Radicalism of the American Revolution" title="Colloquy Podcast: Gordon Wood on the Radicalism of the American Revolution" xmlUrl="https://gsas.harvard.edu/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="DayWeather Podcast 7.10.2026" title="DayWeather Podcast 7.10.2026" xmlUrl="http://feeds.libsyn.com/115172/rss" htmlUrl=""/>
+    <outline type="rss" text="Democratic Socialists Destroying Democrats With Democracy" title="Democratic Socialists Destroying Democrats With Democracy" xmlUrl="https://radicalruss.com/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="Developer Tea" title="Developer Tea" xmlUrl="https://feeds.simplecast.com/dLRotFGk" htmlUrl=""/>
-    <outline type="rss" text="Discovery" title="Discovery" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" htmlUrl=""/>
-    <outline type="rss" text="Duct Tape Marketing" title="Duct Tape Marketing" xmlUrl="https://ducttape.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Dwarkesh Patel" title="Dwarkesh Patel" xmlUrl="https://www.dwarkeshpatel.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Essential Tennis Podcast - Instruction, Lessons, Tips" title="Essential Tennis Podcast - Instruction, Lessons, Tips" xmlUrl="https://feed.podbean.com/essentialtennis/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Fish Audio(@FishAudio)" title="Fish Audio(@FishAudio)" xmlUrl="https://api.xgo.ing/rss/user/4900b3dcd592424687582ff9e0f148ea" htmlUrl=""/>
-    <outline type="rss" text="FLOSS Weekly (Audio)" title="FLOSS Weekly (Audio)" xmlUrl="https://feeds.twit.tv/floss.xml" htmlUrl=""/>
-    <outline type="rss" text="Fragmented - The Software Podcast" title="Fragmented - The Software Podcast" xmlUrl="https://feeds.simplecast.com/LpAGSLnY" htmlUrl=""/>
-    <outline type="rss" text="Gastropod" title="Gastropod" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss" htmlUrl=""/>
-    <outline type="rss" text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl=""/>
-    <outline type="rss" text="Hidden Brain" title="Hidden Brain" xmlUrl="https://feeds.npr.org/510308/podcast.xml" htmlUrl=""/>
+    <outline type="rss" text="Discussing the “Breakthrough Year” for Housing Policy with David Garcia" title="Discussing the “Breakthrough Year” for Housing Policy with David Garcia" xmlUrl="https://edenhousing.org/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="Ep 211 Motion Sickness: It comes in waves" title="Ep 211 Motion Sickness: It comes in waves" xmlUrl="https://thispodcastwillkillyou.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Ep. 405 Friday Night Lights by H.G. Bissinger — The Stacks Book Club (Joel Anderson)" title="Ep. 405 Friday Night Lights by H.G. Bissinger — The Stacks Book Club (Joel Anderson)" xmlUrl="https://www.thestackspodcast.com/2025?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 1014 - The Bruno Bombshell" title="Episode 1014 - The Bruno Bombshell" xmlUrl="https://www.arsenalvisionpodcast.com/episodes?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 127: Manisha Shah" title="Episode 127: Manisha Shah" xmlUrl="https://www.probablecausation.com/podcasts?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 14: A look back at 2025" title="Episode 14: A look back at 2025" xmlUrl="https://feeds.transistor.fm/inotifypodcastchanged" htmlUrl=""/>
+    <outline type="rss" text="Episode 165: A Bit of a Podcast Update" title="Episode 165: A Bit of a Podcast Update" xmlUrl="https://feeds.buzzsprout.com/1187351.rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 1686 - Barack Obama" title="Episode 1686 - Barack Obama" xmlUrl="http://www.wtfpod.com/podcast?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 65: If I Get Famous, Inflamed By Gravity" title="Episode 65: If I Get Famous, Inflamed By Gravity" xmlUrl="https://adrianhasissues.com/tlatpodcast/episodes?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 80: Season 3 Finale" title="Episode 80: Season 3 Finale" xmlUrl="https://anchor.fm/s/ef73b8e8/podcast/rss" htmlUrl=""/>
+    <outline type="rss" text="Episode 89: Preeti Vangani (Of Being Rooted in Elegy, Embodiment, and Inexhaustibility in Poetry)" title="Episode 89: Preeti Vangani (Of Being Rooted in Elegy, Embodiment, and Inexhaustibility in Poetry)" xmlUrl="https://ofpoetrypodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Episode 925, “Vinsmocchio”" title="Episode 925, “Vinsmocchio”" xmlUrl="https://www.onepiecepodcast.com/podcast?format=rss" htmlUrl=""/>
+    <outline type="rss" text="FH Mini 153 – Tops and Flops" title="FH Mini 153 – Tops and Flops" xmlUrl="https://www.flophousepodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="FREE PODCAST 7/10 – PWTorch Dailycast – PWTorch ‘90s Pastcast: Moynahan &amp; McDonald discuss PWTorch Newsletter #395 (7-6-96) including Warrior and WWF issues, Summerslam lineup, Third Man rumors, more" title="FREE PODCAST 7/10 – PWTorch Dailycast – PWTorch ‘90s Pastcast: Moynahan &amp; McDonald discuss PWTorch Newsletter #395 (7-6-96) including Warrior and WWF issues, Summerslam lineup, Third Man rumors, more" xmlUrl="https://www.pwtorch.com/site/feed" htmlUrl=""/>
+    <outline type="rss" text="Freestyle Judo Author Steve Scott" title="Freestyle Judo Author Steve Scott" xmlUrl="https://www.7generationgames.com/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="Goodbye (for now)" title="Goodbye (for now)" xmlUrl="https://feed.podbean.com/myoldkentuckypodcast/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Griffin Has No Problem with Houston" title="Griffin Has No Problem with Houston" xmlUrl="https://www.natschatpodcast.com/episode-posts?format=rss" htmlUrl=""/>
+    <outline type="rss" text="GSN PODCAST: Stace and Barry in the Morning - Season 6 Episode 11" title="GSN PODCAST: Stace and Barry in the Morning - Season 6 Episode 11" xmlUrl="http://feeds.libsyn.com/19174/rss" htmlUrl=""/>
+    <outline type="rss" text="Hi All Podcast – Episode 5" title="Hi All Podcast – Episode 5" xmlUrl="https://kevinpsb.com/feed" htmlUrl=""/>
+    <outline type="rss" text="HigherEd PodCon Announces Finalists for Inaugural Higher Education Podcasting Awards" title="HigherEd PodCon Announces Finalists for Inaugural Higher Education Podcasting Awards" xmlUrl="https://feeds.transistor.fm/small-college-america" htmlUrl=""/>
     <outline type="rss" text="How I Built This with Guy Raz" title="How I Built This with Guy Raz" xmlUrl="https://feeds.npr.org/510313/podcast.xml" htmlUrl=""/>
-    <outline type="rss" text="Invisibilia" title="Invisibilia" xmlUrl="https://feeds.npr.org/510307/podcast.xml" htmlUrl=""/>
-    <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://www.latent.space/feed" htmlUrl=""/>
-    <outline type="rss" text="Latent.Space(@latentspacepod)" title="Latent.Space(@latentspacepod)" xmlUrl="https://api.xgo.ing/rss/user/a7be8b61a1264ea7984abfaea3eff686" htmlUrl=""/>
-    <outline type="rss" text="Lenny Rachitsky(@lennysan)" title="Lenny Rachitsky(@lennysan)" xmlUrl="https://api.xgo.ing/rss/user/77d5ce4736854b0ebae603e4b54d3095" htmlUrl=""/>
-    <outline type="rss" text="Lex Fridman(@lexfridman)" title="Lex Fridman(@lexfridman)" xmlUrl="https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15" htmlUrl=""/>
-    <outline type="rss" text="Paul's Security Weekly" title="Paul's Security Weekly" xmlUrl="http://podcast.securityweekly.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Podcast - All TWiT.tv Shows" title="Podcast - All TWiT.tv Shows" xmlUrl="https://feeds.twit.tv/brickhouse.xml" htmlUrl=""/>
+    <outline type="rss" text="How to get 3-4 New Clients a Week From Your Podcast" title="How to get 3-4 New Clients a Week From Your Podcast" xmlUrl="https://onestonecreative.net/feed" htmlUrl=""/>
+    <outline type="rss" text="How to Notice Progress Without Measuring It" title="How to Notice Progress Without Measuring It" xmlUrl="https://takecontroladhd.com/podcast?format=rss" htmlUrl=""/>
+    <outline type="rss" text="If It's Tuesday, This Must Be Belgium" title="If It's Tuesday, This Must Be Belgium" xmlUrl="https://lesleyriddoch.com/podcast?format=feed&amp;type=rss" htmlUrl=""/>
+    <outline type="rss" text="Incoming 28 June 2025 | Ostuni Pride" title="Incoming 28 June 2025 | Ostuni Pride" xmlUrl="https://www.gaypugliapodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Inside “Vipeholmsanstalten”: Podcasting about Institutionalization and Memory in Sweden’s Welfare State" title="Inside “Vipeholmsanstalten”: Podcasting about Institutionalization and Memory in Sweden’s Welfare State" xmlUrl="https://historyofknowledge.hypotheses.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Introducing the winners of 2026’s Publisher Podcast Awards and Publisher Newsletter Awards" title="Introducing the winners of 2026’s Publisher Podcast Awards and Publisher Newsletter Awards" xmlUrl="https://voices.media/feed" htmlUrl=""/>
+    <outline type="rss" text="Iran Strikes US Bases &amp; Israel’s Secret Nuclear Plot w/ Jeremy Scahill &amp; Sami al-Arian" title="Iran Strikes US Bases &amp; Israel’s Secret Nuclear Plot w/ Jeremy Scahill &amp; Sami al-Arian" xmlUrl="https://www.usefulidiotspodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Is RFK Jr a Lizard?? | Vampire Crawlers, Saros, Soul Blazer + More" title="Is RFK Jr a Lizard?? | Vampire Crawlers, Saros, Soul Blazer + More" xmlUrl="https://feeds.transistor.fm/superpod-saga" htmlUrl=""/>
+    <outline type="rss" text="It’s 2026 and this site is working again!" title="It’s 2026 and this site is working again!" xmlUrl="https://animationpodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Jul 02 2026 - Maybe Our Most Famous Guest Ever" title="Jul 02 2026 - Maybe Our Most Famous Guest Ever" xmlUrl="http://queencityib.com/podcasts?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Juror No. 10" title="Juror No. 10" xmlUrl="https://www.radioatlas.org/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="KIC Podcast- Episode 22 – The Prestige Pass and Adventure Port With Nick Gaskins" title="KIC Podcast- Episode 22 – The Prestige Pass and Adventure Port With Nick Gaskins" xmlUrl="https://kicentral.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Land of the Tyrants - Benefits" title="Land of the Tyrants - Benefits" xmlUrl="https://movingtrainmedia.com/polyrical-podcast?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl=""/>
+    <outline type="rss" text="Lethal Mullet Podcast: Episode #316: Masters of the Universe (2026)" title="Lethal Mullet Podcast: Episode #316: Masters of the Universe (2026)" xmlUrl="https://feed.podbean.com/fpnet/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Levy Institute Podcast: The Life And Legacy Of Wynne Godley" title="Levy Institute Podcast: The Life And Legacy Of Wynne Godley" xmlUrl="https://www.concertedaction.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Listen to the Roadburn Essentials Podcast with Archiving Heaviness" title="Listen to the Roadburn Essentials Podcast with Archiving Heaviness" xmlUrl="https://roadburn.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Locked On Top 100 MLB Players of 2026" title="Locked On Top 100 MLB Players of 2026" xmlUrl="https://lockedonpodcasts.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Mind Over Matter: Darwin, AI, and the Future of Reason" title="Mind Over Matter: Darwin, AI, and the Future of Reason" xmlUrl="https://www.discovery.org/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="MWI Podcast: NATO’s Ankara Summit" title="MWI Podcast: NATO’s Ankara Summit" xmlUrl="https://mwi.westpoint.edu/feed" htmlUrl=""/>
+    <outline type="rss" text="Nearly New World: Star Slammer" title="Nearly New World: Star Slammer" xmlUrl="https://newworldpicturespodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="New YMRT Merch and a Holiday Sale!" title="New YMRT Merch and a Holiday Sale!" xmlUrl="http://www.youmustrememberthispodcast.com/episodes?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Pacific Time (podcast): Do Californians Want Autonomy? With Coyote Marin" title="Pacific Time (podcast): Do Californians Want Autonomy? With Coyote Marin" xmlUrl="https://ic.institute/feed" htmlUrl=""/>
+    <outline type="rss" text="PC Podcast Episode 20: PNG’s London Broncos Trio" title="PC Podcast Episode 20: PNG’s London Broncos Trio" xmlUrl="https://www.postcourier.com.pg/feed" htmlUrl=""/>
+    <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl=""/>
+    <outline type="rss" text="Podcast #20 – How do bumblebees collaborate and transfer knowledge? A conversation with Alice Bridges" title="Podcast #20 – How do bumblebees collaborate and transfer knowledge? A conversation with Alice Bridges" xmlUrl="https://culturico.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Podcast Over. Marriage Over. But Here's What's Next" title="Podcast Over. Marriage Over. But Here's What's Next" xmlUrl="https://anchor.fm/s/4626190c/podcast/rss" htmlUrl=""/>
+    <outline type="rss" text="PODCAST Review of:  The Last Adieu: Lafayette’s Triumphant Return, the Echoes of Revolution,  and the Gratitude of the Republic, by Ryan L. Cole" title="PODCAST Review of:  The Last Adieu: Lafayette’s Triumphant Return, the Echoes of Revolution,  and the Gratitude of the Republic, by Ryan L. Cole" xmlUrl="https://regarp.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Podcast | Metanoia or the Reboot?" title="Podcast | Metanoia or the Reboot?" xmlUrl="https://www.disinfolklore.net/feed" htmlUrl=""/>
+    <outline type="rss" text="PODCAST – Not the NHS Again" title="PODCAST – Not the NHS Again" xmlUrl="https://saveournhsleicestershire.uk/feed" htmlUrl=""/>
     <outline type="rss" text="Podcast – Software Engineering Daily" title="Podcast – Software Engineering Daily" xmlUrl="https://softwareengineeringdaily.com/category/podcast/feed" htmlUrl=""/>
-    <outline type="rss" text="Probably Science" title="Probably Science" xmlUrl="https://probablyscience.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Programming Throwdown" title="Programming Throwdown" xmlUrl="http://feeds.feedburner.com/ProgrammingThrowdown" htmlUrl=""/>
-    <outline type="rss" text="Radiolab" title="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl=""/>
-    <outline type="rss" text="Reply All" title="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall" htmlUrl=""/>
-    <outline type="rss" text="Rocket" title="Rocket" xmlUrl="https://www.relay.fm/rocket/feed" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://armscontrolwonk.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://behindthetech.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://changelog.com/gotime/feed" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://feeds.transistor.fm/techeu" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://lexfridman.com/feed/podcast" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrtn5.rss" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://pythonbytes.fm/episodes/rss" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://pythonhunter.org/episodes/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://rss.art19.com/techmeme-ridehome" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://seradio.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://www.disruptingjapan.com/feed/podcast" htmlUrl=""/>
-    <outline type="rss" text="RSS" title="RSS" xmlUrl="https://www.relay.fm/mpu/feed" htmlUrl=""/>
-    <outline type="rss" text="Sawbones: A Marital Tour of Misguided Medicine" title="Sawbones: A Marital Tour of Misguided Medicine" xmlUrl="https://feeds.simplecast.com/y1LF_sn2" htmlUrl=""/>
-    <outline type="rss" text="Shirtloads of Science" title="Shirtloads of Science" xmlUrl="https://shirtloadsofscience.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Sky Sports Cricket Podcast" title="Sky Sports Cricket Podcast" xmlUrl="https://www.spreaker.com/show/3387348/episodes/feed" htmlUrl=""/>
-    <outline type="rss" text="Software Defined Talk" title="Software Defined Talk" xmlUrl="https://feeds.fireside.fm/sdt/rss" htmlUrl=""/>
+    <outline type="rss" text="Podcast: CHRO Featured in USCIRF Podcast on Universal Jurisdiction and Accountability for Burma" title="Podcast: CHRO Featured in USCIRF Podcast on Universal Jurisdiction and Accountability for Burma" xmlUrl="https://www.chinhumanrights.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Podcast: Electricity Was Supposed to Save Us. Will It Doom Us Instead?" title="Podcast: Electricity Was Supposed to Save Us. Will It Doom Us Instead?" xmlUrl="https://insight.kellogg.northwestern.edu/feed/rss" htmlUrl=""/>
+    <outline type="rss" text="Podcast: Jewish Giving: Philanthropy and the Shaping of American Jewish Life by Jack Wertheimer" title="Podcast: Jewish Giving: Philanthropy and the Shaping of American Jewish Life by Jack Wertheimer" xmlUrl="https://nyupress.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Podcast: July 5, 2026: Feat. Mike Little" title="Podcast: July 5, 2026: Feat. Mike Little" xmlUrl="https://tellthebandtogohome.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Podcast: Mayoral Candidate Michael Gainer discusses City Services" title="Podcast: Mayoral Candidate Michael Gainer discusses City Services" xmlUrl="https://www.buffalorising.com/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="PODCAST: NSW Wins The 2026 State Of Origin Series" title="PODCAST: NSW Wins The 2026 State Of Origin Series" xmlUrl="https://www.leaguefreak.com/feed" htmlUrl=""/>
+    <outline type="rss" text="PODCAST: Townsville 500 daily – Friday" title="PODCAST: Townsville 500 daily – Friday" xmlUrl="https://speedcafe.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Podcast: West Side Story in Jazz" title="Podcast: West Side Story in Jazz" xmlUrl="https://jazzcollector.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Podcasting Secrets Surpasses 2.5 Million Views and Listens" title="Podcasting Secrets Surpasses 2.5 Million Views and Listens" xmlUrl="https://podnews.net/prebuilt/rss-press-releases.xml" htmlUrl=""/>
+    <outline type="rss" text="Preview of Grounded with Jon Tester and Maritsa Georgiou" title="Preview of Grounded with Jon Tester and Maritsa Georgiou" xmlUrl="https://feed.podbean.com/groundedpodcast/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Rewind: Your Week in Review for July 3" title="Rewind: Your Week in Review for July 3" xmlUrl="https://wiseye.org/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="Rouslan Nurudinov’s 242kg Triumph: When Iron Became Inspiration" title="Rouslan Nurudinov’s 242kg Triumph: When Iron Became Inspiration" xmlUrl="https://www.gym-flooring.com/blogs/sporting-lore-video-podcast.atom" htmlUrl=""/>
+    <outline type="rss" text="S14. E2: Kevin Sherwin: How do you Milk an Almond?" title="S14. E2: Kevin Sherwin: How do you Milk an Almond?" xmlUrl="https://www.speciesunite.com/podcast?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Salmon Talk Podcasts" title="Salmon Talk Podcasts" xmlUrl="https://tidelines.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="Season Opener Postponed" title="Season Opener Postponed" xmlUrl="https://www.worstlittlepodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="ShiftED Podcast #100 Every Language Belongs: Erin Quirk on Plurilingual Kids and Québec Classrooms" title="ShiftED Podcast #100 Every Language Belongs: Erin Quirk on Plurilingual Kids and Québec Classrooms" xmlUrl="https://blogs.learnquebec.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="Small but Mighty Shifts: Burnout, Boundaries &amp; Becoming" title="Small but Mighty Shifts: Burnout, Boundaries &amp; Becoming" xmlUrl="https://www.nomadpodcast.co.uk/feed" htmlUrl=""/>
     <outline type="rss" text="Software Engineering Radio - The Podcast for Professional Software Developers" title="Software Engineering Radio - The Podcast for Professional Software Developers" xmlUrl="http://feeds.feedburner.com/se-radio" htmlUrl=""/>
-    <outline type="rss" text="Startup Stories - Mixergy" title="Startup Stories - Mixergy" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" htmlUrl=""/>
+    <outline type="rss" text="Special Report: Mortal Kombat II (2026)" title="Special Report: Mortal Kombat II (2026)" xmlUrl="https://www.projectionboothpodcast.com/feeds/posts/default" htmlUrl=""/>
     <outline type="rss" text="Stumped" title="Stumped" xmlUrl="https://podcasts.files.bbci.co.uk/p02gsrmh.rss" htmlUrl=""/>
-    <outline type="rss" text="Switch Hit Podcast" title="Switch Hit Podcast" xmlUrl="https://feeds.megaphone.fm/ESP9247246951" htmlUrl=""/>
+    <outline type="rss" text="Supporting the BMX Racing community with Mike Whittaker" title="Supporting the BMX Racing community with Mike Whittaker" xmlUrl="https://anchor.fm/s/f0364728/podcast/rss" htmlUrl=""/>
+    <outline type="rss" text="T.O.T. – Assassin’s Creed Black Flag Resynced – Transformers Airachnid – ELO Vagabond &amp; Ascend!" title="T.O.T. – Assassin’s Creed Black Flag Resynced – Transformers Airachnid – ELO Vagabond &amp; Ascend!" xmlUrl="https://thisweekingeek.net/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="Tailenders" title="Tailenders" xmlUrl="https://podcasts.files.bbci.co.uk/p02pcb4w.rss" htmlUrl=""/>
+    <outline type="rss" text="Talk About London podcast: What powers do civic societies have? With Ben Derbyshire" title="Talk About London podcast: What powers do civic societies have? With Ben Derbyshire" xmlUrl="https://www.onlondon.co.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="Talking Tariffs and Compliance" title="Talking Tariffs and Compliance" xmlUrl="https://www.radicalcompliance.com/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="Test Match Special" title="Test Match Special" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrsl2.rss" htmlUrl=""/>
-    <outline type="rss" text="The Cynical Developer" title="The Cynical Developer" xmlUrl="https://cynicaldeveloper.com/feed/podcast" htmlUrl=""/>
-    <outline type="rss" text="The Data Engineering Show" title="The Data Engineering Show" xmlUrl="https://feeds.transistor.fm/the-data-engineering-show" htmlUrl=""/>
-    <outline type="rss" text="The Growth Show" title="The Growth Show" xmlUrl="http://thegrowthshow.hubspot.libsynpro.com/" htmlUrl=""/>
-    <outline type="rss" text="The Infinite Monkey Cage" title="The Infinite Monkey Cage" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" htmlUrl=""/>
-    <outline type="rss" text="The Knowledge Project" title="The Knowledge Project" xmlUrl="https://feeds.megaphone.fm/FSMI7575968096" htmlUrl=""/>
-    <outline type="rss" text="the memory palace" title="the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" htmlUrl=""/>
-    <outline type="rss" text="The PIT Show: Reflections and Interviews in the Tech World" title="The PIT Show: Reflections and Interviews in the Tech World" xmlUrl="https://feeds.transistor.fm/productivity-in-tech-podcast" htmlUrl=""/>
+    <outline type="rss" text="The band and the rhythm" title="The band and the rhythm" xmlUrl="https://www.embo.org/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="The BHA Podcast: Financial Risk Assessments – What now?" title="The BHA Podcast: Financial Risk Assessments – What now?" xmlUrl="https://www.britishhorseracing.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The Gamesline Podcast Episode 96: Boning Up with Xyros" title="The Gamesline Podcast Episode 96: Boning Up with Xyros" xmlUrl="https://gamesline.net/feed" htmlUrl=""/>
+    <outline type="rss" text="The InfiNOT Podcast Ep. 59 - Invisible Woman First Steps Projects a FANTASTIC OTA!" title="The InfiNOT Podcast Ep. 59 - Invisible Woman First Steps Projects a FANTASTIC OTA!" xmlUrl="https://feed.ausha.co/eglWEuAEWEzQ" htmlUrl=""/>
+    <outline type="rss" text="The Making of a Quote / 2 Images / 2 Prompts / 1 Podcast" title="The Making of a Quote / 2 Images / 2 Prompts / 1 Podcast" xmlUrl="https://sorcerersapprentice.ai/feed" htmlUrl=""/>
+    <outline type="rss" text="The Man Who Got Everything He Wanted" title="The Man Who Got Everything He Wanted" xmlUrl="https://www.raisethedeadpodcast.com/episodes?format=rss" htmlUrl=""/>
+    <outline type="rss" text="The Oxide 3D Explorer" title="The Oxide 3D Explorer" xmlUrl="https://feeds.transistor.fm/oxide-and-friends" htmlUrl=""/>
+    <outline type="rss" text="The Player 2 PixelCast 188" title="The Player 2 PixelCast 188" xmlUrl="https://www.player2.net.au/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="THE PODCAST ON HAUNTED HILL EPISODE 190 - SUMMER OF 84" title="THE PODCAST ON HAUNTED HILL EPISODE 190 - SUMMER OF 84" xmlUrl="https://feeds.transistor.fm/legion-podcasts" htmlUrl=""/>
+    <outline type="rss" text="The Poltergeist Boy" title="The Poltergeist Boy" xmlUrl="https://anchor.fm/s/3adadc68/podcast/rss" htmlUrl=""/>
     <outline type="rss" text="The Stack Overflow Podcast" title="The Stack Overflow Podcast" xmlUrl="https://feeds.simplecast.com/XA_851k3" htmlUrl=""/>
-    <outline type="rss" text="The Startup Junkies Podcast" title="The Startup Junkies Podcast" xmlUrl="https://startupjunkie.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="The Tim Ferriss Show" title="The Tim Ferriss Show" xmlUrl="https://rss.art19.com/tim-ferriss-show" htmlUrl=""/>
-    <outline type="rss" text="The Vergecast" title="The Vergecast" xmlUrl="https://feeds.megaphone.fm/vergecast" htmlUrl=""/>
+    <outline type="rss" text="The Unknown Origins of Mario with Drew Mackie, Star Fox" title="The Unknown Origins of Mario with Drew Mackie, Star Fox" xmlUrl="https://anchor.fm/s/6ebca6b0/podcast/rss" htmlUrl=""/>
     <outline type="rss" text="The Women in Tech Show: A Technical Podcast" title="The Women in Tech Show: A Technical Podcast" xmlUrl="https://thewomenintechshow.com/category/podcast/feed" htmlUrl=""/>
-    <outline type="rss" text="This Week in Science – The Kickass Science Podcast" title="This Week in Science – The Kickass Science Podcast" xmlUrl="http://www.twis.org/feed" htmlUrl=""/>
-    <outline type="rss" text="This Week in Tech (Audio)" title="This Week in Tech (Audio)" xmlUrl="https://feeds.twit.tv/twit.xml" htmlUrl=""/>
-    <outline type="rss" text="Throughline" title="Throughline" xmlUrl="https://feeds.npr.org/510333/podcast.xml" htmlUrl=""/>
-    <outline type="rss" text="Under the Radar" title="Under the Radar" xmlUrl="https://www.relay.fm/radar/feed" htmlUrl=""/>
-    <outline type="rss" text="Video - All TWiT.tv Shows" title="Video - All TWiT.tv Shows" xmlUrl="https://feeds.twit.tv/brickhouse_video_hd.xml" htmlUrl=""/>
-    <outline type="rss" text="Wisden Cricket Weekly" title="Wisden Cricket Weekly" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss" htmlUrl=""/>
-    <outline type="rss" text="You Must Remember This" title="You Must Remember This" xmlUrl="https://feeds.megaphone.fm/YMRT7068253588" htmlUrl=""/>
+    <outline type="rss" text="The World Cup and lessons about making change – ChangeMakers Digest" title="The World Cup and lessons about making change – ChangeMakers Digest" xmlUrl="https://changemakerspodcast.org/feed" htmlUrl=""/>
+    <outline type="rss" text="This Week in China's History: The Tianjin Massacre" title="This Week in China's History: The Tianjin Massacre" xmlUrl="https://www.sinicapodcast.com/feed?sectionId=110276" htmlUrl=""/>
+    <outline type="rss" text="Trailer: On the Record at The National Archives" title="Trailer: On the Record at The National Archives" xmlUrl="https://www.nationalarchives.gov.uk/rss/podcasts.xml" htmlUrl=""/>
+    <outline type="rss" text="UA Local 43 on Bloomberg's Apprenticeship Grant and Tennessee Valley Growth" title="UA Local 43 on Bloomberg's Apprenticeship Grant and Tennessee Valley Growth" xmlUrl="https://feed.podbean.com/AmericasWorkForceRadioPodcast/feed.xml" htmlUrl=""/>
+    <outline type="rss" text="Under Pressure" title="Under Pressure" xmlUrl="https://feeds.transistor.fm/fallthrough" htmlUrl=""/>
+    <outline type="rss" text="Understanding Dreams in Hypnagogia 無限の夢 Boundless Dreams" title="Understanding Dreams in Hypnagogia 無限の夢 Boundless Dreams" xmlUrl="https://feeds.transistor.fm/dotzip" htmlUrl=""/>
+    <outline type="rss" text="Vatican Astronomer Br. Guy Consolmagno, SJ on Awe and the Universe – Betwixt Podcast" title="Vatican Astronomer Br. Guy Consolmagno, SJ on Awe and the Universe – Betwixt Podcast" xmlUrl="https://www.vaticanobservatory.org/feed" htmlUrl=""/>
+    <outline type="rss" text="VAULT13 | Vault 818 | Apocalypse World" title="VAULT13 | Vault 818 | Apocalypse World" xmlUrl="https://www.happyjacks.org/category/actual-play-podcast/vault-818/feed" htmlUrl=""/>
+    <outline type="rss" text="Video Podcast: The Cost of Living, Housing Affordability and Taxation" title="Video Podcast: The Cost of Living, Housing Affordability and Taxation" xmlUrl="https://abls.com.au/feed" htmlUrl=""/>
+    <outline type="rss" text="Video Podcast: The Cost of Living, Housing Affordability and Taxation" title="Video Podcast: The Cost of Living, Housing Affordability and Taxation" xmlUrl="https://craighill.net/feed" htmlUrl=""/>
+    <outline type="rss" text="Visualizing Sound - The Storytelling Genius of Coheed and Cambria" title="Visualizing Sound - The Storytelling Genius of Coheed and Cambria" xmlUrl="https://feeds.transistor.fm/lenses-lyrics" htmlUrl=""/>
+    <outline type="rss" text="We Love Ugly Data! – The Deep Analysis Podcast: Series 5, Episode 7" title="We Love Ugly Data! – The Deep Analysis Podcast: Series 5, Episode 7" xmlUrl="https://www.deep-analysis.net/feed" htmlUrl=""/>
+    <outline type="rss" text="What Power is For" title="What Power is For" xmlUrl="https://www.crosstabspodcast.com/feed" htmlUrl=""/>
+    <outline type="rss" text="What Roswall’s Clean Industrial Deal means for environmental policy" title="What Roswall’s Clean Industrial Deal means for environmental policy" xmlUrl="https://feeds.transistor.fm/todayintheeu" htmlUrl=""/>
+    <outline type="rss" text="Why Even Top Leaders Need Coaching to Perform Better" title="Why Even Top Leaders Need Coaching to Perform Better" xmlUrl="https://www.harvardae.org/podcasts?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Why My Blog Is Still My Home on the Internet" title="Why My Blog Is Still My Home on the Internet" xmlUrl="https://feeds.transistor.fm/soulcruzer" htmlUrl=""/>
+    <outline type="rss" text="Why Podcast Creator Marketing Trends in 2026 Explained" title="Why Podcast Creator Marketing Trends in 2026 Explained" xmlUrl="https://thebusinesssuccessgroup.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Why? Sailing solo and non-stop around Antarctica, again: Lisa Blair" title="Why? Sailing solo and non-stop around Antarctica, again: Lisa Blair" xmlUrl="https://www.australiangeographic.com.au/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="WordPress 7.1 Release Schedule" title="WordPress 7.1 Release Schedule" xmlUrl="https://www.wppodcast.org/feed/podcast" htmlUrl=""/>
+    <outline type="rss" text="ZUCast: The Zelda Universe Podcast – June 2026) Arguing the Zelda Timeline" title="ZUCast: The Zelda Universe Podcast – June 2026) Arguing the Zelda Timeline" xmlUrl="https://zeldauniverse.net/feed/podcast" htmlUrl=""/>
   </body>
 </opml>
