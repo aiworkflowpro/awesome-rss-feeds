@@ -1,0 +1,41 @@
+name: Suggest a new feed
+description: Recommend an RSS feed worth including
+title: "[New feed] "
+labels: ["new-source"]
+body:
+  - type: input
+    id: rss_url
+    attributes:
+      label: RSS feed URL
+      description: Must be a valid RSS / Atom feed URL (test it in a reader first to confirm it subscribes correctly)
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: true
+  - type: input
+    id: site_url
+    attributes:
+      label: Site homepage URL
+      description: The homepage of the site this feed belongs to
+      placeholder: https://example.com
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      description: Pick the single best fit from the seven top-level categories
+      options:
+        - ai-and-ml (AI & machine learning)
+        - tech-and-startups (tech & startups)
+        - chinese-blogs (Chinese independent blogs)
+        - dev-and-opensource (development & open source)
+        - design-and-product (design & product)
+        - news-and-finance (news & finance)
+        - rss-tools (RSS tools & ecosystem)
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Short reason
+      description: Why is it worth including? Update frequency / content quality / unique value (≤200 chars)
+    validations:
+      required: true

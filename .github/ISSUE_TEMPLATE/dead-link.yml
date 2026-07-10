@@ -1,0 +1,30 @@
+name: Report a dead link
+description: Submit a broken RSS feed
+title: "[Dead link] "
+labels: ["dead-link"]
+body:
+  - type: input
+    id: dead_url
+    attributes:
+      label: Dead URL
+      description: The broken RSS feed URL
+    validations:
+      required: true
+  - type: dropdown
+    id: error_type
+    attributes:
+      label: Error type
+      options:
+        - "404 Not Found"
+        - "Timeout / no response"
+        - "Returns a 5xx error"
+        - "Returns non-RSS / Atom content"
+        - "Domain gone / site shut down"
+        - "Not updated for over 6 months"
+    validations:
+      required: true
+  - type: textarea
+    id: replacement
+    attributes:
+      label: Replacement feed (optional)
+      description: If the feed moved to a new address, provide it so we can replace rather than delete

@@ -1,0 +1,26 @@
+name: Propose a new category
+description: Propose a new top-level category (high bar)
+title: "[Category] "
+labels: ["category-suggest"]
+body:
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Proposed new category
+      description: Name + boundary (what's in / what's out)
+    validations:
+      required: true
+  - type: textarea
+    id: source_pool
+    attributes:
+      label: At least 20 candidate feeds
+      description: The bar for a new top-level category is having enough feeds to fill it — list at least 20 candidate RSS URLs
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Boundary against the existing seven categories
+      description: Why can't it fit into one of the existing seven, and why does it need to stand on its own?
+    validations:
+      required: true

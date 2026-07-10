@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-05-08T02:53:22Z",
+  "scope": "curated-public-feeds",
+  "active_count": 1207,
+  "category_count": 15,
+  "by_language": {
+    "en": 1207
+  },
+  "by_category": {
+    "en-ai-research": 80,
+    "en-ai-tools": 81,
+    "en-finance": 36,
+    "en-essays": 59,
+    "en-backend": 63,
+    "en-web-frontend": 300,
+    "en-dev-tools": 86,
+    "en-podcasts": 77,
+    "en-lifestyle": 185,
+    "en-startups": 58,
+    "en-devops-data": 20,
+    "en-mobile": 56,
+    "en-newsletters": 7,
+    "en-product-design": 49,
+    "en-tech-teams": 50
+  },
+  "filter_funnel": {
+    "total_candidates": 5297,
+    "after_exclude": 5297,
+    "after_tier": 3751,
+    "after_quality_safe": 3751,
+    "after_lang": 3751,
+    "after_min_conf": 3719,
+    "final": 2000
+  },
+  "rules_applied": {
+    "tier_threshold": [
+      "S",
+      "A",
+      "B"
+    ],
+    "quality_safe_only": true,
+    "language_whitelist": [
+      "en",
+      "zh"
+    ],
+    "exclude_categories": []
+  }
+}
