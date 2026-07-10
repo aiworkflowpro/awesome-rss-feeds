@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · News &amp; Politics</title>
-    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
+    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="https://qudata.com/en/news/rss.xml" title="https://qudata.com/en/news/rss.xml" xmlUrl="https://qudata.com/en/news/rss.xml" htmlUrl=""/>
@@ -63,7 +63,6 @@
     <outline type="rss" text="AI Alt Text for the Fediverse: Chrome extension for generating image alt text on Mastodon" title="AI Alt Text for the Fediverse: Chrome extension for generating image alt text on Mastodon" xmlUrl="https://www.coywolf.news/feed" htmlUrl=""/>
     <outline type="rss" text="AI Cold War: New Chapter of Great Power Competition?" title="AI Cold War: New Chapter of Great Power Competition?" xmlUrl="https://www.visionofhumanity.org/feed" htmlUrl=""/>
     <outline type="rss" text="AI skills now listed in 73% of tech job postings" title="AI skills now listed in 73% of tech job postings" xmlUrl="https://www.hrdive.com/feeds/news" htmlUrl=""/>
-    <outline type="rss" text="Ain't It Cool News Feed" title="Ain't It Cool News Feed" xmlUrl="https://www.aintitcool.com/node/feed" htmlUrl=""/>
     <outline type="rss" text="Air pollution may explain regional gaps in sperm quality," title="Air pollution may explain regional gaps in sperm quality," xmlUrl="https://talker.news/feed" htmlUrl=""/>
     <outline type="rss" text="Ajinkya Rahane Urges Selection Committee Overhaul, Warns Ajit Agarkar: ‘Selectors Shouldn’t Be Feared’" title="Ajinkya Rahane Urges Selection Committee Overhaul, Warns Ajit Agarkar: ‘Selectors Shouldn’t Be Feared’" xmlUrl="https://e2bangladesh.com/index.php/feed" htmlUrl=""/>
     <outline type="rss" text="Alaska Senate Race Ads Mislead on Peltola’s Votes on Military Pay Raise" title="Alaska Senate Race Ads Mislead on Peltola’s Votes on Military Pay Raise" xmlUrl="https://www.factcheck.org/feed" htmlUrl=""/>
@@ -72,6 +71,7 @@
     <outline type="rss" text="Alien: Earth expands" title="Alien: Earth expands" xmlUrl="https://scifibulletin.com/feed" htmlUrl=""/>
     <outline type="rss" text="All Modern Vehicles Suck" title="All Modern Vehicles Suck" xmlUrl="https://switchedtolinux.com/news?format=feed&amp;type=rss" htmlUrl=""/>
     <outline type="rss" text="All the Times We Touched" title="All the Times We Touched" xmlUrl="https://dynasty-scans.com/feed" htmlUrl=""/>
+    <outline type="rss" text="All: BreakingNews.ie" title="All: BreakingNews.ie" xmlUrl="https://feeds.breakingnews.ie/bntopstories" htmlUrl=""/>
     <outline type="rss" text="Alliance with Ukraine advantage, not burden for U.S. – Senator Graham" title="Alliance with Ukraine advantage, not burden for U.S. – Senator Graham" xmlUrl="https://www.ukrinform.net/rss/block-lastnews" htmlUrl=""/>
     <outline type="rss" text="Altony ‘Tony’ Lee III named chair of the FSU Alumni Association National Board of Directors" title="Altony ‘Tony’ Lee III named chair of the FSU Alumni Association National Board of Directors" xmlUrl="https://news.fsu.edu/feed" htmlUrl=""/>
     <outline type="rss" text="Amandala #3943 Friday , July 10, 2026" title="Amandala #3943 Friday , July 10, 2026" xmlUrl="https://amandala.com.bz/news/feed" htmlUrl=""/>
@@ -102,6 +102,7 @@
     <outline type="rss" text="Australians are ready for gambling reform. Parliament should finish the job" title="Australians are ready for gambling reform. Parliament should finish the job" xmlUrl="https://www.anglicare.asn.au/feed" htmlUrl=""/>
     <outline type="rss" text="Australia’s health – questions, concerns, gaps and some good news" title="Australia’s health – questions, concerns, gaps and some good news" xmlUrl="https://www.croakey.org/feed" htmlUrl=""/>
     <outline type="rss" text="Avoid the crowds at Spain’s lesser-known Costas" title="Avoid the crowds at Spain’s lesser-known Costas" xmlUrl="https://www.which.co.uk/news/feed" htmlUrl=""/>
+    <outline type="rss" text="Axios" title="Axios" xmlUrl="https://api.axios.com/feed" htmlUrl=""/>
     <outline type="rss" text="Backchannel: President Trump And Israel Changed The Strategic Landscape. Now Washington Must Make Sure Tehran Doesn’t Change It Back." title="Backchannel: President Trump And Israel Changed The Strategic Landscape. Now Washington Must Make Sure Tehran Doesn’t Change It Back." xmlUrl="https://ajcongress.org/feed" htmlUrl=""/>
     <outline type="rss" text="Barbie stamps make their debut" title="Barbie stamps make their debut" xmlUrl="https://news.usps.com/feed" htmlUrl=""/>
     <outline type="rss" text="Barry Burden Comments on Gerrymandering Decision in New York Times" title="Barry Burden Comments on Gerrymandering Decision in New York Times" xmlUrl="https://elections.wisc.edu/feed" htmlUrl=""/>
@@ -109,6 +110,7 @@
     <outline type="rss" text="BBC News - India" title="BBC News - India" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml" htmlUrl=""/>
     <outline type="rss" text="BBC News - World" title="BBC News - World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl=""/>
     <outline type="rss" text="BC Greens: Lower death toll should not reduce government action on toxic drug crisis" title="BC Greens: Lower death toll should not reduce government action on toxic drug crisis" xmlUrl="https://bcgreencaucus.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="BD24Live.com" title="BD24Live.com" xmlUrl="https://www.bd24live.com/feed" htmlUrl=""/>
     <outline type="rss" text="Before Sputnik: The Mystery Lights That Refuse to Die" title="Before Sputnik: The Mystery Lights That Refuse to Die" xmlUrl="https://www.liberationtimes.com/home?format=rss" htmlUrl=""/>
     <outline type="rss" text="Beginning Volodine" title="Beginning Volodine" xmlUrl="https://timesflowstemmed.com/feed" htmlUrl=""/>
     <outline type="rss" text="Benjamin and Ithumba's Dry Season Elephant Visitors" title="Benjamin and Ithumba's Dry Season Elephant Visitors" xmlUrl="https://www.sheldrickwildlifetrust.org/news.rss" htmlUrl=""/>
@@ -124,14 +126,12 @@
     <outline type="rss" text="Bold and the Beautiful Spoilers in Video: Finn Shocks Steffy and Daphne Gets Bad News" title="Bold and the Beautiful Spoilers in Video: Finn Shocks Steffy and Daphne Gets Bad News" xmlUrl="https://soapoperanews.net/feed" htmlUrl=""/>
     <outline type="rss" text="Book Review of the Week: ‘Breaking Barriers: A Librarian’s Story of Changing Times’" title="Book Review of the Week: ‘Breaking Barriers: A Librarian’s Story of Changing Times’" xmlUrl="https://ilovelibraries.org/feed" htmlUrl=""/>
     <outline type="rss" text="BOOK REVIEW | Paris in Ruins: Love, War, and the Birth of Impressionism" title="BOOK REVIEW | Paris in Ruins: Love, War, and the Birth of Impressionism" xmlUrl="https://artistprofile.com.au/feed" htmlUrl=""/>
-    <outline type="rss" text="BOOK RIOT" title="BOOK RIOT" xmlUrl="https://bookriot.com/feed" htmlUrl=""/>
     <outline type="rss" text="Boomtown Blues - Texas 1937: The Rite Stuff Spring/Summer 2026 Collection" title="Boomtown Blues - Texas 1937: The Rite Stuff Spring/Summer 2026 Collection" xmlUrl="https://the-rite-stuff.com/blogs/news.atom" htmlUrl=""/>
     <outline type="rss" text="Boot Calendasr pics" title="Boot Calendasr pics" xmlUrl="https://www.footyheadlines.com/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Boss Hoggs" title="Boss Hoggs" xmlUrl="https://www.politicsnc.com/feed" htmlUrl=""/>
     <outline type="rss" text="BP’s exit from Bay du Nord a ‘mixed bag’ as Equinor takes full control, analyst says" title="BP’s exit from Bay du Nord a ‘mixed bag’ as Equinor takes full control, analyst says" xmlUrl="https://www.ipolitics.ca/feed" htmlUrl=""/>
     <outline type="rss" text="Breaking Form Selects: Lynda Hull (A Summer Poetry Salon)" title="Breaking Form Selects: Lynda Hull (A Summer Poetry Salon)" xmlUrl="https://feeds.buzzsprout.com/1865753.rss" htmlUrl=""/>
     <outline type="rss" text="Breaking Ground on Meta’s First Data Center in Canada" title="Breaking Ground on Meta’s First Data Center in Canada" xmlUrl="https://about.fb.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" htmlUrl=""/>
     <outline type="rss" text="Breaking Stereotypes: Empowerment Through Broadcasting" title="Breaking Stereotypes: Empowerment Through Broadcasting" xmlUrl="https://www.transradiouk.com/feed" htmlUrl=""/>
     <outline type="rss" text="Breaking T releases “Jake Bauers: Barrel Man” shirt" title="Breaking T releases “Jake Bauers: Barrel Man” shirt" xmlUrl="https://www.brewcrewball.com/rss/index.xml" htmlUrl=""/>
     <outline type="rss" text="BREAKING: BioNTech Shuts Down Its Biggest mRNA Plant in Asia - Because Nobody Wants the Jab Anymore" title="BREAKING: BioNTech Shuts Down Its Biggest mRNA Plant in Asia - Because Nobody Wants the Jab Anymore" xmlUrl="https://www.aussie17.com/feed" htmlUrl=""/>
@@ -147,6 +147,7 @@
     <outline type="rss" text="Burnham's contrition on Gaza is hollow. Watch what he actually does in power" title="Burnham's contrition on Gaza is hollow. Watch what he actually does in power" xmlUrl="https://jonathancook.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Business &amp; Operations" title="Business &amp; Operations" xmlUrl="https://www.sandia.gov/news/feed" htmlUrl=""/>
     <outline type="rss" text="Business News - Latest Headlines" title="Business News - Latest Headlines" xmlUrl="https://www.businessnews.com.au/rssfeed/latest.rss" htmlUrl=""/>
+    <outline type="rss" text="BusinessWorld" title="BusinessWorld" xmlUrl="https://www.bworldonline.com/feed" htmlUrl=""/>
     <outline type="rss" text="Butcher Barn Meats Recalled in Canada For Mustard and Soy" title="Butcher Barn Meats Recalled in Canada For Mustard and Soy" xmlUrl="https://foodpoisoningbulletin.com/feed" htmlUrl=""/>
     <outline type="rss" text="Calgary Stampeders in CFL's Week 6: Zy Alexander sudden secondary star" title="Calgary Stampeders in CFL's Week 6: Zy Alexander sudden secondary star" xmlUrl="https://calgaryherald.com/feed/atom" htmlUrl=""/>
     <outline type="rss" text="Call for a Constitutional Convention Veils Anti-Constitutionalism and Portends Political Chaos" title="Call for a Constitutional Convention Veils Anti-Constitutionalism and Portends Political Chaos" xmlUrl="https://defendourconstitution.org/feed" htmlUrl=""/>
@@ -162,7 +163,6 @@
     <outline type="rss" text="Catching the Vibe" title="Catching the Vibe" xmlUrl="https://www.sineofthetimes.org/feed" htmlUrl=""/>
     <outline type="rss" text="Cavendish Update 7/10/26: Tag Sale/News/Events" title="Cavendish Update 7/10/26: Tag Sale/News/Events" xmlUrl="http://www.cavendishconnects.com/blog?format=rss" htmlUrl=""/>
     <outline type="rss" text="CBS News has lost its way… And Scott Pelley’s exit proves it." title="CBS News has lost its way… And Scott Pelley’s exit proves it." xmlUrl="https://tvlive.site/feed" htmlUrl=""/>
-    <outline type="rss" text="CENSUS" title="CENSUS" xmlUrl="https://census-labs.com/news/feeds/rss" htmlUrl="https://census-labs.com/news/"/>
     <outline type="rss" text="Challenging Politically Discriminatory Funding Cuts" title="Challenging Politically Discriminatory Funding Cuts" xmlUrl="https://publiclawlibrary.org/feed" htmlUrl=""/>
     <outline type="rss" text="Charlie Kirk Murder Case: What Prosecutors Revealed During Key Court Hearing" title="Charlie Kirk Murder Case: What Prosecutors Revealed During Key Court Hearing" xmlUrl="https://totalapexherald.com/feed" htmlUrl=""/>
     <outline type="rss" text="Chelsea Must Hold Firm on Enzo Fernandez With No £120m Bid in Sight" title="Chelsea Must Hold Firm on Enzo Fernandez With No £120m Bid in Sight" xmlUrl="https://chelsea.news/feed" htmlUrl=""/>
@@ -202,9 +202,8 @@
     <outline type="rss" text="Cuban Communist Party Recognizes Raul Castro’s Grandson as Key Negotiator with USA" title="Cuban Communist Party Recognizes Raul Castro’s Grandson as Key Negotiator with USA" xmlUrl="https://havanatimes.org/feed" htmlUrl=""/>
     <outline type="rss" text="Current Affairs MCQs: 10-July-2026 | UPSC, SSC Daily Quiz with Answers &amp; Notes" title="Current Affairs MCQs: 10-July-2026 | UPSC, SSC Daily Quiz with Answers &amp; Notes" xmlUrl="https://currentaffairsworld.in/feed" htmlUrl=""/>
     <outline type="rss" text="Curse the blasted, jelly-boned swines" title="Curse the blasted, jelly-boned swines" xmlUrl="https://news.lettersofnote.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Cyber Strategies for a World at War" title="Cyber Strategies for a World at War" xmlUrl="http://cyberstrategies.wordpress.com/feed" htmlUrl="https://cyberstrategies.wordpress.com"/>
     <outline type="rss" text="Daily Express :: News Feed" title="Daily Express :: News Feed" xmlUrl="http://feeds.feedburner.com/daily-express-news-showbiz" htmlUrl=""/>
-    <outline type="rss" text="Daily Tech News Show" title="Daily Tech News Show" xmlUrl="https://feeds.acast.com/public/shows/61954547cb03c875f7617118" htmlUrl="http://www.dailytechnewsshow.com/"/>
+    <outline type="rss" text="Daily Post Nigeria" title="Daily Post Nigeria" xmlUrl="https://dailypost.ng/feed" htmlUrl=""/>
     <outline type="rss" text="Dangerous Liaisons: The Relationship Arc in Mystery Novels" title="Dangerous Liaisons: The Relationship Arc in Mystery Novels" xmlUrl="https://darlingaxe.com/blogs/news.atom" htmlUrl=""/>
     <outline type="rss" text="Daratumumab Pilot Study Offers New Insights into ME/CFS" title="Daratumumab Pilot Study Offers New Insights into ME/CFS" xmlUrl="https://oxaloacetatecfs.com/blogs/news.atom" htmlUrl=""/>
     <outline type="rss" text="Data Insight: Ethnic disparities in recall on licence" title="Data Insight: Ethnic disparities in recall on licence" xmlUrl="https://www.adruk.org/news-publications/publications-reports/rss" htmlUrl=""/>
@@ -213,6 +212,7 @@
     <outline type="rss" text="Davone Proctor" title="Davone Proctor" xmlUrl="https://thegeorgiagazette.com/feed" htmlUrl=""/>
     <outline type="rss" text="Deadlight Dance – Marlborough’s Goths’ new video to support their latest album now out" title="Deadlight Dance – Marlborough’s Goths’ new video to support their latest album now out" xmlUrl="https://marlborough.news/feed" htmlUrl=""/>
     <outline type="rss" text="Death of Console Discs Pushes Gamers to PC" title="Death of Console Discs Pushes Gamers to PC" xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl=""/>
+    <outline type="rss" text="DEBATE" title="DEBATE" xmlUrl="https://www.debate.com.mx/rss/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Deep dishing on Evanston’s summer restaurant news" title="Deep dishing on Evanston’s summer restaurant news" xmlUrl="https://evanstonroundtable.com/feed" htmlUrl=""/>
     <outline type="rss" text="Deep-sea mining's &quot;third age&quot; and the breaking of a bargain" title="Deep-sea mining's &quot;third age&quot; and the breaking of a bargain" xmlUrl="http://www.franciscoblaha.info/blog?format=rss" htmlUrl=""/>
     <outline type="rss" text="Deere settles right to repair dispute with FTC" title="Deere settles right to repair dispute with FTC" xmlUrl="https://www.wastedive.com/feeds/news" htmlUrl=""/>
@@ -274,7 +274,6 @@
     <outline type="rss" text="Fake Medicine Racket Busted: Delhi Police Arrest Alleged Mastermind After Months On The Run" title="Fake Medicine Racket Busted: Delhi Police Arrest Alleged Mastermind After Months On The Run" xmlUrl="https://www.timesnownews.com/feeds/gns-en-latest.xml" htmlUrl=""/>
     <outline type="rss" text="Fake News or State News? Trump’s First 100 Days Blur the Line" title="Fake News or State News? Trump’s First 100 Days Blur the Line" xmlUrl="https://www.theedgemedia.org/feed" htmlUrl=""/>
     <outline type="rss" text="Farm Worker Voices Reach Parliament" title="Farm Worker Voices Reach Parliament" xmlUrl="https://lrc.org.za/feed" htmlUrl=""/>
-    <outline type="rss" text="Fashion | The Guardian" title="Fashion | The Guardian" xmlUrl="https://www.theguardian.com/fashion/rss" htmlUrl=""/>
     <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" htmlUrl=""/>
     <outline type="rss" text="FDA Approves Palbociclib for HR+/HER2+ Metastatic Breast Cancer Maintenance | Oncology Nursing News" title="FDA Approves Palbociclib for HR+/HER2+ Metastatic Breast Cancer Maintenance | Oncology Nursing News" xmlUrl="https://www.mashupmd.com/feed" htmlUrl=""/>
     <outline type="rss" text="Featured Spotlight: Mick Kelly" title="Featured Spotlight: Mick Kelly" xmlUrl="https://news.nau.edu/feed" htmlUrl=""/>
@@ -295,6 +294,7 @@
     <outline type="rss" text="Frank Hardy" title="Frank Hardy" xmlUrl="https://www.whidbeynewstimes.com/feed" htmlUrl=""/>
     <outline type="rss" text="Fraud fight can’t wait on government" title="Fraud fight can’t wait on government" xmlUrl="https://www.paymentsdive.com/feeds/news" htmlUrl=""/>
     <outline type="rss" text="FREE CHAPTER from ‘A Practical Guide to United Kingdom Parliamentary Privilege in Judicial Review Proceedings’ by Sam Fowles" title="FREE CHAPTER from ‘A Practical Guide to United Kingdom Parliamentary Privilege in Judicial Review Proceedings’ by Sam Fowles" xmlUrl="https://www.lawbriefpublishing.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Free Press Journal" title="Free Press Journal" xmlUrl="https://www.freepressjournal.in/stories.rss" htmlUrl=""/>
     <outline type="rss" text="French Political Caricatures" title="French Political Caricatures" xmlUrl="https://artvintagique.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="Friday BP: Oracle Park promotions this weekend" title="Friday BP: Oracle Park promotions this weekend" xmlUrl="https://www.mccoveychronicles.com/rss/index.xml" htmlUrl=""/>
     <outline type="rss" text="Friday Funnies: Brain Freeze" title="Friday Funnies: Brain Freeze" xmlUrl="https://www.malone.news/feed" htmlUrl=""/>
@@ -322,6 +322,7 @@
     <outline type="rss" text="Giga Storage secures financing for 2.8 GWh Belgian BESS, sets construction date" title="Giga Storage secures financing for 2.8 GWh Belgian BESS, sets construction date" xmlUrl="https://www.ess-news.com/feed" htmlUrl=""/>
     <outline type="rss" text="Gillibrand Calls On Department Of Homeland Security To Reinstate Temporary Protected Designation For Haiti" title="Gillibrand Calls On Department Of Homeland Security To Reinstate Temporary Protected Designation For Haiti" xmlUrl="https://www.gillibrand.senate.gov/feed" htmlUrl=""/>
     <outline type="rss" text="Girls’ Angle Bulletin, Volume 19, Number 5" title="Girls’ Angle Bulletin, Volume 19, Number 5" xmlUrl="https://girlsangle.wordpress.com/feed" htmlUrl=""/>
+    <outline type="rss" text="GMA News Online / News" title="GMA News Online / News" xmlUrl="https://data.gmanews.tv/gno/rss/news/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Good News" title="Good News" xmlUrl="https://www.turveyabbey.org.uk/pilgrimage/feed" htmlUrl=""/>
     <outline type="rss" text="Good News 10 July 2026" title="Good News 10 July 2026" xmlUrl="https://knittingnannas.org/feed" htmlUrl=""/>
     <outline type="rss" text="Good News Friday: NC employees get ‘historic’ boost in parental leave" title="Good News Friday: NC employees get ‘historic’ boost in parental leave" xmlUrl="https://cardinalpine.com/feed" htmlUrl=""/>
@@ -336,10 +337,12 @@
     <outline type="rss" text="Graduate Student Receives Major NIH Grant to Study Cannabis and Brain Health in HIV" title="Graduate Student Receives Major NIH Grant to Study Cannabis and Brain Health in HIV" xmlUrl="https://www.instituteforhumanneuroscience.org/news?format=rss" htmlUrl=""/>
     <outline type="rss" text="Graham Platner Is Why You Should Never Stan a Politician" title="Graham Platner Is Why You Should Never Stan a Politician" xmlUrl="https://www.discourseblog.com/feed" htmlUrl=""/>
     <outline type="rss" text="Graham Platner's failure proves change is needed more than ever" title="Graham Platner's failure proves change is needed more than ever" xmlUrl="https://www.progressreport.news/feed" htmlUrl=""/>
-    <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl=""/>
     <outline type="rss" text="GTA 6 News Watch: Date Confirmed For Take-Two Report Next Month With A Twist" title="GTA 6 News Watch: Date Confirmed For Take-Two Report Next Month With A Twist" xmlUrl="https://rockstarintel.com/feed" htmlUrl=""/>
     <outline type="rss" text="Guardians News: One Out of Three Ain’t Good" title="Guardians News: One Out of Three Ain’t Good" xmlUrl="https://www.coveringthecorner.com/rss/index.xml" htmlUrl=""/>
     <outline type="rss" text="GUEST OPINION: Why Singapore’s fertility crisis won't be solved by commodifying human life" title="GUEST OPINION: Why Singapore’s fertility crisis won't be solved by commodifying human life" xmlUrl="https://www.liveaction.org/news/feed" htmlUrl=""/>
+    <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl=""/>
+    <outline type="rss" text="Hacker Noon" title="Hacker Noon" xmlUrl="https://hackernoon.com/feed" htmlUrl="https://hackernoon.com"/>
+    <outline type="rss" text="HackerNoon.com - Medium" title="HackerNoon.com - Medium" xmlUrl="https://medium.com/feed/hackernoon" htmlUrl=""/>
     <outline type="rss" text="Hamas disbanded its government in Gaza, but Israel will still prevent reconstruction from starting" title="Hamas disbanded its government in Gaza, but Israel will still prevent reconstruction from starting" xmlUrl="https://mondoweiss.net/feed" htmlUrl=""/>
     <outline type="rss" text="Handmade, creative products. Sale, garments mending workshop. July 11 &amp; 12. Alwarpet" title="Handmade, creative products. Sale, garments mending workshop. July 11 &amp; 12. Alwarpet" xmlUrl="https://www.mylaporetimes.com/feed" htmlUrl=""/>
     <outline type="rss" text="Hannah Montana Linux Is Back!" title="Hannah Montana Linux Is Back!" xmlUrl="https://www.linux-magazine.com/rss/feed/news" htmlUrl=""/>
@@ -355,9 +358,10 @@
     <outline type="rss" text="Hervé serves as a warning to those who want to invite illegal immigrants into their homes" title="Hervé serves as a warning to those who want to invite illegal immigrants into their homes" xmlUrl="https://expose-news.com/feed" htmlUrl=""/>
     <outline type="rss" text="High on Fire, Monolord, Khemmis to headline RPM Fest in Western Massachusetts" title="High on Fire, Monolord, Khemmis to headline RPM Fest in Western Massachusetts" xmlUrl="https://live-metal.com/feed" htmlUrl=""/>
     <outline type="rss" text="Hil St. Soul Releases Official Video for New Single “With You” | WATCH!" title="Hil St. Soul Releases Official Video for New Single “With You” | WATCH!" xmlUrl="https://news.theurbanmusicscene.com/feed" htmlUrl=""/>
-    <outline type="rss" text="HIPAA News, Web &amp; Email Security Tips &amp; News - Plus More | LuxSci" title="HIPAA News, Web &amp; Email Security Tips &amp; News - Plus More | LuxSci" xmlUrl="https://luxsci.com/blog/feed" htmlUrl="https://luxsci.com/blog"/>
     <outline type="rss" text="His disdain for Europe blind him to the threat it poses" title="His disdain for Europe blind him to the threat it poses" xmlUrl="https://politicsusa46.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Holyrood elections 7th May - Undecided who to vote for on Thursday?" title="Holyrood elections 7th May - Undecided who to vote for on Thursday?" xmlUrl="https://www.ucuedinburgh.org.uk/blog?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Home | Mail Online" title="Home | Mail Online" xmlUrl="https://www.dailymail.co.uk/home/index.rss" htmlUrl=""/>
+    <outline type="rss" text="hongkongnews.net latest rss headlines" title="hongkongnews.net latest rss headlines" xmlUrl="http://feeds.hongkongnews.net/rss/b82693edf38ebff8" htmlUrl=""/>
     <outline type="rss" text="Horse Racing Selections – Friday July 10, 2026" title="Horse Racing Selections – Friday July 10, 2026" xmlUrl="https://twistertipster.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="Houston congresswoman says man killed by ICE wasn’t intended target of agents, who weren’t wearing body cams" title="Houston congresswoman says man killed by ICE wasn’t intended target of agents, who weren’t wearing body cams" xmlUrl="https://www.texasstandard.org/feed" htmlUrl=""/>
     <outline type="rss" text="How AI and SpaceX Wealth Unleashed a Private Jet Boom" title="How AI and SpaceX Wealth Unleashed a Private Jet Boom" xmlUrl="https://news-nest.com/feed" htmlUrl=""/>
@@ -385,6 +389,7 @@
     <outline type="rss" text="I asked 3 separate AIs to pretend to be Nigel Farage’s campaign manager and to propose a strategy to survive the Clacton by-election; this is what they suggested" title="I asked 3 separate AIs to pretend to be Nigel Farage’s campaign manager and to propose a strategy to survive the Clacton by-election; this is what they suggested" xmlUrl="https://alecmuffett.com/feed" htmlUrl=""/>
     <outline type="rss" text="I don’t usually weigh in on political matters, …" title="I don’t usually weigh in on political matters, …" xmlUrl="https://www.soulcruzer.com/feed" htmlUrl=""/>
     <outline type="rss" text="ICE Is Lying About Araujo Killing in Houston as Trump Fires Every Election Referee - 116 Days to the Midterms." title="ICE Is Lying About Araujo Killing in Houston as Trump Fires Every Election Referee - 116 Days to the Midterms." xmlUrl="https://www.narativ.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Il Post" title="Il Post" xmlUrl="https://www.ilpost.it/feed" htmlUrl=""/>
     <outline type="rss" text="Illogical Politics" title="Illogical Politics" xmlUrl="https://brexitrage.com/feed" htmlUrl=""/>
     <outline type="rss" text="Illumina builds out C-suite with 2 new execs" title="Illumina builds out C-suite with 2 new execs" xmlUrl="https://www.medtechdive.com/feeds/news" htmlUrl=""/>
     <outline type="rss" text="IMF &amp; Capital—ism" title="IMF &amp; Capital—ism" xmlUrl="https://thepoliticalgardener.substack.com/feed" htmlUrl=""/>
@@ -392,10 +397,12 @@
     <outline type="rss" text="India News" title="India News" xmlUrl="https://www.dnaindia.com/feeds/india.xml" htmlUrl=""/>
     <outline type="rss" text="Indian Government Cuts Import Duty on Electronics Parts, Giving Smartphone Manufacturing a Boost" title="Indian Government Cuts Import Duty on Electronics Parts, Giving Smartphone Manufacturing a Boost" xmlUrl="https://itmatterss.in/feed" htmlUrl=""/>
     <outline type="rss" text="Information = Comprehension × Extension • Selection 1" title="Information = Comprehension × Extension • Selection 1" xmlUrl="https://inquiryintoinquiry.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Information Nigeria" title="Information Nigeria" xmlUrl="https://www.informationng.com/feed" htmlUrl=""/>
     <outline type="rss" text="Insights from a Former First Responder: 3 Key Ways to Improve School Safety Response Times" title="Insights from a Former First Responder: 3 Key Ways to Improve School Safety Response Times" xmlUrl="https://teachmag.com/feed" htmlUrl=""/>
     <outline type="rss" text="Insurgent politics is identity politics" title="Insurgent politics is identity politics" xmlUrl="https://goodpoliticsbadpolitics.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Intellectual Freedom News 7/10/2026" title="Intellectual Freedom News 7/10/2026" xmlUrl="https://www.oif.ala.org/feed" htmlUrl=""/>
     <outline type="rss" text="Internazionale" title="Internazionale" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="IOL section feed for News" title="IOL section feed for News" xmlUrl="http://rss.iol.io/iol/news" htmlUrl=""/>
     <outline type="rss" text="Ira Glass on his D.C. radio roots and This American Life’s approach to politics" title="Ira Glass on his D.C. radio roots and This American Life’s approach to politics" xmlUrl="https://wamu.org/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="Iran US Israel War Live Updates: Iran Rejects Reports of New Nuclear Talks With US Next Week" title="Iran US Israel War Live Updates: Iran Rejects Reports of New Nuclear Talks With US Next Week" xmlUrl="https://www.timesnownews.com/feeds/gns-en-international.xml" htmlUrl=""/>
     <outline type="rss" text="Iran War Escalation: Is the MOU Dead? NATO Summit, Strait of Hormuz Strikes &amp; US Military Posture | July 9, 2026" title="Iran War Escalation: Is the MOU Dead? NATO Summit, Strait of Hormuz Strikes &amp; US Military Posture | July 9, 2026" xmlUrl="https://thefirebrandproject.substack.com/feed" htmlUrl=""/>
@@ -404,6 +411,7 @@
     <outline type="rss" text="Iraq Raid: $57M Cash – Gold-Made Underwear" title="Iraq Raid: $57M Cash – Gold-Made Underwear" xmlUrl="https://politicaleye.news/feed" htmlUrl=""/>
     <outline type="rss" text="IRCC Reduces Processing Times for Several Permanent Residence and Citizenship Applications" title="IRCC Reduces Processing Times for Several Permanent Residence and Citizenship Applications" xmlUrl="https://www.gtachronicle.com/feed" htmlUrl=""/>
     <outline type="rss" text="Irish Government Announces Annual John Hume Peace Prize" title="Irish Government Announces Annual John Hume Peace Prize" xmlUrl="https://sluggerotoole.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Irish Mirror - Home" title="Irish Mirror - Home" xmlUrl="https://www.irishmirror.ie/?service=rss" htmlUrl=""/>
     <outline type="rss" text="IRS unveils new automatic penalty relief process" title="IRS unveils new automatic penalty relief process" xmlUrl="https://tax.thomsonreuters.com/news/feed" htmlUrl=""/>
     <outline type="rss" text="Is Lebanon hurtling towards a Libya-style civil war?" title="Is Lebanon hurtling towards a Libya-style civil war?" xmlUrl="https://responsiblestatecraft.org/feeds/regions/middle-east.rss" htmlUrl=""/>
     <outline type="rss" text="Is that bot a Pomeranian or a wolf — and who to sue when it ‘bites’?" title="Is that bot a Pomeranian or a wolf — and who to sue when it ‘bites’?" xmlUrl="https://news.harvard.edu/gazette/feed" htmlUrl=""/>
@@ -422,11 +430,11 @@
     <outline type="rss" text="Jail sentence cut for mum who stabbed son 29 times" title="Jail sentence cut for mum who stabbed son 29 times" xmlUrl="https://www.parranews.com.au/feed" htmlUrl=""/>
     <outline type="rss" text="James Butler Earns Player Of The Week Selection From CFL" title="James Butler Earns Player Of The Week Selection From CFL" xmlUrl="https://www.bclions.com/feed" htmlUrl=""/>
     <outline type="rss" text="Japan Times latest articles" title="Japan Times latest articles" xmlUrl="https://www.japantimes.co.jp/feed/topstories" htmlUrl=""/>
+    <outline type="rss" text="Japan Today" title="Japan Today" xmlUrl="https://japantoday.com/feed" htmlUrl=""/>
     <outline type="rss" text="Jared Kushner, The Peace Negotiator Who Earns Billions With War (2)" title="Jared Kushner, The Peace Negotiator Who Earns Billions With War (2)" xmlUrl="https://karat.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="JD Vance's Week In Literally Glaring Racism, Civil War History Lessons, And Cats" title="JD Vance's Week In Literally Glaring Racism, Civil War History Lessons, And Cats" xmlUrl="https://www.wonkette.com/feed" htmlUrl=""/>
     <outline type="rss" text="Jean Tatelbaum awarded Spirit of the Vineyard" title="Jean Tatelbaum awarded Spirit of the Vineyard" xmlUrl="https://www.mvtimes.com/feed" htmlUrl=""/>
     <outline type="rss" text="Jemima and the Wolf by Leonora Carrington" title="Jemima and the Wolf by Leonora Carrington" xmlUrl="https://www.silverpress.org/blogs/news.atom" htmlUrl=""/>
-    <outline type="rss" text="JetBrains News | JetBrains Blog" title="JetBrains News | JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed" htmlUrl=""/>
     <outline type="rss" text="Jews from Ukraine: Golda Meir, born May 3, 1898 in Kyiv, became the most influential woman of the century #еевреїзаука" title="Jews from Ukraine: Golda Meir, born May 3, 1898 in Kyiv, became the most influential woman of the century #еевреїзаука" xmlUrl="https://news.nikk.co.il/en/feed" htmlUrl=""/>
     <outline type="rss" text="Jimmy Alapag banking on continuity over overhaul at NLEX" title="Jimmy Alapag banking on continuity over overhaul at NLEX" xmlUrl="https://tiebreakertimes.com.ph/feed" htmlUrl=""/>
     <outline type="rss" text="John Deere Settles with the FTC in Massive Win for Farmers" title="John Deere Settles with the FTC in Massive Win for Farmers" xmlUrl="https://www.ifixit.com/News/rss" htmlUrl=""/>
@@ -464,6 +472,7 @@
     <outline type="rss" text="Latest News from Southmead Dev Trust: 14th October 2025" title="Latest News from Southmead Dev Trust: 14th October 2025" xmlUrl="https://themead.org/feed" htmlUrl=""/>
     <outline type="rss" text="LDUK rallies politicians to raise Lyme disease awareness" title="LDUK rallies politicians to raise Lyme disease awareness" xmlUrl="https://lymediseaseuk.com/feed" htmlUrl=""/>
     <outline type="rss" text="Leading Election Expert Finds Statistical Signs of Fraud in Pennsylvania Vote Data" title="Leading Election Expert Finds Statistical Signs of Fraud in Pennsylvania Vote Data" xmlUrl="https://tinfoilmatt.substack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Legit.ng" title="Legit.ng" xmlUrl="https://www.legit.ng/rss/all.rss" htmlUrl=""/>
     <outline type="rss" text="Lessons from Local News" title="Lessons from Local News" xmlUrl="https://www.lighthousereports.com/feed" htmlUrl=""/>
     <outline type="rss" text="Let America Be America Again" title="Let America Be America Again" xmlUrl="https://www.altrightdelete.news/feed" htmlUrl=""/>
     <outline type="rss" text="Let's Make a Deal: The CHD Barter + Trade System" title="Let's Make a Deal: The CHD Barter + Trade System" xmlUrl="https://www.christinahollanddesigns.com/blogs/news.atom" htmlUrl=""/>
@@ -479,7 +488,6 @@
     <outline type="rss" text="LORNA SHORE RELEASE NEW SINGLE &amp; VIDEO FOR “WAR MACHINE” ALONGSIDE NEW MERCH DROP" title="LORNA SHORE RELEASE NEW SINGLE &amp; VIDEO FOR “WAR MACHINE” ALONGSIDE NEW MERCH DROP" xmlUrl="https://rocknloadmag.com/feed" htmlUrl=""/>
     <outline type="rss" text="Lukashenko Caves" title="Lukashenko Caves" xmlUrl="https://directorukrainestory.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="LWVSFC Interviewed by Indivisible About Voting and Elections" title="LWVSFC Interviewed by Indivisible About Voting and Elections" xmlUrl="https://lwvsfc.org/feed" htmlUrl=""/>
-    <outline type="rss" text="MacRumors: Mac News and Rumors - Mac Blog" title="MacRumors: Mac News and Rumors - Mac Blog" xmlUrl="http://feeds.macrumors.com/MacRumors-Mac" htmlUrl=""/>
     <outline type="rss" text="Maine US Senate Democratic Choice Update…." title="Maine US Senate Democratic Choice Update…." xmlUrl="https://politicaldog101.com/feed" htmlUrl=""/>
     <outline type="rss" text="Maintaining Well-Being Through Stressful Times" title="Maintaining Well-Being Through Stressful Times" xmlUrl="https://treklongisland.com/feed" htmlUrl=""/>
     <outline type="rss" text="Make It Count, Louth Riverhead Theatre – Review" title="Make It Count, Louth Riverhead Theatre – Review" xmlUrl="https://breaking-the-fourth-wall.com/feed" htmlUrl=""/>
@@ -510,6 +518,7 @@
     <outline type="rss" text="Micro Rainbow responds to the Government’s proposed asylum repayment scheme" title="Micro Rainbow responds to the Government’s proposed asylum repayment scheme" xmlUrl="https://microrainbow.org/feed" htmlUrl=""/>
     <outline type="rss" text="Micron ups US manufacturing, supply chain pledge to $253B" title="Micron ups US manufacturing, supply chain pledge to $253B" xmlUrl="https://www.manufacturingdive.com/feeds/news" htmlUrl=""/>
     <outline type="rss" text="Microsoft News: Key Announcements from FabCon 2026" title="Microsoft News: Key Announcements from FabCon 2026" xmlUrl="https://www.sharepointeurope.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Milan News" title="Milan News" xmlUrl="https://www.milannews.it/rss" htmlUrl=""/>
     <outline type="rss" text="Milburn and Dingley wins medals at the England U20 Championships, while Landers finishes second at Magnificent 7" title="Milburn and Dingley wins medals at the England U20 Championships, while Landers finishes second at Magnificent 7" xmlUrl="https://plymouthsportsgazette.com/feed" htmlUrl=""/>
     <outline type="rss" text="Miners rescue the war-torn ASX yet again" title="Miners rescue the war-torn ASX yet again" xmlUrl="https://smallcaps.com.au/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Minister Shibu Baby John inaugurates School of Future; says 'success lies in learning from failure'" title="Minister Shibu Baby John inaugurates School of Future; says 'success lies in learning from failure'" xmlUrl="https://www.onmanorama.com/news/business.feeds.rss.xml" htmlUrl=""/>
@@ -548,13 +557,10 @@
     <outline type="rss" text="New York’s legislature has passed a bill requiring both AI disclosure and human review of AI-assisted news — the first time a government has tried to legally define what a human editor’s presence requ" title="New York’s legislature has passed a bill requiring both AI disclosure and human review of AI-assisted news — the first time a government has tried to legally define what a human editor’s presence requ" xmlUrl="https://blogherald.com/feed" htmlUrl=""/>
     <outline type="rss" text="New Zealand refugees call on Australian Government to urgently act for Hatam Yekta" title="New Zealand refugees call on Australian Government to urgently act for Hatam Yekta" xmlUrl="https://refugeeaction.org.au/?feed=rss2" htmlUrl=""/>
     <outline type="rss" text="NEW: Mitch McConnell’s Wife Breaks Her Silence" title="NEW: Mitch McConnell’s Wife Breaks Her Silence" xmlUrl="https://trendingpoliticsnews.com/feed" htmlUrl=""/>
-    <outline type="rss" text="News - Apple Developer" title="News - Apple Developer" xmlUrl="https://developer.apple.com/news/rss/news.rss" htmlUrl=""/>
     <outline type="rss" text="News 7/1/26" title="News 7/1/26" xmlUrl="https://histalkpractice.com/feed" htmlUrl=""/>
     <outline type="rss" text="News about the Sagas" title="News about the Sagas" xmlUrl="https://taggartrehnn.com/feed" htmlUrl=""/>
     <outline type="rss" text="News Agency UNIAN" title="News Agency UNIAN" xmlUrl="https://rss.unian.net/site/news_eng.rss" htmlUrl=""/>
     <outline type="rss" text="News Analysis: Veteran journalists pan Hoffmann’s big self-promotion" title="News Analysis: Veteran journalists pan Hoffmann’s big self-promotion" xmlUrl="https://gatewayjr.org/feed" htmlUrl=""/>
-    <outline type="rss" text="News and Events Feed by Topic" title="News and Events Feed by Topic" xmlUrl="https://www.nist.gov/news-events/health/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="News and Events Feed by Topic" title="News and Events Feed by Topic" xmlUrl="https://www.nist.gov/news-events/information%20technology/rss.xml" htmlUrl=""/>
     <outline type="rss" text="News Blog" title="News Blog" xmlUrl="https://newsnblogs.com/feed" htmlUrl=""/>
     <outline type="rss" text="News Medical: Antihistamines show modest benefits for long Covid fatigue treatment" title="News Medical: Antihistamines show modest benefits for long Covid fatigue treatment" xmlUrl="https://meassociation.org.uk/feed" htmlUrl=""/>
     <outline type="rss" text="News On Japan" title="News On Japan" xmlUrl="http://www.newsonjapan.com/rss/top.xml" htmlUrl=""/>
@@ -562,6 +568,7 @@
     <outline type="rss" text="News Roundup: Maine Character Syndrome - the Fall of Graham Platner" title="News Roundup: Maine Character Syndrome - the Fall of Graham Platner" xmlUrl="http://feeds.libsyn.com/152597/rss" htmlUrl=""/>
     <outline type="rss" text="News To Sales" title="News To Sales" xmlUrl="https://www.thelaurelct.com/feed" htmlUrl=""/>
     <outline type="rss" text="News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia" title="News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia" xmlUrl="https://www.oneindia.com/rss/news-fb.xml" htmlUrl=""/>
+    <outline type="rss" text="News24 Top Stories" title="News24 Top Stories" xmlUrl="http://feeds.news24.com/articles/news24/TopStories/rss" htmlUrl=""/>
     <outline type="rss" text="News: Genealogy Audio releases Secrets of Life, a new Soundbox library by Andrew Fly." title="News: Genealogy Audio releases Secrets of Life, a new Soundbox library by Andrew Fly." xmlUrl="https://www.audiopluginguy.com/feed" htmlUrl=""/>
     <outline type="rss" text="News: Hannah Wicklund and The Strawberry Moon Tribune" title="News: Hannah Wicklund and The Strawberry Moon Tribune" xmlUrl="https://joyzine.org/feed" htmlUrl=""/>
     <outline type="rss" text="NEWS: ICE Admits Killing Wrong Man as Narrative Falls Apart, Trump Purges Key Election Officials, Trump Boycotts Bipartisan Housing Bill" title="NEWS: ICE Admits Killing Wrong Man as Narrative Falls Apart, Trump Purges Key Election Officials, Trump Boycotts Bipartisan Housing Bill" xmlUrl="https://aaronparnas.substack.com/feed" htmlUrl=""/>
@@ -582,11 +589,8 @@
     <outline type="rss" text="Notre Dame Arts Initiative awards over $400,000 for community and campus partners to lead inaugural Arts Biennial programming" title="Notre Dame Arts Initiative awards over $400,000 for community and campus partners to lead inaugural Arts Biennial programming" xmlUrl="https://al.nd.edu/news/latest-news.atom" htmlUrl=""/>
     <outline type="rss" text="Nursing students gain global perspective through Costa Rica service trip" title="Nursing students gain global perspective through Costa Rica service trip" xmlUrl="https://www.hawaii.edu/news/feed" htmlUrl=""/>
     <outline type="rss" text="Nursing Times Awards 2025: Public Health Nursing winner and shortlist" title="Nursing Times Awards 2025: Public Health Nursing winner and shortlist" xmlUrl="https://www.nursingtimes.net/feed" htmlUrl=""/>
-    <outline type="rss" text="NYT &gt; Food" title="NYT &gt; Food" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" htmlUrl=""/>
     <outline type="rss" text="NYT &gt; Japan" title="NYT &gt; Japan" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="NYT &gt; Style" title="NYT &gt; Style" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml" htmlUrl=""/>
     <outline type="rss" text="NYT &gt; Top Stories" title="NYT &gt; Top Stories" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl=""/>
-    <outline type="rss" text="NYT &gt; Travel" title="NYT &gt; Travel" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl=""/>
     <outline type="rss" text="NYT &gt; World News" title="NYT &gt; World News" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl=""/>
     <outline type="rss" text="NYT Spelling Bee Answers Today: July 10, 2026 Word List, Pangram &amp; Hints" title="NYT Spelling Bee Answers Today: July 10, 2026 Word List, Pangram &amp; Hints" xmlUrl="https://easternherald.com/feed" htmlUrl=""/>
     <outline type="rss" text="NYT Technology" title="NYT Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" htmlUrl="https://www.nytimes.com/section/technology"/>
@@ -603,10 +607,12 @@
     <outline type="rss" text="One Cigarette Butt Can Pollute a Beach for Years" title="One Cigarette Butt Can Pollute a Beach for Years" xmlUrl="https://www.argophilia.com/news/feed" htmlUrl=""/>
     <outline type="rss" text="Ontario News Essential Resources and Tools You Need To Know" title="Ontario News Essential Resources and Tools You Need To Know" xmlUrl="https://ctcnews.ca/feed" htmlUrl=""/>
     <outline type="rss" text="Open the Door and Enter: Three Times" title="Open the Door and Enter: Three Times" xmlUrl="https://www.umakrishnaswami.com/blog?format=rss" htmlUrl=""/>
+    <outline type="rss" text="OpIndia" title="OpIndia" xmlUrl="https://feeds.feedburner.com/opindia" htmlUrl=""/>
     <outline type="rss" text="OPINION Fire Island: Memory, community and the persistence of queer creativity" title="OPINION Fire Island: Memory, community and the persistence of queer creativity" xmlUrl="https://windycitytimes.com/feed" htmlUrl=""/>
     <outline type="rss" text="Opinion | Schwarz: Say No to Steve Butz: St. Louis Doesn’t Need Another Republican in Jefferson City" title="Opinion | Schwarz: Say No to Steve Butz: St. Louis Doesn’t Need Another Republican in Jefferson City" xmlUrl="http://themissouritimes.com/feed" htmlUrl=""/>
     <outline type="rss" text="Opposition Politician Aleko Elisashvili Sentenced to 13 Years in Jail As Court Finds Him Guilty of ‘Attempted Terrorism’" title="Opposition Politician Aleko Elisashvili Sentenced to 13 Years in Jail As Court Finds Him Guilty of ‘Attempted Terrorism’" xmlUrl="https://civil.ge/feed" htmlUrl=""/>
     <outline type="rss" text="Orangevale Times published my poem “Cost”" title="Orangevale Times published my poem “Cost”" xmlUrl="https://zfthrimej.wordpress.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Ottawa Citizen" title="Ottawa Citizen" xmlUrl="https://ottawacitizen.com/feed" htmlUrl=""/>
     <outline type="rss" text="OUT NOW: Breaking Rommel" title="OUT NOW: Breaking Rommel" xmlUrl="https://rommelsriposte.com/feed" htmlUrl=""/>
     <outline type="rss" text="Outstanding alumna" title="Outstanding alumna" xmlUrl="https://gazette.mun.ca/feed" htmlUrl=""/>
     <outline type="rss" text="OYT South bulletin 9th July 2026" title="OYT South bulletin 9th July 2026" xmlUrl="https://www.oytsouth.org/feed" htmlUrl=""/>
@@ -615,6 +621,7 @@
     <outline type="rss" text="PAF Congratulates Manny Rutinel on Advancing to the General Election for CO-08" title="PAF Congratulates Manny Rutinel on Advancing to the General Election for CO-08" xmlUrl="https://progressactionfund.com/feed" htmlUrl=""/>
     <outline type="rss" text="Page 653" title="Page 653" xmlUrl="https://www.draconiachronicles.com/feed" htmlUrl=""/>
     <outline type="rss" text="PARENTAL COMMITMENT &amp; CHICK STATISTICS" title="PARENTAL COMMITMENT &amp; CHICK STATISTICS" xmlUrl="https://www.uskvalleyospreys.org/news?format=rss" htmlUrl=""/>
+    <outline type="rss" text="Paris Star" title="Paris Star" xmlUrl="https://www.parisstaronline.com/feed" htmlUrl=""/>
     <outline type="rss" text="Park Your Kia Telluride Outside Following 7 Seat Fires" title="Park Your Kia Telluride Outside Following 7 Seat Fires" xmlUrl="http://www.carcomplaints.com/news/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Parliamentarians urge Niger, Burkina Faso and Mali to stay in the International Criminal Court" title="Parliamentarians urge Niger, Burkina Faso and Mali to stay in the International Criminal Court" xmlUrl="https://www.pgaction.org/news/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Parliamentary Cats, Part II: The Cat Sanctuary" title="Parliamentary Cats, Part II: The Cat Sanctuary" xmlUrl="https://todayinottawashistory.wordpress.com/feed" htmlUrl=""/>
@@ -630,6 +637,7 @@
     <outline type="rss" text="PerthNow" title="PerthNow" xmlUrl="https://www.perthnow.com.au/news/feed" htmlUrl=""/>
     <outline type="rss" text="Pete Dominick and I Fuck the News" title="Pete Dominick and I Fuck the News" xmlUrl="https://thefuckingnews.substack.com/feed?sectionId=162574" htmlUrl=""/>
     <outline type="rss" text="Pezeshkian, Sharif talk peace in the Middle East" title="Pezeshkian, Sharif talk peace in the Middle East" xmlUrl="https://breakingthenews.net/news-feed.xml" htmlUrl=""/>
+    <outline type="rss" text="PhilNews.XYZ" title="PhilNews.XYZ" xmlUrl="https://www.philnews.xyz/feeds/posts/default?alt=rss" htmlUrl=""/>
     <outline type="rss" text="philstar.com - RSS Headlines" title="philstar.com - RSS Headlines" xmlUrl="https://www.philstar.com/rss/headlines" htmlUrl=""/>
     <outline type="rss" text="phpMyAdmin 5.2.3 is released" title="phpMyAdmin 5.2.3 is released" xmlUrl="https://www.phpmyadmin.net/news/feed" htmlUrl=""/>
     <outline type="rss" text="Phyllis Bennis on Iran War Costs" title="Phyllis Bennis on Iran War Costs" xmlUrl="https://fair.org/feed" htmlUrl=""/>
@@ -682,7 +690,6 @@
     <outline type="rss" text="Re: War, War, War" title="Re: War, War, War" xmlUrl="https://forum.arctic-sea-ice.net/index.php?PHPSESSID=73510c8a40a77c5bc67bc96728ea811c&amp;action=.xml%3Btype%3Drss2%3Bboard%3D28" htmlUrl=""/>
     <outline type="rss" text="Reaction Times" title="Reaction Times" xmlUrl="https://www.peatsmokejournal.com/spring-2025-flash?format=rss" htmlUrl=""/>
     <outline type="rss" text="Read Short and Prosper: Review of Finnian Burnett’s Redshirts Sometimes Survive: A Novella in Flash" title="Read Short and Prosper: Review of Finnian Burnett’s Redshirts Sometimes Survive: A Novella in Flash" xmlUrl="https://www.smokelong.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Recorded Future" title="Recorded Future" xmlUrl="https://www.recordedfuture.com/feed" htmlUrl=""/>
     <outline type="rss" text="Red, White &amp; Bluejeans: A Festival, A Crime Scene, and a Portrait of America" title="Red, White &amp; Bluejeans: A Festival, A Crime Scene, and a Portrait of America" xmlUrl="https://news.thecrackden.com/feed" htmlUrl=""/>
     <outline type="rss" text="Refugee Camps To CEO: Avinash Kaul Chronicles His Journey In &quot;The Next Mountain&quot;" title="Refugee Camps To CEO: Avinash Kaul Chronicles His Journey In &quot;The Next Mountain&quot;" xmlUrl="https://feeds.feedburner.com/ndtvnews-latest" htmlUrl=""/>
     <outline type="rss" text="RELEASE: Skytrails for MSFS 2024 on PC &amp; Xbox" title="RELEASE: Skytrails for MSFS 2024 on PC &amp; Xbox" xmlUrl="https://parallel42.com/blogs/news.atom" htmlUrl=""/>
@@ -694,6 +701,7 @@
     <outline type="rss" text="Repubblica.it &gt; Homepage" title="Repubblica.it &gt; Homepage" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml" htmlUrl=""/>
     <outline type="rss" text="Researchers discover new form of hereditary prostate cancer" title="Researchers discover new form of hereditary prostate cancer" xmlUrl="https://news.ubc.ca/feed" htmlUrl=""/>
     <outline type="rss" text="Residents lose trust in local government over plan to drain Lower Shaker Lake" title="Residents lose trust in local government over plan to drain Lower Shaker Lake" xmlUrl="https://thelandcle.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Rest of World -" title="Rest of World -" xmlUrl="https://restofworld.org/feed/latest" htmlUrl="https://restofworld.org/"/>
     <outline type="rss" text="Restubog announced as School of Labor and Employment Relations dean" title="Restubog announced as School of Labor and Employment Relations dean" xmlUrl="https://news.illinois.edu/feed" htmlUrl=""/>
     <outline type="rss" text="Revealing who owns England just became government policy" title="Revealing who owns England just became government policy" xmlUrl="https://whoownsengland.org/feed" htmlUrl=""/>
     <outline type="rss" text="Revere uses opioid settlement money to enlist businesses in the fight against overdoses" title="Revere uses opioid settlement money to enlist businesses in the fight against overdoses" xmlUrl="https://rss.wbur.org/news/podcast" htmlUrl=""/>
@@ -707,7 +715,6 @@
     <outline type="rss" text="Ripping the Headlines Today, 6/10/26" title="Ripping the Headlines Today, 6/10/26" xmlUrl="https://humoroutcasts.com/feed" htmlUrl=""/>
     <outline type="rss" text="River Commons Groundbreaking; BronxWorks and other partners break ground on upcoming mixed-use affordable and supportive housing residence" title="River Commons Groundbreaking; BronxWorks and other partners break ground on upcoming mixed-use affordable and supportive housing residence" xmlUrl="https://bronxworks.org/feed" htmlUrl=""/>
     <outline type="rss" text="Rosen Pushes Trump Administration to Fix Severe Visa Processing Delays Affecting Work Reauthorization Applications" title="Rosen Pushes Trump Administration to Fix Severe Visa Processing Delays Affecting Work Reauthorization Applications" xmlUrl="https://www.rosen.senate.gov/feed" htmlUrl=""/>
-    <outline type="rss" text="RSS: News" title="RSS: News" xmlUrl="http://pitchfork.com/rss/news" htmlUrl=""/>
     <outline type="rss" text="RT - Daily news" title="RT - Daily news" xmlUrl="https://www.rt.com/rss" htmlUrl=""/>
     <outline type="rss" text="Ruby 3.4.10 Released" title="Ruby 3.4.10 Released" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss" htmlUrl=""/>
     <outline type="rss" text="Russia rocked by fuel crisis as Ukraine humiliates Putin" title="Russia rocked by fuel crisis as Ukraine humiliates Putin" xmlUrl="https://www.express.co.uk/posts/rss/78/world" htmlUrl=""/>
@@ -719,12 +726,11 @@
     <outline type="rss" text="Saints QB Tyler Shough takes Ice Bucket Challenge in support of the ALS community" title="Saints QB Tyler Shough takes Ice Bucket Challenge in support of the ALS community" xmlUrl="https://www.canalstreetchronicles.com/rss/index.xml" htmlUrl=""/>
     <outline type="rss" text="San Antonio's Luminaria lights up new downtown location" title="San Antonio's Luminaria lights up new downtown location" xmlUrl="https://sanantonio.culturemap.com/feeds/news/arts.rss" htmlUrl=""/>
     <outline type="rss" text="San Francisco Bay Times Contingent in the 2026 San Francisco Pride Parade" title="San Francisco Bay Times Contingent in the 2026 San Francisco Pride Parade" xmlUrl="https://sfbaytimes.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Sandfly Security Blog RSS Feed" title="Sandfly Security Blog RSS Feed" xmlUrl="https://www.sandflysecurity.com/feed" htmlUrl="http://github.com/dylang/node-rss"/>
     <outline type="rss" text="SAR Times Weekly (09 Jul 2026)" title="SAR Times Weekly (09 Jul 2026)" xmlUrl="https://sartimes.com/feed" htmlUrl=""/>
     <outline type="rss" text="Sardinia's XXL beach where there's room for everyone, even in August" title="Sardinia's XXL beach where there's room for everyone, even in August" xmlUrl="https://www.idealista.it/en/news/rss/v2/latest-news.xml" htmlUrl=""/>
     <outline type="rss" text="Say it: We’re back where we were before the ceasefire. It’s called war." title="Say it: We’re back where we were before the ceasefire. It’s called war." xmlUrl="https://presswatchers.org/feed" htmlUrl=""/>
     <outline type="rss" text="Saying less" title="Saying less" xmlUrl="https://www.readgoodtimes.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Scripting News" title="Scripting News" xmlUrl="http://scripting.com/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Scroll.in" title="Scroll.in" xmlUrl="http://feeds.feedburner.com/ScrollinArticles.rss" htmlUrl=""/>
     <outline type="rss" text="Seawall Reconstruction Nears End as Hull Select Board Approves New One-Way Traffic Plan and Major Intersection Overhaul" title="Seawall Reconstruction Nears End as Hull Select Board Approves New One-Way Traffic Plan and Major Intersection Overhaul" xmlUrl="https://www.southshore.news/feed?sectionId=151965" htmlUrl=""/>
     <outline type="rss" text="Sen. Ossoff, Georgia’s Congressional Delegation Urging Trump Administration to Help Georgia Growers Export More Pecans" title="Sen. Ossoff, Georgia’s Congressional Delegation Urging Trump Administration to Help Georgia Growers Export More Pecans" xmlUrl="https://www.ossoff.senate.gov/feed" htmlUrl=""/>
     <outline type="rss" text="Senator Gary Stubblefield, 74, passes away" title="Senator Gary Stubblefield, 74, passes away" xmlUrl="https://www.gregleding.com/news?format=rss" htmlUrl=""/>
@@ -778,14 +784,12 @@
     <outline type="rss" text="Tauri Board Elections 2026" title="Tauri Board Elections 2026" xmlUrl="https://v2.tauri.app/blog/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Team ESILIB: Award for Sustainable Batteries with Increased Storage Capacity" title="Team ESILIB: Award for Sustainable Batteries with Increased Storage Capacity" xmlUrl="https://www.ise.fraunhofer.de/en/rss/news.rss" htmlUrl=""/>
     <outline type="rss" text="TechPinas : Philippines' Technology News, Tips and Reviews Blog" title="TechPinas : Philippines' Technology News, Tips and Reviews Blog" xmlUrl="http://feeds.feedburner.com/Techpinas" htmlUrl=""/>
-    <outline type="rss" text="Television News and Discussion" title="Television News and Discussion" xmlUrl="https://reddit.com/r/television/.rss" htmlUrl=""/>
     <outline type="rss" text="Template:Ext links: Ancient Rome" title="Template:Ext links: Ancient Rome" xmlUrl="https://gnomonchronicles.com/w/index.php?feed=atom&amp;title=Special%3ARecentChanges" htmlUrl=""/>
     <outline type="rss" text="Temple University lays off 40 employees as it tackles deficit" title="Temple University lays off 40 employees as it tackles deficit" xmlUrl="https://www.highereddive.com/feeds/news" htmlUrl=""/>
     <outline type="rss" text="Temporary accommodation: an unimportant history of the appalling present" title="Temporary accommodation: an unimportant history of the appalling present" xmlUrl="https://www.versobooks.com/blogs/news.atom" htmlUrl=""/>
     <outline type="rss" text="Temporary Changes to the Traffic Regime will be introduced on certain City Roads in Sarajevo" title="Temporary Changes to the Traffic Regime will be introduced on certain City Roads in Sarajevo" xmlUrl="https://sarajevotimes.com/feed" htmlUrl=""/>
     <outline type="rss" text="Tenable Named as the Current Company to Beat for AI-Powered Exposure Assessment in a June 2026 Gartner® Report" title="Tenable Named as the Current Company to Beat for AI-Powered Exposure Assessment in a June 2026 Gartner® Report" xmlUrl="https://tenable.com/feed/news" htmlUrl=""/>
     <outline type="rss" text="Test yourself on the past week’s K-12 news" title="Test yourself on the past week’s K-12 news" xmlUrl="https://www.k12dive.com/feeds/news" htmlUrl=""/>
-    <outline type="rss" text="TG Soft Software House - News" title="TG Soft Software House - News" xmlUrl="http://www.tgsoft.it/feed/feed.asp" htmlUrl="http://www.tgsoft.it/"/>
     <outline type="rss" text="Thai Chicken Satay" title="Thai Chicken Satay" xmlUrl="https://news.cuanschutz.edu/health-and-wellness/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Thailand news headlines" title="Thailand news headlines" xmlUrl="https://aseannewstoday.com/feed" htmlUrl=""/>
     <outline type="rss" text="The #LUFC Breakfast Debate (Friday 10th July) Suzuki saga put to rest" title="The #LUFC Breakfast Debate (Friday 10th July) Suzuki saga put to rest" xmlUrl="https://motforum.com/phpbb/app.php/feed/news?sid=299eda1af83d703021a862ff238ef2e3" htmlUrl=""/>
@@ -802,16 +806,20 @@
     <outline type="rss" text="The Complexity of Identity: Suddenly Jewish: The Life and Times of My Jewish Mother" title="The Complexity of Identity: Suddenly Jewish: The Life and Times of My Jewish Mother" xmlUrl="https://sixtyandme.com/feed" htmlUrl=""/>
     <outline type="rss" text="The Congress That Broke Congress" title="The Congress That Broke Congress" xmlUrl="https://www.wakeuptopolitics.com/feed?sectionId=188635" htmlUrl=""/>
     <outline type="rss" text="The Democrats Who Do Well with Working Class Voters" title="The Democrats Who Do Well with Working Class Voters" xmlUrl="https://politicalwire.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The Express Tribune" title="The Express Tribune" xmlUrl="https://tribune.com.pk/feed/home" htmlUrl=""/>
     <outline type="rss" text="The FCC, The View and what it means to be “news”" title="The FCC, The View and what it means to be “news”" xmlUrl="https://www.pewresearch.org/feed" htmlUrl=""/>
     <outline type="rss" text="The Friday Five: The Latest Child Care and Early Learning News" title="The Friday Five: The Latest Child Care and Early Learning News" xmlUrl="https://www.ffyf.org/feed" htmlUrl=""/>
     <outline type="rss" text="The Gap" title="The Gap" xmlUrl="https://www.maidhouse.ca/maidhouse-news?format=rss" htmlUrl=""/>
     <outline type="rss" text="The Heraldry Society with Paul Jagger" title="The Heraldry Society with Paul Jagger" xmlUrl="http://feeds.libsyn.com/297137/rss" htmlUrl=""/>
     <outline type="rss" text="The Hidden Infrastructure Challenge Behind Every AI-Generated Avatar" title="The Hidden Infrastructure Challenge Behind Every AI-Generated Avatar" xmlUrl="https://sdtimes.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The Hindu - Home" title="The Hindu - Home" xmlUrl="https://www.thehindu.com/feeder/default.rss" htmlUrl=""/>
     <outline type="rss" text="The Independent" title="The Independent" xmlUrl="http://www.independent.co.uk/news/uk/rss" htmlUrl=""/>
     <outline type="rss" text="The Insider: Headlines from the Coffee Industry" title="The Insider: Headlines from the Coffee Industry" xmlUrl="https://www.baristamagazine.com/feed" htmlUrl=""/>
     <outline type="rss" text="The Iran Lesson: why the US will lose a war with China." title="The Iran Lesson: why the US will lose a war with China." xmlUrl="https://www.solidarity.co.nz/international-stories?format=rss" htmlUrl=""/>
     <outline type="rss" text="The Liberty Bell &amp; Statue of Liberty: America’s Symbols of Freedom" title="The Liberty Bell &amp; Statue of Liberty: America’s Symbols of Freedom" xmlUrl="https://thegryphonowlchronicles.com/feed" htmlUrl=""/>
+    <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/it" htmlUrl=""/>
     <outline type="rss" text="The Long Way Round" title="The Long Way Round" xmlUrl="https://www.acl.news/feed" htmlUrl=""/>
+    <outline type="rss" text="The Loop" title="The Loop" xmlUrl="https://www.loopinsight.com/feed" htmlUrl=""/>
     <outline type="rss" text="The MA House and MA Senate Are Voting on Key Bills This Week. Here’s What They Should Hear from You." title="The MA House and MA Senate Are Voting on Key Bills This Week. Here’s What They Should Hear from You." xmlUrl="https://www.progressivemass.com/feed" htmlUrl=""/>
     <outline type="rss" text="The Maine Meltdown: How Political Ego and Corner-Cutting Threaten the Future of the Supreme Court" title="The Maine Meltdown: How Political Ego and Corner-Cutting Threaten the Future of the Supreme Court" xmlUrl="https://bluepress.blog/feed" htmlUrl=""/>
     <outline type="rss" text="The Man of Lawlessness: Why Trump Isn’t Just a Threat—He’s a Theological Event" title="The Man of Lawlessness: Why Trump Isn’t Just a Threat—He’s a Theological Event" xmlUrl="https://news.truthispeaking.com/feed" htmlUrl=""/>
@@ -831,7 +839,6 @@
     <outline type="rss" text="The Prairieland Defendants: Political &amp; Safety Takeaways" title="The Prairieland Defendants: Political &amp; Safety Takeaways" xmlUrl="https://tlcks.org/feed" htmlUrl=""/>
     <outline type="rss" text="THE PWHL IS EXPANDING" title="THE PWHL IS EXPANDING" xmlUrl="https://www.gardeot.com/blogs/news.atom" htmlUrl=""/>
     <outline type="rss" text="The Red Fortress in the Blue Sea: Why Graz Has Become the Litmus Test for Progressive Politics" title="The Red Fortress in the Blue Sea: Why Graz Has Become the Litmus Test for Progressive Politics" xmlUrl="https://rosalux.eu/en/feed" htmlUrl=""/>
-    <outline type="rss" text="The Register - Security" title="The Register - Security" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
     <outline type="rss" text="The Return of the Rivalry: Latin America in the New Great Power Contest" title="The Return of the Rivalry: Latin America in the New Great Power Contest" xmlUrl="https://www.other-news.info/feed" htmlUrl=""/>
     <outline type="rss" text="The Rio Times" title="The Rio Times" xmlUrl="https://riotimesonline.com/feed" htmlUrl=""/>
     <outline type="rss" text="The Rise and Fall of Glasgow’s Red Road Flats, Part 2: Failed Post-War Visions?" title="The Rise and Fall of Glasgow’s Red Road Flats, Part 2: Failed Post-War Visions?" xmlUrl="https://municipaldreams.substack.com/feed" htmlUrl=""/>
@@ -937,8 +944,6 @@
     <outline type="rss" text="Village People Lead Singer Victor Willis Dead at 74" title="Village People Lead Singer Victor Willis Dead at 74" xmlUrl="https://www.vibe.com/c/news/feed" htmlUrl=""/>
     <outline type="rss" text="Village unveils draft 40-Year water plan Thursday" title="Village unveils draft 40-Year water plan Thursday" xmlUrl="https://nm.news/feed" htmlUrl=""/>
     <outline type="rss" text="Virgil, Sicily, and the Founding of Rome" title="Virgil, Sicily, and the Founding of Rome" xmlUrl="https://www.timesofsicily.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Virus Bulletin's blog" title="Virus Bulletin's blog" xmlUrl="http://www.virusbtn.com/library/feeds/news.rdf" htmlUrl=""/>
-    <outline type="rss" text="Virus Bulletin's blog" title="Virus Bulletin's blog" xmlUrl="https://www.virusbulletin.com/rss" htmlUrl="https://www.virusbulletin.com/"/>
     <outline type="rss" text="Voices for Truth - The Experts You Can Trust.  Irish Alternative View on Past, Present and Future Government Corona Policies." title="Voices for Truth - The Experts You Can Trust.  Irish Alternative View on Past, Present and Future Government Corona Policies." xmlUrl="http://buncranatogether.com/home?format=rss" htmlUrl=""/>
     <outline type="rss" text="VYBZ KARTEL AND MAVADO TO REUNITE FOR HISTORIC ‘GAZA VS GULLY’ SHOW AT LONDON’S O2 ARENA" title="VYBZ KARTEL AND MAVADO TO REUNITE FOR HISTORIC ‘GAZA VS GULLY’ SHOW AT LONDON’S O2 ARENA" xmlUrl="https://yeeeaahnetwork.com/feed" htmlUrl=""/>
     <outline type="rss" text="Walmart inks nuclear energy deal to power Illinois warehouse" title="Walmart inks nuclear energy deal to power Illinois warehouse" xmlUrl="https://www.supplychaindive.com/feeds/news" htmlUrl=""/>
@@ -993,15 +998,13 @@
     <outline type="rss" text="World Bee Day &amp; Bee Facts" title="World Bee Day &amp; Bee Facts" xmlUrl="https://justbeeloved.com/blogs/news.atom" htmlUrl=""/>
     <outline type="rss" text="World Cup 2026, Wimbledon, UFC 329, Tour de France – Your guide to the ultimate sports weekend" title="World Cup 2026, Wimbledon, UFC 329, Tour de France – Your guide to the ultimate sports weekend" xmlUrl="https://www.thesportsnewsblitz.com/news?format=rss" htmlUrl=""/>
     <outline type="rss" text="World News" title="World News" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl=""/>
+    <outline type="rss" text="World News - Breaking News, Top Stories" title="World News - Breaking News, Top Stories" xmlUrl="https://www.huffpost.com/section/world-news/feed" htmlUrl=""/>
     <outline type="rss" text="World News Headlines, Latest International News, World Breaking News - Times of India" title="World News Headlines, Latest International News, World Breaking News - Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" htmlUrl=""/>
     <outline type="rss" text="World news | The Guardian" title="World news | The Guardian" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl=""/>
     <outline type="rss" text="World’s Largest AI Data Center Project On Verge Of Collapse" title="World’s Largest AI Data Center Project On Verge Of Collapse" xmlUrl="https://www.technocracy.news/feed" htmlUrl=""/>
     <outline type="rss" text="WSJ.com: World News" title="WSJ.com: World News" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl=""/>
-    <outline type="rss" text="www.espn.com - TOP" title="www.espn.com - TOP" xmlUrl="https://www.espn.com/espn/rss/news" htmlUrl=""/>
     <outline type="rss" text="Xbox cuts impacted 158 ZeniMax workers in Texas and 52 Obsidian employees in California [Update: 379 from ZeniMax in Maryland]" title="Xbox cuts impacted 158 ZeniMax workers in Texas and 52 Obsidian employees in California [Update: 379 from ZeniMax in Maryland]" xmlUrl="https://www.gamefile.news/feed" htmlUrl=""/>
-    <outline type="rss" text="xorl %eax, %eax" title="xorl %eax, %eax" xmlUrl="http://xorl.wordpress.com/feed" htmlUrl="https://xorl.wordpress.com"/>
     <outline type="rss" text="Yahoo News - Latest News &amp; Headlines" title="Yahoo News - Latest News &amp; Headlines" xmlUrl="https://news.yahoo.com/rss/mostviewed" htmlUrl=""/>
-    <outline type="rss" text="Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games" title="Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games" xmlUrl="https://sports.yahoo.com/rss" htmlUrl=""/>
     <outline type="rss" text="Yesterday Srebrenica, Today Gaza" title="Yesterday Srebrenica, Today Gaza" xmlUrl="https://realmedia.press/feed" htmlUrl=""/>
     <outline type="rss" text="Yesterday’s News 2026 07 10" title="Yesterday’s News 2026 07 10" xmlUrl="https://kewus.net/yesterday/feed" htmlUrl=""/>
     <outline type="rss" text="Yinzilla Beach Party!" title="Yinzilla Beach Party!" xmlUrl="https://alternatehistories.com/blogs/news.atom" htmlUrl=""/>

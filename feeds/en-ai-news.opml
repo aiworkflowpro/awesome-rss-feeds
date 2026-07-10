@@ -2,10 +2,11 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI News &amp; Insights</title>
-    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
+    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="https://artificialintelligence-news.com/feed" title="https://artificialintelligence-news.com/feed" xmlUrl="https://artificialintelligence-news.com/feed" htmlUrl=""/>
+    <outline type="rss" text="AI Breakfast(@AiBreakfast)" title="AI Breakfast(@AiBreakfast)" xmlUrl="https://api.xgo.ing/rss/user/0e3ebaf288014c45b0d24b71fe37312b" htmlUrl=""/>
     <outline type="rss" text="AI Business" title="AI Business" xmlUrl="https://aibusiness.com/rss.xml" htmlUrl="https://aibusiness.com"/>
     <outline type="rss" text="AI Legislative Update: July 10, 2026" title="AI Legislative Update: July 10, 2026" xmlUrl="https://www.transparencycoalition.ai/news?format=rss" htmlUrl=""/>
     <outline type="rss" text="AI News Wrap-Up: 8th July 2026" title="AI News Wrap-Up: 8th July 2026" xmlUrl="https://www.aiassistantstore.com/blogs/latest-news.atom" htmlUrl=""/>
@@ -13,12 +14,16 @@
     <outline type="rss" text="Artificial Intelligence News" title="Artificial Intelligence News" xmlUrl="https://www.artificialintelligence-news.com/feed/rss" htmlUrl="https://www.artificialintelligence-news.com"/>
     <outline type="rss" text="Banning 7-OH Will Make Consumers Less Safe" title="Banning 7-OH Will Make Consumers Less Safe" xmlUrl="https://www.painnewsnetwork.org/stories?format=rss" htmlUrl=""/>
     <outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/"/>
+    <outline type="rss" text="DeepLearning.AI(@DeepLearningAI)" title="DeepLearning.AI(@DeepLearningAI)" xmlUrl="https://api.xgo.ing/rss/user/42e6b4901b97498eab2ab64c07d56177" htmlUrl=""/>
     <outline type="rss" text="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" title="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" xmlUrl="https://www.signalbloom.ai/news/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="ElevenLabs(@elevenlabsio)" title="ElevenLabs(@elevenlabsio)" xmlUrl="https://api.xgo.ing/rss/user/1897eed387064dfab443764d6da50bc6" htmlUrl=""/>
     <outline type="rss" text="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" title="Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data" xmlUrl="https://www.marktechpost.com/feed" htmlUrl=""/>
     <outline type="rss" text="How to shrink the token budget without shrinking the team" title="How to shrink the token budget without shrinking the team" xmlUrl="https://www.artificialintelligence-news.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl=""/>
     <outline type="rss" text="News Roundup July 2026" title="News Roundup July 2026" xmlUrl="https://www.greenairnews.com/?feed=rss2" htmlUrl=""/>
     <outline type="rss" text="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" title="SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs" xmlUrl="https://genainews.tech/feed" htmlUrl=""/>
     <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" htmlUrl=""/>
+    <outline type="rss" text="The Rundown AI(@TheRundownAI)" title="The Rundown AI(@TheRundownAI)" xmlUrl="https://api.xgo.ing/rss/user/83b1ea38940b4a1d81ea57d1ffb12ad7" htmlUrl=""/>
     <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed" htmlUrl=""/>
     <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" htmlUrl=""/>
     <outline type="rss" text="VentureBeat AI" title="VentureBeat AI" xmlUrl="https://venturebeat.com/category/ai/feed" htmlUrl="https://venturebeat.com/category/ai/"/>

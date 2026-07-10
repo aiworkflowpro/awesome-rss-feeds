@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Podcasts &amp; Audio</title>
-    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
+    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="#115 - Stop Treating Your Website Like Your Magnum Opus" title="#115 - Stop Treating Your Website Like Your Magnum Opus" xmlUrl="https://www.ja-wol.com/blogs/podcast.atom" htmlUrl=""/>
@@ -35,6 +35,7 @@
     <outline type="rss" text="Clare Mulley" title="Clare Mulley" xmlUrl="https://thecomfortablespotpodcast.com/feed" htmlUrl=""/>
     <outline type="rss" text="CodeNewbie" title="CodeNewbie" xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" htmlUrl=""/>
     <outline type="rss" text="Colloquy Podcast: Gordon Wood on the Radicalism of the American Revolution" title="Colloquy Podcast: Gordon Wood on the Radicalism of the American Revolution" xmlUrl="https://gsas.harvard.edu/rss.xml" htmlUrl=""/>
+    <outline type="rss" text="Daily Tech News Show" title="Daily Tech News Show" xmlUrl="https://feeds.acast.com/public/shows/61954547cb03c875f7617118" htmlUrl="http://www.dailytechnewsshow.com/"/>
     <outline type="rss" text="DayWeather Podcast 7.10.2026" title="DayWeather Podcast 7.10.2026" xmlUrl="http://feeds.libsyn.com/115172/rss" htmlUrl=""/>
     <outline type="rss" text="Democratic Socialists Destroying Democrats With Democracy" title="Democratic Socialists Destroying Democrats With Democracy" xmlUrl="https://radicalruss.com/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="Developer Tea" title="Developer Tea" xmlUrl="https://feeds.simplecast.com/dLRotFGk" htmlUrl=""/>
@@ -72,9 +73,9 @@
     <outline type="rss" text="Juror No. 10" title="Juror No. 10" xmlUrl="https://www.radioatlas.org/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="KIC Podcast- Episode 22 – The Prestige Pass and Adventure Port With Nick Gaskins" title="KIC Podcast- Episode 22 – The Prestige Pass and Adventure Port With Nick Gaskins" xmlUrl="https://kicentral.com/feed" htmlUrl=""/>
     <outline type="rss" text="Land of the Tyrants - Benefits" title="Land of the Tyrants - Benefits" xmlUrl="https://movingtrainmedia.com/polyrical-podcast?format=rss" htmlUrl=""/>
-    <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl=""/>
     <outline type="rss" text="Lethal Mullet Podcast: Episode #316: Masters of the Universe (2026)" title="Lethal Mullet Podcast: Episode #316: Masters of the Universe (2026)" xmlUrl="https://feed.podbean.com/fpnet/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Levy Institute Podcast: The Life And Legacy Of Wynne Godley" title="Levy Institute Podcast: The Life And Legacy Of Wynne Godley" xmlUrl="https://www.concertedaction.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Lex Fridman(@lexfridman)" title="Lex Fridman(@lexfridman)" xmlUrl="https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15" htmlUrl=""/>
     <outline type="rss" text="Listen to the Roadburn Essentials Podcast with Archiving Heaviness" title="Listen to the Roadburn Essentials Podcast with Archiving Heaviness" xmlUrl="https://roadburn.com/feed" htmlUrl=""/>
     <outline type="rss" text="Locked On Top 100 MLB Players of 2026" title="Locked On Top 100 MLB Players of 2026" xmlUrl="https://lockedonpodcasts.com/feed" htmlUrl=""/>
     <outline type="rss" text="Mind Over Matter: Darwin, AI, and the Future of Reason" title="Mind Over Matter: Darwin, AI, and the Future of Reason" xmlUrl="https://www.discovery.org/feed/podcast" htmlUrl=""/>
@@ -82,6 +83,7 @@
     <outline type="rss" text="Nearly New World: Star Slammer" title="Nearly New World: Star Slammer" xmlUrl="https://newworldpicturespodcast.com/feed" htmlUrl=""/>
     <outline type="rss" text="New YMRT Merch and a Holiday Sale!" title="New YMRT Merch and a Holiday Sale!" xmlUrl="http://www.youmustrememberthispodcast.com/episodes?format=rss" htmlUrl=""/>
     <outline type="rss" text="Pacific Time (podcast): Do Californians Want Autonomy? With Coyote Marin" title="Pacific Time (podcast): Do Californians Want Autonomy? With Coyote Marin" xmlUrl="https://ic.institute/feed" htmlUrl=""/>
+    <outline type="rss" text="Paul's Security Weekly" title="Paul's Security Weekly" xmlUrl="http://podcast.securityweekly.com/rss" htmlUrl="http://securityweekly.com/"/>
     <outline type="rss" text="PC Podcast Episode 20: PNG’s London Broncos Trio" title="PC Podcast Episode 20: PNG’s London Broncos Trio" xmlUrl="https://www.postcourier.com.pg/feed" htmlUrl=""/>
     <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl=""/>
     <outline type="rss" text="Podcast #20 – How do bumblebees collaborate and transfer knowledge? A conversation with Alice Bridges" title="Podcast #20 – How do bumblebees collaborate and transfer knowledge? A conversation with Alice Bridges" xmlUrl="https://culturico.com/feed" htmlUrl=""/>
@@ -120,6 +122,7 @@
     <outline type="rss" text="The BHA Podcast: Financial Risk Assessments – What now?" title="The BHA Podcast: Financial Risk Assessments – What now?" xmlUrl="https://www.britishhorseracing.com/feed" htmlUrl=""/>
     <outline type="rss" text="The Gamesline Podcast Episode 96: Boning Up with Xyros" title="The Gamesline Podcast Episode 96: Boning Up with Xyros" xmlUrl="https://gamesline.net/feed" htmlUrl=""/>
     <outline type="rss" text="The InfiNOT Podcast Ep. 59 - Invisible Woman First Steps Projects a FANTASTIC OTA!" title="The InfiNOT Podcast Ep. 59 - Invisible Woman First Steps Projects a FANTASTIC OTA!" xmlUrl="https://feed.ausha.co/eglWEuAEWEzQ" htmlUrl=""/>
+    <outline type="rss" text="The Knowledge Project" title="The Knowledge Project" xmlUrl="https://feeds.megaphone.fm/FSMI7575968096" htmlUrl="https://fs.blog/knowledge-project-podcast/"/>
     <outline type="rss" text="The Making of a Quote / 2 Images / 2 Prompts / 1 Podcast" title="The Making of a Quote / 2 Images / 2 Prompts / 1 Podcast" xmlUrl="https://sorcerersapprentice.ai/feed" htmlUrl=""/>
     <outline type="rss" text="The Man Who Got Everything He Wanted" title="The Man Who Got Everything He Wanted" xmlUrl="https://www.raisethedeadpodcast.com/episodes?format=rss" htmlUrl=""/>
     <outline type="rss" text="The Oxide 3D Explorer" title="The Oxide 3D Explorer" xmlUrl="https://feeds.transistor.fm/oxide-and-friends" htmlUrl=""/>
@@ -135,6 +138,7 @@
     <outline type="rss" text="TWIML AI Podcast" title="TWIML AI Podcast" xmlUrl="https://twimlai.com/feed" htmlUrl="https://twimlai.com"/>
     <outline type="rss" text="UA Local 43 on Bloomberg's Apprenticeship Grant and Tennessee Valley Growth" title="UA Local 43 on Bloomberg's Apprenticeship Grant and Tennessee Valley Growth" xmlUrl="https://feed.podbean.com/AmericasWorkForceRadioPodcast/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Under Pressure" title="Under Pressure" xmlUrl="https://feeds.transistor.fm/fallthrough" htmlUrl=""/>
+    <outline type="rss" text="Under the Radar" title="Under the Radar" xmlUrl="https://www.relay.fm/radar/feed" htmlUrl=""/>
     <outline type="rss" text="Understanding Dreams in Hypnagogia 無限の夢 Boundless Dreams" title="Understanding Dreams in Hypnagogia 無限の夢 Boundless Dreams" xmlUrl="https://feeds.transistor.fm/dotzip" htmlUrl=""/>
     <outline type="rss" text="Vatican Astronomer Br. Guy Consolmagno, SJ on Awe and the Universe – Betwixt Podcast" title="Vatican Astronomer Br. Guy Consolmagno, SJ on Awe and the Universe – Betwixt Podcast" xmlUrl="https://www.vaticanobservatory.org/feed" htmlUrl=""/>
     <outline type="rss" text="VAULT13 | Vault 818 | Apocalypse World" title="VAULT13 | Vault 818 | Apocalypse World" xmlUrl="https://www.happyjacks.org/category/actual-play-podcast/vault-818/feed" htmlUrl=""/>

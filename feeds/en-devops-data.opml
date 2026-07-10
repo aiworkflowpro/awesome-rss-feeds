@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · DevOps &amp; Data</title>
-    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
+    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="https://deepcognition.ai/feed" title="https://deepcognition.ai/feed" xmlUrl="https://deepcognition.ai/feed" htmlUrl=""/>
@@ -11,10 +11,8 @@
     <outline type="rss" text="2026-07-05 Eggy, High Sierra Music Festival, Grass Valley, CA" title="2026-07-05 Eggy, High Sierra Music Festival, Grass Valley, CA" xmlUrl="https://thecarton.net/setlists/feed" htmlUrl=""/>
     <outline type="rss" text="42 Everyday Items People Secretly Use For Entirely Different Purposes" title="42 Everyday Items People Secretly Use For Entirely Different Purposes" xmlUrl="https://www.boredpanda.com/feed" htmlUrl=""/>
     <outline type="rss" text="A chemical plant mishandled hazardous waste for years, then quietly shuttered" title="A chemical plant mishandled hazardous waste for years, then quietly shuttered" xmlUrl="https://www.ehn.org/feeds/toxics.rss" htmlUrl=""/>
-    <outline type="rss" text="andrew chen(@andrewchen)" title="andrew chen(@andrewchen)" xmlUrl="https://api.xgo.ing/rss/user/a3eb6beb2d894da3a9b7ab6d2e46790e" htmlUrl=""/>
     <outline type="rss" text="Ann Widdecombe death sparks major police investigation" title="Ann Widdecombe death sparks major police investigation" xmlUrl="https://londonlovesbusiness.com/feed" htmlUrl=""/>
     <outline type="rss" text="Another Pipeline Announcement" title="Another Pipeline Announcement" xmlUrl="https://lisayoung.substack.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Artsploit" title="Artsploit" xmlUrl="https://artsploit.blogspot.com/feeds/posts/default" htmlUrl="https://artsploit.blogspot.com/"/>
     <outline type="rss" text="Braves at Pirates series recap: Has the spark returned at the plate for Atlanta?" title="Braves at Pirates series recap: Has the spark returned at the plate for Atlanta?" xmlUrl="https://www.batterypower.com/rss/index.xml" htmlUrl=""/>
     <outline type="rss" text="Britney Spears Sparks Fresh Fears With Shocking Freeway Stunt" title="Britney Spears Sparks Fresh Fears With Shocking Freeway Stunt" xmlUrl="https://theblast.com/feed" htmlUrl=""/>
     <outline type="rss" text="Building Your Organizational Observability (OO11y) System: Exercises, Templates, and Your First 30 Days" title="Building Your Organizational Observability (OO11y) System: Exercises, Templates, and Your First 30 Days" xmlUrl="https://www.lenareinhard.com/articles?format=rss" htmlUrl=""/>
@@ -22,6 +20,7 @@
     <outline type="rss" text="Canada needs a People’s Power Grid, not more pipelines" title="Canada needs a People’s Power Grid, not more pipelines" xmlUrl="https://allofustogether.ca/feed" htmlUrl=""/>
     <outline type="rss" text="Chaos Sparks Fires, And Then…" title="Chaos Sparks Fires, And Then…" xmlUrl="https://thievingmagpie.org/feed" htmlUrl=""/>
     <outline type="rss" text="Deploy Django on Kubernetes With Percona Operator for PostgreSQL" title="Deploy Django on Kubernetes With Percona Operator for PostgreSQL" xmlUrl="https://spron.in/rss-feed-761795232231.xml" htmlUrl=""/>
+    <outline type="rss" text="Docker" title="Docker" xmlUrl="https://www.docker.com/feed" htmlUrl=""/>
     <outline type="rss" text="Ebb and Prometheus" title="Ebb and Prometheus" xmlUrl="https://prometheusjournal.org/feed" htmlUrl=""/>
     <outline type="rss" text="Echopraxia" title="Echopraxia" xmlUrl="https://getliterate.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Egyptian coach’s X gesture sparks unjust backlash" title="Egyptian coach’s X gesture sparks unjust backlash" xmlUrl="https://www.thecanary.co/feed" htmlUrl=""/>
@@ -29,10 +28,10 @@
     <outline type="rss" text="Evolving ACE – sharing the latest news and pipeline updates with our community" title="Evolving ACE – sharing the latest news and pipeline updates with our community" xmlUrl="https://ace.blog.gov.uk/feed" htmlUrl=""/>
     <outline type="rss" text="EXCLUSIVE: America First Policy Institute Quietly Doubled Its Revenue to $51M in 2024" title="EXCLUSIVE: America First Policy Institute Quietly Doubled Its Revenue to $51M in 2024" xmlUrl="https://www.source-code.org/feed" htmlUrl=""/>
     <outline type="rss" text="Farage TikTok mocking Welsh Government sparks fresh questions over undeclared support" title="Farage TikTok mocking Welsh Government sparks fresh questions over undeclared support" xmlUrl="https://nation.cymru/feed" htmlUrl=""/>
+    <outline type="rss" text="Fastly Blog" title="Fastly Blog" xmlUrl="https://www.fastly.com/blog_rss.xml" htmlUrl="https://www.fastly.com"/>
     <outline type="rss" text="Fatal Rattlesnake Bite in Orange County Sparks Safety Concerns When Hiking" title="Fatal Rattlesnake Bite in Orange County Sparks Safety Concerns When Hiking" xmlUrl="https://voiceofoc.org/feed" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="https://backstage.io/blog/rss.xml" htmlUrl=""/>
     <outline type="rss" text="From Web Dev Courses to AI Pipelines: How I Built Skills I Use Every Day" title="From Web Dev Courses to AI Pipelines: How I Built Skills I Use Every Day" xmlUrl="https://www.codecademy.com/resources/blog/feed" htmlUrl=""/>
-    <outline type="rss" text="Genspark(@genspark_ai)" title="Genspark(@genspark_ai)" xmlUrl="https://api.xgo.ing/rss/user/71ffd342cb5d478185ef7d55bdfca011" htmlUrl=""/>
     <outline type="rss" text="GitLab Blog" title="GitLab Blog" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl=""/>
     <outline type="rss" text="Hamas Quietly Relocates Center Of Gravity From Doha To Ankara" title="Hamas Quietly Relocates Center Of Gravity From Doha To Ankara" xmlUrl="https://a.jfeed.com/v1/rss/articles/166/rss2" htmlUrl=""/>
     <outline type="rss" text="Happy Friday! #ThePositivityWave #44 😀 #HappyFriday #SecretLibraryBookBlog" title="Happy Friday! #ThePositivityWave #44 😀 #HappyFriday #SecretLibraryBookBlog" xmlUrl="https://secretlibrarybookblog.com/feed" htmlUrl=""/>
@@ -50,9 +49,9 @@
     <outline type="rss" text="Mass layoffs of Myanmar migrant workers in Thailand spark wage theft allegations" title="Mass layoffs of Myanmar migrant workers in Thailand spark wage theft allegations" xmlUrl="https://english.dvb.no/feed" htmlUrl=""/>
     <outline type="rss" text="Mastering Observability at the Source" title="Mastering Observability at the Source" xmlUrl="https://humainary.io/feed" htmlUrl=""/>
     <outline type="rss" text="Meta Releases Muse Spark 1.1" title="Meta Releases Muse Spark 1.1" xmlUrl="https://aidisruption.ai/feed" htmlUrl=""/>
+    <outline type="rss" text="Milvus(@milvusio)" title="Milvus(@milvusio)" xmlUrl="https://api.xgo.ing/rss/user/424e67b19eed4500b7a440976bbd2ade" htmlUrl=""/>
     <outline type="rss" text="MPP Hsu: Ford’s Pipeline Announcement Was “Just Another Sideshow at the Rodeo”" title="MPP Hsu: Ford’s Pipeline Announcement Was “Just Another Sideshow at the Rodeo”" xmlUrl="https://ontarioliberal.ca/feed" htmlUrl=""/>
     <outline type="rss" text="Newell Creek Pipeline Project Update" title="Newell Creek Pipeline Project Update" xmlUrl="https://slvpost.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Offensi" title="Offensi" xmlUrl="https://offensi.com/feed" htmlUrl="https://offensi.com"/>
     <outline type="rss" text="Parents Say Football and Sports are Motivating Kids to Stay Active, Sparking “Football Fever”" title="Parents Say Football and Sports are Motivating Kids to Stay Active, Sparking “Football Fever”" xmlUrl="https://www.businessmole.com/feed" htmlUrl=""/>
     <outline type="rss" text="Pipeline For The Confusing" title="Pipeline For The Confusing" xmlUrl="https://scrimshawunscripted.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Polygon -  All" title="Polygon -  All" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl=""/>
@@ -60,10 +59,10 @@
     <outline type="rss" text="Ram’s New 777-HP Hellcat V8 Is Secretly a Redeye" title="Ram’s New 777-HP Hellcat V8 Is Secretly a Redeye" xmlUrl="https://www.thedrive.com/category/ram-news/feed" htmlUrl=""/>
     <outline type="rss" text="Reading Observability Tools? That’s a Robot’s Job" title="Reading Observability Tools? That’s a Robot’s Job" xmlUrl="https://www.lastweekinaws.com/feed" htmlUrl=""/>
     <outline type="rss" text="Refilling the Pipeline: Two New Section 101 Petitions Heading to the Supreme Court" title="Refilling the Pipeline: Two New Section 101 Petitions Heading to the Supreme Court" xmlUrl="https://patentlyo.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Ricard Bejarano – Site Reliability Engineer" title="Ricard Bejarano – Site Reliability Engineer" xmlUrl="https://www.bejarano.io/feed.xml" htmlUrl="https://www.bejarano.io/"/>
     <outline type="rss" text="RSS" title="RSS" xmlUrl="https://chrbailey.github.io/deeptrend/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Secretlab Atlas Ergonomic Office Chair Review: Pros, Cons &amp; Verdict" title="Secretlab Atlas Ergonomic Office Chair Review: Pros, Cons &amp; Verdict" xmlUrl="https://arielle.com.au/feed" htmlUrl=""/>
     <outline type="rss" text="Secretly Loving the Cat-Eared Maid Boy" title="Secretly Loving the Cat-Eared Maid Boy" xmlUrl="http://2d-market.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Security Intelligence and Big Data" title="Security Intelligence and Big Data" xmlUrl="http://feeds.feedburner.com/RaffysComputerSecurityBlog" htmlUrl="https://raffy.ch/blog"/>
     <outline type="rss" text="Spark Joy in Your Outdoor Events by Blending Forest Bathing, Nature Appreciation, and Wildlife Education" title="Spark Joy in Your Outdoor Events by Blending Forest Bathing, Nature Appreciation, and Wildlife Education" xmlUrl="https://blog.nwf.org/feed" htmlUrl=""/>
     <outline type="rss" text="Sparks Find Their Engine Just in Time for the Playoff Push" title="Sparks Find Their Engine Just in Time for the Playoff Push" xmlUrl="https://teamnbsmedia.com/feed" htmlUrl=""/>
     <outline type="rss" text="Stability will come from investing in clean energy, not uncertain fossil fuel exports: Climate Action Network Canada responds to Alberta’s pipeline application to the Major Projects Office" title="Stability will come from investing in clean energy, not uncertain fossil fuel exports: Climate Action Network Canada responds to Alberta’s pipeline application to the Major Projects Office" xmlUrl="https://climateactionnetwork.ca/feed" htmlUrl=""/>
@@ -73,7 +72,6 @@
     <outline type="rss" text="The Cynical Developer" title="The Cynical Developer" xmlUrl="https://cynicaldeveloper.com/feed/podcast" htmlUrl=""/>
     <outline type="rss" text="The Debanking Machine: How Britain Quietly Built a Financial Kill Switch for Dissent" title="The Debanking Machine: How Britain Quietly Built a Financial Kill Switch for Dissent" xmlUrl="https://europeanpowell.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="The Line-Up – 10th July 2026 www.wegetliftedradio.com" title="The Line-Up – 10th July 2026 www.wegetliftedradio.com" xmlUrl="https://www.wegetliftedradio.com/feed" htmlUrl=""/>
-    <outline type="rss" text="The Loop" title="The Loop" xmlUrl="https://www.loopinsight.com/feed" htmlUrl=""/>
     <outline type="rss" text="The Makeup Shades That Secretly Age You" title="The Makeup Shades That Secretly Age You" xmlUrl="https://primewomen.com/feed" htmlUrl=""/>
     <outline type="rss" text="The US moves to reclaim the therapeutic pipeline" title="The US moves to reclaim the therapeutic pipeline" xmlUrl="https://www.writingruxandrabio.com/feed" htmlUrl=""/>
     <outline type="rss" text="Ugandan Farmers Sue to Halt East Africa Pipeline Before It Goes Online" title="Ugandan Farmers Sue to Halt East Africa Pipeline Before It Goes Online" xmlUrl="https://e360.yale.edu/feed.xml" htmlUrl=""/>

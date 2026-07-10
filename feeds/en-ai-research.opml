@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI Research &amp; Labs</title>
-    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
+    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="https://research.google/blog/rss" title="https://research.google/blog/rss" xmlUrl="https://research.google/blog/rss" htmlUrl=""/>
@@ -16,19 +16,22 @@
     <outline type="rss" text="42 Years, 152,000 Miles, One Paper Trail: This 1983 Saab 900 Turbo Is Selling at No Reserve" title="42 Years, 152,000 Miles, One Paper Trail: This 1983 Saab 900 Turbo Is Selling at No Reserve" xmlUrl="https://www.saabplanet.com/feed" htmlUrl=""/>
     <outline type="rss" text="60-Second Science" title="60-Second Science" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast" htmlUrl=""/>
     <outline type="rss" text="70 years on the ice: the extraordinary story of Halley Research Station" title="70 years on the ice: the extraordinary story of Halley Research Station" xmlUrl="https://www.bas.ac.uk/feed?post_type=blogpost" htmlUrl=""/>
-    <outline type="rss" text="A developer's notes in the world of security research and bug bounty, by pmnh" title="A developer's notes in the world of security research and bug bounty, by pmnh" xmlUrl="https://h1pmnh.github.io/index.xml" htmlUrl="https://h1pmnh.github.io/"/>
     <outline type="rss" text="A Geodyssey – Enterprise Search &amp; Discovery, Text Mining, Machine Learning" title="A Geodyssey – Enterprise Search &amp; Discovery, Text Mining, Machine Learning" xmlUrl="https://paulhcleverley.com/feed" htmlUrl="https://paulhcleverley.com/"/>
     <outline type="rss" text="A new era of astrophysical research with the Haystack 37m Telescope" title="A new era of astrophysical research with the Haystack 37m Telescope" xmlUrl="https://www.haystack.mit.edu/feed" htmlUrl=""/>
     <outline type="rss" text="A Roadmap for Inequality Research: Transparency, Intersectionality, and Multiple Measures of Race" title="A Roadmap for Inequality Research: Transparency, Intersectionality, and Multiple Measures of Race" xmlUrl="http://www.sociologicalscience.com/category/articles/feed" htmlUrl=""/>
     <outline type="rss" text="A Walk With Your Parts" title="A Walk With Your Parts" xmlUrl="https://annamilaeva.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Affordable Housing Vacancy Similar to Citywide Average" title="Affordable Housing Vacancy Similar to Citywide Average" xmlUrl="https://housing.seattle.gov/feed" htmlUrl=""/>
+    <outline type="rss" text="AI at Meta(@AIatMeta)" title="AI at Meta(@AIatMeta)" xmlUrl="https://api.xgo.ing/rss/user/ef7c70f9568d45f4915169fef4ce90b4" htmlUrl=""/>
     <outline type="rss" text="AI Reddit" title="AI Reddit" xmlUrl="https://www.reddit.com/r/artificial/.rss" htmlUrl="https://www.reddit.com/r/artificial/"/>
     <outline type="rss" text="AI Roadmap Institute Blog – Medium" title="AI Roadmap Institute Blog – Medium" xmlUrl="https://medium.com/feed/ai-roadmap-institute" htmlUrl="https://medium.com/ai-roadmap-institute"/>
     <outline type="rss" text="AIM Sets a New Benchmark with Highest-Rated Global Network Week" title="AIM Sets a New Benchmark with Highest-Rated Global Network Week" xmlUrl="https://aim.edu/feed" htmlUrl=""/>
     <outline type="rss" text="AISI Blog (AI Security Institute)" title="AISI Blog (AI Security Institute)" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/aisi-blog.xml" htmlUrl="https://www.aisi.gov.uk/blog"/>
     <outline type="rss" text="AK(@_akhaliq)" title="AK(@_akhaliq)" xmlUrl="https://api.xgo.ing/rss/user/341f7b9f8d9b477e8bb200caa7f32c6e" htmlUrl=""/>
-    <outline type="rss" text="Andrew's Research" title="Andrew's Research" xmlUrl="https://blog.jmpesp.org/feeds/posts/default?alt=rss" htmlUrl="https://blog.jmpesp.org/"/>
+    <outline type="rss" text="Amazon Science Homepage" title="Amazon Science Homepage" xmlUrl="https://www.amazon.science/index.rss" htmlUrl=""/>
+    <outline type="rss" text="Andrej Karpathy(@karpathy)" title="Andrej Karpathy(@karpathy)" xmlUrl="https://api.xgo.ing/rss/user/edf707b5c0b248579085f66d7a3c5524" htmlUrl=""/>
+    <outline type="rss" text="Andrew Ng(@AndrewYNg)" title="Andrew Ng(@AndrewYNg)" xmlUrl="https://api.xgo.ing/rss/user/08b5488b20bc437c8bfc317a52e5c26d" htmlUrl=""/>
     <outline type="rss" text="Anthropic Research" title="Anthropic Research" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/anthropic-research.xml" htmlUrl="https://www.anthropic.com/research"/>
+    <outline type="rss" text="Anthropic(@AnthropicAI)" title="Anthropic(@AnthropicAI)" xmlUrl="https://api.xgo.ing/rss/user/fc28a211471b496682feff329ec616e5" htmlUrl=""/>
     <outline type="rss" text="Apartment Therapy| Saving the world, one room at a time" title="Apartment Therapy| Saving the world, one room at a time" xmlUrl="https://www.apartmenttherapy.com/design.rss" htmlUrl=""/>
     <outline type="rss" text="Archie.AI – Medium" title="Archie.AI – Medium" xmlUrl="https://medium.com/feed/archieai" htmlUrl="https://medium.com/archieai"/>
     <outline type="rss" text="ARENAS Research Presented at the World Congress of French Linguistics" title="ARENAS Research Presented at the World Congress of French Linguistics" xmlUrl="https://arenasproject.eu/feed" htmlUrl=""/>
@@ -53,29 +56,27 @@
     <outline type="rss" text="Blog AI Paper Review David Stutz" title="Blog AI Paper Review David Stutz" xmlUrl="http://davidstutz.de/feed" htmlUrl="https://davidstutz.de/"/>
     <outline type="rss" text="Blog AI Weirdness" title="Blog AI Weirdness" xmlUrl="https://aiweirdness.com/rss" htmlUrl="https://aiweirdness.com/"/>
     <outline type="rss" text="Blog Andrej Karpathy" title="Blog Andrej Karpathy" xmlUrl="https://medium.com/feed/@karpathy" htmlUrl="https://medium.com/@karpathy"/>
+    <outline type="rss" text="Blog inFERENCe" title="Blog inFERENCe" xmlUrl="https://www.inference.vc/rss" htmlUrl="https://www.inference.v"/>
     <outline type="rss" text="Blog Jay Alammar" title="Blog Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" htmlUrl=""/>
-    <outline type="rss" text="Blog John Cook" title="Blog John Cook" xmlUrl="https://www.johndcook.com/blog/feed" htmlUrl="https://www.johndcook.com/blog/services-2/"/>
     <outline type="rss" text="Blog literature review" title="Blog literature review" xmlUrl="https://vitalab.github.io/feed.xml" htmlUrl="https://vitalab.github.io/"/>
     <outline type="rss" text="Blog on Machine Learning, Statistics &amp; Software Development" title="Blog on Machine Learning, Statistics &amp; Software Development" xmlUrl="http://blog.datumbox.com/feed" htmlUrl="http://blog.datumbox.com/"/>
     <outline type="rss" text="Blog on Text Analytics - Provalis Research" title="Blog on Text Analytics - Provalis Research" xmlUrl="https://provalisresearch.com/feed" htmlUrl="https://provalisresearch.com/blog/"/>
     <outline type="rss" text="BLOG – LEEDS NEURAL NETWORKS" title="BLOG – LEEDS NEURAL NETWORKS" xmlUrl="https://leedsneuralnetworks.wordpress.com/blog/feed" htmlUrl="https://leedsneuralnetworks.wordpress.com/blog/"/>
     <outline type="rss" text="Book Review: Lord of the Flies" title="Book Review: Lord of the Flies" xmlUrl="https://brettmilam.com/feed" htmlUrl=""/>
-    <outline type="rss" text="BugiX - Security Research" title="BugiX - Security Research" xmlUrl="http://bugix-security.blogspot.com/feeds/posts/default" htmlUrl="http://bugix-security.blogspot.com/"/>
     <outline type="rss" text="Building Performance Evaluation: Achieving Better Outcomes" title="Building Performance Evaluation: Achieving Better Outcomes" xmlUrl="https://www.buildingsandcities.org/calls-for-papers/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Call for Innovative Research Visions — Academia and Industry" title="Call for Innovative Research Visions — Academia and Industry" xmlUrl="https://cra.org/industry/feed" htmlUrl=""/>
-    <outline type="rss" text="Carnal0wnage &amp; Attack Research Blog" title="Carnal0wnage &amp; Attack Research Blog" xmlUrl="http://carnal0wnage.attackresearch.com/feeds/posts/default" htmlUrl="http://carnal0wnage.attackresearch.com/"/>
     <outline type="rss" text="Charting the course: Powering Asia’s energy transition through maritime decarbonisation" title="Charting the course: Powering Asia’s energy transition through maritime decarbonisation" xmlUrl="https://www.eco-business.com/feeds/research" htmlUrl=""/>
     <outline type="rss" text="Charting Their Course in 2026: Research Associates Begin Next Steps for New Paths and Opportunities" title="Charting Their Course in 2026: Research Associates Begin Next Steps for New Paths and Opportunities" xmlUrl="https://www.frbsf.org/feed" htmlUrl=""/>
-    <outline type="rss" text="Check Point Research" title="Check Point Research" xmlUrl="https://research.checkpoint.com/feed" htmlUrl=""/>
     <outline type="rss" text="City MP responds to new research by reaffirming pledge to closing sports participation gap for girls in Portsmouth" title="City MP responds to new research by reaffirming pledge to closing sports participation gap for girls in Portsmouth" xmlUrl="https://www.stephenmorgan.org.uk/feed" htmlUrl=""/>
     <outline type="rss" text="Community &amp; Cultural Mapping Research Group Convenes Community Dialogue on Wildfire Resilience" title="Community &amp; Cultural Mapping Research Group Convenes Community Dialogue on Wildfire Resilience" xmlUrl="https://culturalmapping.trubox.ca/feed" htmlUrl=""/>
     <outline type="rss" text="computational biology blog" title="computational biology blog" xmlUrl="https://computationalbiologyblog.com/feed" htmlUrl="https://computationalbiologyblog.com/"/>
     <outline type="rss" text="Computational Intelligence" title="Computational Intelligence" xmlUrl="http://computational-intelligence.blogspot.com/feeds/posts/default" htmlUrl="http://computational-intelligence.blogspot.com/"/>
-    <outline type="rss" text="Corelan Cybersecurity Research" title="Corelan Cybersecurity Research" xmlUrl="https://www.corelan.be/index.php/feed" htmlUrl="https://www.corelan.be"/>
     <outline type="rss" text="Cost, strengths, weaknesses and stats: A deep-dive on what Mario Gila brings to Milan" title="Cost, strengths, weaknesses and stats: A deep-dive on what Mario Gila brings to Milan" xmlUrl="https://sempremilan.com/feed" htmlUrl=""/>
     <outline type="rss" text="CPD: Student evaluations: What they can tell you and what they can’t" title="CPD: Student evaluations: What they can tell you and what they can’t" xmlUrl="https://edlab.nl/slottr/feed" htmlUrl=""/>
     <outline type="rss" text="Creating Stable Conditions for Paper Testing and Conditioning" title="Creating Stable Conditions for Paper Testing and Conditioning" xmlUrl="https://www.cotes.com/blog/rss.xml" htmlUrl=""/>
     <outline type="rss" text="DataRobot Blog" title="DataRobot Blog" xmlUrl="https://www.datarobot.com/blog/feed" htmlUrl="https://blog.datarobot.com/"/>
+    <outline type="rss" text="DeepSeek(@deepseek_ai)" title="DeepSeek(@deepseek_ai)" xmlUrl="https://api.xgo.ing/rss/user/68b610deb24b47ae9a236811563cda86" htmlUrl=""/>
+    <outline type="rss" text="Demis Hassabis(@demishassabis)" title="Demis Hassabis(@demishassabis)" xmlUrl="https://api.xgo.ing/rss/user/4a884d5e2f3740c5a26c9c093de6388a" htmlUrl=""/>
     <outline type="rss" text="Discovery" title="Discovery" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" htmlUrl=""/>
     <outline type="rss" text="Distill" title="Distill" xmlUrl="http://distill.pub/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Distill — Latest articles about machine learning" title="Distill — Latest articles about machine learning" xmlUrl="https://distill.pub/rss.xml" htmlUrl="https://distill.pub/"/>
@@ -84,39 +85,44 @@
     <outline type="rss" text="Early Intervention with Male Perpetrators: A Discussion Paper for Law Enforcement, Community Services, and Policy Makers" title="Early Intervention with Male Perpetrators: A Discussion Paper for Law Enforcement, Community Services, and Policy Makers" xmlUrl="https://preventdomesticviolence.ca/feed" htmlUrl=""/>
     <outline type="rss" text="Farahmandi to lead state cybersecurity institute, expanding research and workforce development" title="Farahmandi to lead state cybersecurity institute, expanding research and workforce development" xmlUrl="https://news.ece.ufl.edu/feed" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="http://blog.chromium.org/atom.xml" htmlUrl=""/>
+    <outline type="rss" text="Fei-Fei Li(@drfeifei)" title="Fei-Fei Li(@drfeifei)" xmlUrl="https://api.xgo.ing/rss/user/a4bfe44bfc0d4c949da21ebd3f5f42a5" htmlUrl=""/>
     <outline type="rss" text="FlowingData" title="FlowingData" xmlUrl="https://flowingdata.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Fortinet Blog" title="Fortinet Blog" xmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research" htmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research"/>
+    <outline type="rss" text="Gary Marcus(@GaryMarcus)" title="Gary Marcus(@GaryMarcus)" xmlUrl="https://api.xgo.ing/rss/user/35a38c5646d946fb894d8c30c1d9629e" htmlUrl=""/>
     <outline type="rss" text="Gastropod" title="Gastropod" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss" htmlUrl=""/>
     <outline type="rss" text="Gender Responsiveness and Women’s Participation in UN Peace Operations: New Research and Policy Implications" title="Gender Responsiveness and Women’s Participation in UN Peace Operations: New Research and Policy Implications" xmlUrl="https://www.ipinst.org/feed" htmlUrl=""/>
     <outline type="rss" text="Genelec powers immersive audio lab at Germany’s KIO research institute" title="Genelec powers immersive audio lab at Germany’s KIO research institute" xmlUrl="https://www.redtech.pro/feed" htmlUrl=""/>
+    <outline type="rss" text="Geoffrey Hinton(@geoffreyhinton)" title="Geoffrey Hinton(@geoffreyhinton)" xmlUrl="https://api.xgo.ing/rss/user/cb6169815e2e447e8e6148a4af3f9686" htmlUrl=""/>
     <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="https://gizmodo.com/tag/science/rss" htmlUrl=""/>
     <outline type="rss" text="Global Virtual Conference on Epidemiologic Research and Collaboration Advancing Equity in Scientific Dissemination and Capacity Building for lower- to middle- income countries (LMICs) – Day 2" title="Global Virtual Conference on Epidemiologic Research and Collaboration Advancing Equity in Scientific Dissemination and Capacity Building for lower- to middle- income countries (LMICs) – Day 2" xmlUrl="https://epiresearch.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Google AI(@GoogleAI)" title="Google AI(@GoogleAI)" xmlUrl="https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7" htmlUrl=""/>
     <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl=""/>
     <outline type="rss" text="Google DeepMind(@GoogleDeepMind)" title="Google DeepMind(@GoogleDeepMind)" xmlUrl="https://api.xgo.ing/rss/user/a99538443a484fcc846bdcc8f50745ec" htmlUrl=""/>
     <outline type="rss" text="GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark" title="GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark" xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Hailuo AI (MiniMax)(@Hailuo_AI)" title="Hailuo AI (MiniMax)(@Hailuo_AI)" xmlUrl="https://api.xgo.ing/rss/user/e65b5e59fcb544918c1ba17f5758f0f8" htmlUrl=""/>
     <outline type="rss" text="Hallucinations to the Edge of Consciousness and Visions" title="Hallucinations to the Edge of Consciousness and Visions" xmlUrl="https://en.aspekti.top/feed" htmlUrl=""/>
     <outline type="rss" text="Hello Paperspace" title="Hello Paperspace" xmlUrl="https://blog.paperspace.com/feed" htmlUrl="https://blog.paperspace.com/"/>
     <outline type="rss" text="Hidden Brain" title="Hidden Brain" xmlUrl="https://feeds.npr.org/510308/podcast.xml" htmlUrl=""/>
     <outline type="rss" text="Homeopathy Research Institute" title="Homeopathy Research Institute" xmlUrl="https://introducinghomeopathy.com/feed" htmlUrl=""/>
     <outline type="rss" text="How Do You Make a Paper Tank" title="How Do You Make a Paper Tank" xmlUrl="https://www.paperpapers.com/news/feed" htmlUrl=""/>
     <outline type="rss" text="HSA 2026: an interchange of research, ideas and argument about housing studies" title="HSA 2026: an interchange of research, ideas and argument about housing studies" xmlUrl="https://housingevidence.ac.uk/feed" htmlUrl=""/>
-    <outline type="rss" text="https://www.darkreading.com/rss.xml" title="https://www.darkreading.com/rss.xml" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl=""/>
-    <outline type="rss" text="Icewall's blog" title="Icewall's blog" xmlUrl="http://www.icewall.pl/?feed=rss2" htmlUrl="http://www.icewall.pl"/>
+    <outline type="rss" text="Ian Goodfellow(@goodfellow_ian)" title="Ian Goodfellow(@goodfellow_ian)" xmlUrl="https://api.xgo.ing/rss/user/57831559d22440debbfb2f2528e4ba84" htmlUrl=""/>
     <outline type="rss" text="IDIGH-CRP Joint Research Day: Vision, Collaboration, and Discoveries" title="IDIGH-CRP Joint Research Day: Vision, Collaboration, and Discoveries" xmlUrl="https://ri.idigh.ca/rd2025/feed" htmlUrl=""/>
     <outline type="rss" text="IHS Funds Research on Three Questions a Free Society Can't Take for Granted" title="IHS Funds Research on Three Questions a Free Society Can't Take for Granted" xmlUrl="https://www.theihs.org/feed" htmlUrl=""/>
     <outline type="rss" text="Improved Research and Roadmaps For Quantum to Crack Main Internet Security RSA-2048" title="Improved Research and Roadmaps For Quantum to Crack Main Internet Security RSA-2048" xmlUrl="https://www.nextbigfuture.com/feed" htmlUrl=""/>
-    <outline type="rss" text="Include Security Research Blog" title="Include Security Research Blog" xmlUrl="https://blog.includesecurity.com/feed" htmlUrl="https://blog.includesecurity.com"/>
     <outline type="rss" text="Institute of Cancer Research bosses’ scabbing operation tears up health and safety" title="Institute of Cancer Research bosses’ scabbing operation tears up health and safety" xmlUrl="https://socialistworker.co.uk/feed" htmlUrl=""/>
     <outline type="rss" text="Interview: San Francisco Ballet’s newest principal – Katherine Barkman’s circuitous route in ballet" title="Interview: San Francisco Ballet’s newest principal – Katherine Barkman’s circuitous route in ballet" xmlUrl="https://feeds.feedburner.com/Gramilano" htmlUrl=""/>
     <outline type="rss" text="Invisibilia" title="Invisibilia" xmlUrl="https://feeds.npr.org/510307/podcast.xml" htmlUrl=""/>
     <outline type="rss" text="Is the USA a Paper Tiger?" title="Is the USA a Paper Tiger?" xmlUrl="https://howardxbloom.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Jan Leike(@janleike)" title="Jan Leike(@janleike)" xmlUrl="https://api.xgo.ing/rss/user/dceb5cd131b34c72a8376cba8ea5d864" htmlUrl=""/>
     <outline type="rss" text="Japanese, U.S. vessel transfers to Philippines reflect deepening strategic alignment" title="Japanese, U.S. vessel transfers to Philippines reflect deepening strategic alignment" xmlUrl="https://ipdefenseforum.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Jeff Dean(@JeffDean)" title="Jeff Dean(@JeffDean)" xmlUrl="https://api.xgo.ing/rss/user/b1013166769c49f8aa3fbdc222867054" htmlUrl=""/>
     <outline type="rss" text="Jill Aronson Pfaendtner named assistant vice chancellor" title="Jill Aronson Pfaendtner named assistant vice chancellor" xmlUrl="https://research.unc.edu/feed" htmlUrl=""/>
+    <outline type="rss" text="Jim Fan(@DrJimFan)" title="Jim Fan(@DrJimFan)" xmlUrl="https://api.xgo.ing/rss/user/c6cfe7c0d6b74849997073233fdea840" htmlUrl=""/>
     <outline type="rss" text="JMLR recent papers" title="JMLR recent papers" xmlUrl="http://proceedings.mlr.press//feed.xml" htmlUrl="http://www.jmlr.org/jmlr.xml"/>
     <outline type="rss" text="Job opening: two predoctoral University Assistant positions (3 years) at the University of Vienna as part of the Vienna Doctoral School of Theology and Research on Religion VDTR. Application deadline:" title="Job opening: two predoctoral University Assistant positions (3 years) at the University of Vienna as part of the Vienna Doctoral School of Theology and Research on Religion VDTR. Application deadline:" xmlUrl="https://www.eurojewishstudies.org/feed" htmlUrl=""/>
     <outline type="rss" text="July 1, 2026 | Xiangfeng Duan receives 2026 Nano Research Award for pioneering advances in low-dimensional materials" title="July 1, 2026 | Xiangfeng Duan receives 2026 Nano Research Award for pioneering advances in low-dimensional materials" xmlUrl="https://cnsi.ucla.edu/feed" htmlUrl=""/>
     <outline type="rss" text="Jumpstarting Sarcoidosis Research: Why Strategic Philanthropy Must Invest in HBCUs" title="Jumpstarting Sarcoidosis Research: Why Strategic Philanthropy Must Invest in HBCUs" xmlUrl="https://nonprofitquarterly.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Junyang Lin(@JustinLin610)" title="Junyang Lin(@JustinLin610)" xmlUrl="https://api.xgo.ing/rss/user/082097117b4543e9a741cd2580f936d3" htmlUrl=""/>
     <outline type="rss" text="Juventus Linked to Former Milan Star After New Hire" title="Juventus Linked to Former Milan Star After New Hire" xmlUrl="https://cultofcalcio.com/feed" htmlUrl=""/>
     <outline type="rss" text="Lady Davis Institute for Medical Research investigators awarded more than $12.9M from CIHR" title="Lady Davis Institute for Medical Research investigators awarded more than $12.9M from CIHR" xmlUrl="https://www.ladydavis.ca/en/feed" htmlUrl=""/>
     <outline type="rss" text="Large Language Models: Bridging the Gap in Cybersecurity" title="Large Language Models: Bridging the Gap in Cybersecurity" xmlUrl="https://cyberspan.us/feed" htmlUrl=""/>
@@ -124,21 +130,23 @@
     <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl=""/>
     <outline type="rss" text="Letting neural networks be weird" title="Letting neural networks be weird" xmlUrl="http://aiweirdness.com/rss" htmlUrl="http://aiweirdness.com/"/>
     <outline type="rss" text="Lexalytics - Blog" title="Lexalytics - Blog" xmlUrl="https://www.lexalytics.com/lexablog/feed" htmlUrl="https://www.lexalytics.com/lexablog/"/>
+    <outline type="rss" text="Lilian Weng(@lilianweng)" title="Lilian Weng(@lilianweng)" xmlUrl="https://api.xgo.ing/rss/user/a8f7e2238039461cbc8bf55f5f194498" htmlUrl=""/>
+    <outline type="rss" text="lmarena.ai(@lmarena_ai)" title="lmarena.ai(@lmarena_ai)" xmlUrl="https://api.xgo.ing/rss/user/f01b088d5a39473e854b07143df77ec5" htmlUrl=""/>
     <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" htmlUrl=""/>
     <outline type="rss" text="Machine Learning Blog | ML@CMU | Carnegie Mellon University" title="Machine Learning Blog | ML@CMU | Carnegie Mellon University" xmlUrl="https://blog.ml.cmu.edu/feed" htmlUrl=""/>
     <outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/"/>
     <outline type="rss" text="Machine, Think!" title="Machine, Think!" xmlUrl="http://machinethink.net/blog/index.xml" htmlUrl="https://machinethink.net/"/>
+    <outline type="rss" text="meng shao(@shao__meng)" title="meng shao(@shao__meng)" xmlUrl="https://api.xgo.ing/rss/user/48aae530e0bf413aa7d44380f418e2e3" htmlUrl=""/>
     <outline type="rss" text="Michelle V. Joyce appointed vice president of institutional research, innovation and strategy" title="Michelle V. Joyce appointed vice president of institutional research, innovation and strategy" xmlUrl="https://news.nd.edu/news.atom" htmlUrl=""/>
     <outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="http://research.microsoft.com/rss/news.xml" htmlUrl=""/>
     <outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
     <outline type="rss" text="Microsoft Research(@MSFTResearch)" title="Microsoft Research(@MSFTResearch)" xmlUrl="https://api.xgo.ing/rss/user/61f4b78554fb4b8fa5653ec5d924d15a" htmlUrl=""/>
     <outline type="rss" text="Mila News (Quebec AI Institute)" title="Mila News (Quebec AI Institute)" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/mila-news.xml" htmlUrl="https://mila.quebec/en/news"/>
-    <outline type="rss" text="Milan News" title="Milan News" xmlUrl="https://www.milannews.it/rss" htmlUrl=""/>
+    <outline type="rss" text="Mistral AI(@MistralAI)" title="Mistral AI(@MistralAI)" xmlUrl="https://api.xgo.ing/rss/user/8d2d03aea8af49818096da4ea00409d1" htmlUrl=""/>
     <outline type="rss" text="MIT News" title="MIT News" xmlUrl="https://news.mit.edu/rss/research" htmlUrl=""/>
     <outline type="rss" text="MIT News - Machine learning" title="MIT News - Machine learning" xmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" htmlUrl=""/>
     <outline type="rss" text="MITCSAIL - YouTube" title="MITCSAIL - YouTube" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=MITCSAIL" htmlUrl="https://www.youtube.com/user/MITCSAIL/videos"/>
     <outline type="rss" text="ML in production" title="ML in production" xmlUrl="https://mlinproduction.com/feed" htmlUrl="https://mlinproduction.com/"/>
-    <outline type="rss" text="MongoDB Blog" title="MongoDB Blog" xmlUrl="https://www.mongodb.com/blog/rss" htmlUrl=""/>
     <outline type="rss" text="Monkeying with elections – posted 7/3/2026" title="Monkeying with elections – posted 7/3/2026" xmlUrl="https://jonathanpbaird.com/feed" htmlUrl=""/>
     <outline type="rss" text="Motorcycle Orienteering: Paper Maps and the Return of Discovery" title="Motorcycle Orienteering: Paper Maps and the Return of Discovery" xmlUrl="http://adventureriderpodcast.libsyn.com/rss" htmlUrl=""/>
     <outline type="rss" text="Neha Rathi Published a new Paper With the Support of the 2025 Pioneers Program edition" title="Neha Rathi Published a new Paper With the Support of the 2025 Pioneers Program edition" xmlUrl="https://isbnpa.org/feed" htmlUrl=""/>
@@ -153,18 +161,18 @@
     <outline type="rss" text="New Research Traces How ‘Forever Chemicals’ Move Through the Great Lakes and Into People" title="New Research Traces How ‘Forever Chemicals’ Move Through the Great Lakes and Into People" xmlUrl="https://sentientmedia.org/feed" htmlUrl=""/>
     <outline type="rss" text="New SPICe research – Access to Legal Aid and Advice in Scotland" title="New SPICe research – Access to Legal Aid and Advice in Scotland" xmlUrl="https://spice-spotlight.scot/feed" htmlUrl=""/>
     <outline type="rss" text="Nicholas Carlini" title="Nicholas Carlini" xmlUrl="https://nicholas.carlini.com/writing/feed.xml" htmlUrl="https://nicholas.carlini.com/"/>
+    <outline type="rss" text="NVIDIA AI(@NVIDIAAI)" title="NVIDIA AI(@NVIDIAAI)" xmlUrl="https://api.xgo.ing/rss/user/05f1492e43514dc3862a076d3697c390" htmlUrl=""/>
     <outline type="rss" text="NYT &gt; Science" title="NYT &gt; Science" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl=""/>
     <outline type="rss" text="On GATE, Text and Social Media Analysis, and Detecting Misinformation Online" title="On GATE, Text and Social Media Analysis, and Detecting Misinformation Online" xmlUrl="https://gate4ugc.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://gate4ugc.blogspot.com/"/>
     <outline type="rss" text="One Developer, Two Dozen Agents, Zero Alignment" title="One Developer, Two Dozen Agents, Zero Alignment" xmlUrl="https://maggieappleton.com/rss.xml" htmlUrl=""/>
     <outline type="rss" text="One-woman show “Bairns” tackles surrogacy with comedy and care" title="One-woman show “Bairns” tackles surrogacy with comedy and care" xmlUrl="https://thenewfeminist.co.uk/feed" htmlUrl=""/>
     <outline type="rss" text="Open research in the age of AI (from the JGI blog)" title="Open research in the age of AI (from the JGI blog)" xmlUrl="https://openresearchbristol.blogs.bristol.ac.uk/feed" htmlUrl=""/>
+    <outline type="rss" text="OpenAI(@OpenAI)" title="OpenAI(@OpenAI)" xmlUrl="https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049" htmlUrl=""/>
     <outline type="rss" text="Opinion: New Muslim Integration Research Reveals Modern Britain" title="Opinion: New Muslim Integration Research Reveals Modern Britain" xmlUrl="https://stanisland.com/feed" htmlUrl=""/>
     <outline type="rss" text="OPM’s “Last Day of Paper” Retirement Applications" title="OPM’s “Last Day of Paper” Retirement Applications" xmlUrl="https://www.narfe.org/feed" htmlUrl=""/>
     <outline type="rss" text="Oshkosh-based paper plate maker to add 100 manufacturing jobs in Clintonville" title="Oshkosh-based paper plate maker to add 100 manufacturing jobs in Clintonville" xmlUrl="https://www.wpr.org/feed" htmlUrl=""/>
     <outline type="rss" text="Paper Computers" title="Paper Computers" xmlUrl="https://curate.games/feed" htmlUrl=""/>
     <outline type="rss" text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed" htmlUrl=""/>
-    <outline type="rss" text="PortSwigger Research" title="PortSwigger Research" xmlUrl="https://portswigger.net/research/rss" htmlUrl="https://portswigger.net/research"/>
-    <outline type="rss" text="Positive Security | IT Security research and happy coincidences" title="Positive Security | IT Security research and happy coincidences" xmlUrl="https://positive.security/blog/rss.xml" htmlUrl="https://positive.security"/>
     <outline type="rss" text="Princeton University Student Laura Nelson Wins Law &amp; Social Inquiry’s 2026 Graduate Student Paper Competition" title="Princeton University Student Laura Nelson Wins Law &amp; Social Inquiry’s 2026 Graduate Student Paper Competition" xmlUrl="https://www.americanbarfoundation.org/feed" htmlUrl=""/>
     <outline type="rss" text="Probably Science" title="Probably Science" xmlUrl="https://probablyscience.libsyn.com/rss" htmlUrl=""/>
     <outline type="rss" text="Protected: Inside Francis Crick’s Core Imaging Facility: Enabling Research Across Biology" title="Protected: Inside Francis Crick’s Core Imaging Facility: Enabling Research Across Biology" xmlUrl="https://confocalnl.com/feed" htmlUrl=""/>
@@ -201,17 +209,15 @@
     <outline type="rss" text="Science Latest" title="Science Latest" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" htmlUrl=""/>
     <outline type="rss" text="Science-Based Medicine" title="Science-Based Medicine" xmlUrl="https://sciencebasedmedicine.org/feed" htmlUrl=""/>
     <outline type="rss" text="Scientific American Content: Global" title="Scientific American Content: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl=""/>
-    <outline type="rss" text="SerHack – Security research on SerHack – Security researcher" title="SerHack – Security research on SerHack – Security researcher" xmlUrl="https://serhack.me/index.xml" htmlUrl="https://serhack.me/"/>
     <outline type="rss" text="SHAPS Digest (June 2026)" title="SHAPS Digest (June 2026)" xmlUrl="https://blogs.unimelb.edu.au/shaps-research/feed" htmlUrl=""/>
     <outline type="rss" text="SHARE Network: School Mental Health and Addiction Research Excellence Network" title="SHARE Network: School Mental Health and Addiction Research Excellence Network" xmlUrl="https://mentalhealthresearch.org.uk/feed" htmlUrl=""/>
     <outline type="rss" text="Shirtloads of Science" title="Shirtloads of Science" xmlUrl="https://shirtloadsofscience.libsyn.com/rss" htmlUrl=""/>
-    <outline type="rss" text="Sick Codes – Security Research, Hardware &amp; Software Hacking, Consulting, Linux, IoT, Cloud, Embedded, Arch, Tweaks &amp; Tips!" title="Sick Codes – Security Research, Hardware &amp; Software Hacking, Consulting, Linux, IoT, Cloud, Embedded, Arch, Tweaks &amp; Tips!" xmlUrl="https://sick.codes/feed" htmlUrl="https://sick.codes"/>
     <outline type="rss" text="SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices — memristor-based in-memory SoC research leaves performance questions up in the air" title="SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices — memristor-based in-memory SoC research leaves performance questions up in the air" xmlUrl="https://www.tomshardware.com/feeds.xml" htmlUrl=""/>
     <outline type="rss" text="SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices — memristor-based in-memory SoC research leaves performance questions up in the air" title="SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices — memristor-based in-memory SoC research leaves performance questions up in the air" xmlUrl="https://www.tomshardware.com/feeds/articletype/news" htmlUrl=""/>
+    <outline type="rss" text="Skywork(@Skywork_ai)" title="Skywork(@Skywork_ai)" xmlUrl="https://api.xgo.ing/rss/user/6d7d398dd80b48d79669c92745d32cf6" htmlUrl=""/>
     <outline type="rss" text="Spain vs Belgium First Goalscorer Prediction &amp; Best Bets Today World Cup 2026 Quarterfinal" title="Spain vs Belgium First Goalscorer Prediction &amp; Best Bets Today World Cup 2026 Quarterfinal" xmlUrl="https://www.fanduel.com/research/rss/recent" htmlUrl=""/>
     <outline type="rss" text="SPATE PhD studentships available!" title="SPATE PhD studentships available!" xmlUrl="https://research.reading.ac.uk/met-spate/feed" htmlUrl=""/>
     <outline type="rss" text="Stanford AI Lab(@StanfordAILab)" title="Stanford AI Lab(@StanfordAILab)" xmlUrl="https://api.xgo.ing/rss/user/d5fc365556e641cba2278f501e8c6f92" htmlUrl=""/>
-    <outline type="rss" text="Stories by SAP Security Research on Medium" title="Stories by SAP Security Research on Medium" xmlUrl="https://medium.com/feed/@sap.security.research" htmlUrl="https://medium.com/@sap.security.research?source=rss-2a81b4d6e308------2"/>
     <outline type="rss" text="Subscribe" title="Subscribe" xmlUrl="https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/stability-ai.xml" htmlUrl=""/>
     <outline type="rss" text="Subscribe" title="Subscribe" xmlUrl="https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/paul-graham.xml" htmlUrl=""/>
     <outline type="rss" text="Subscribe" title="Subscribe" xmlUrl="https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/humanlayer.xml" htmlUrl=""/>
@@ -242,6 +248,7 @@
     <outline type="rss" text="The Hidden Cost of DIY Expert Research:  How Law Firms Underestimate What They’re Spending" title="The Hidden Cost of DIY Expert Research:  How Law Firms Underestimate What They’re Spending" xmlUrl="https://www.lexisnexis.com/community/insights/legal/b/thought-leadership/rss" htmlUrl=""/>
     <outline type="rss" text="The Infinite Monkey Cage" title="The Infinite Monkey Cage" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" htmlUrl=""/>
     <outline type="rss" text="The Inside Story Of Leverage Research 1.0" title="The Inside Story Of Leverage Research 1.0" xmlUrl="https://lydialaurenson.substack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="the morning paper" title="the morning paper" xmlUrl="https://blog.acolyer.org/feed" htmlUrl="https://blog.acolyer.org"/>
     <outline type="rss" text="The OMB Guidance Revision Threatens All Research" title="The OMB Guidance Revision Threatens All Research" xmlUrl="https://scholarlykitchen.sspnet.org/feed" htmlUrl=""/>
     <outline type="rss" text="The Saturday Paper – Fighting a rigged political system" title="The Saturday Paper – Fighting a rigged political system" xmlUrl="https://zoedaniel.com.au/feed" htmlUrl=""/>
     <outline type="rss" text="This Week in Science – The Kickass Science Podcast" title="This Week in Science – The Kickass Science Podcast" xmlUrl="http://www.twis.org/feed" htmlUrl=""/>
@@ -253,7 +260,6 @@
     <outline type="rss" text="Unsupervised Thinking" title="Unsupervised Thinking" xmlUrl="http://unsupervisedthinkingpodcast.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://unsupervisedthinkingpodcast.blogspot.com/"/>
     <outline type="rss" text="USA Hockey National 16 Camp Team Black Skater Evaluations" title="USA Hockey National 16 Camp Team Black Skater Evaluations" xmlUrl="https://puckpreps.com/feed" htmlUrl=""/>
     <outline type="rss" text="Views of the American Dream From Milan, Italy" title="Views of the American Dream From Milan, Italy" xmlUrl="https://ltamerica.org/feed" htmlUrl=""/>
-    <outline type="rss" text="Vulnerabilities and Threat Research – Qualys Security Blog" title="Vulnerabilities and Threat Research – Qualys Security Blog" xmlUrl="https://blog.qualys.com/feed" htmlUrl="https://blog.qualys.com"/>
     <outline type="rss" text="Weekend Reading – Vanguard Research on Currencies, 7 Biggest Mistakes in Retirement Planning &amp; JP Morgan Guide to Markets" title="Weekend Reading – Vanguard Research on Currencies, 7 Biggest Mistakes in Retirement Planning &amp; JP Morgan Guide to Markets" xmlUrl="https://www.bankeronwheels.com/feed" htmlUrl=""/>
     <outline type="rss" text="What Our Writers Put to Paper" title="What Our Writers Put to Paper" xmlUrl="https://www.salvationsouth.com/feed" htmlUrl=""/>
     <outline type="rss" text="When Research Tastes This Good" title="When Research Tastes This Good" xmlUrl="https://kingsriverlife.com/feed" htmlUrl=""/>

@@ -2,12 +2,13 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Developer Tools</title>
-    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
+    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="6 Open Source Tools to Query OpenStreetMap" title="6 Open Source Tools to Query OpenStreetMap" xmlUrl="https://wcedmisten.fyi/feed.xml" htmlUrl=""/>
     <outline type="rss" text="&lt;img src=&quot;https://cdn.ttgtmedia.com/customvisuals/customsite/embdellpowerone_icon3a.png&quot;&gt; Confidential Containers Pattern - Intel TDX Support" title="&lt;img src=&quot;https://cdn.ttgtmedia.com/customvisuals/customsite/embdellpowerone_icon3a.png&quot;&gt; Confidential Containers Pattern - Intel TDX Support" xmlUrl="https://www.theserverside.com/rss/ContentSyndication.xml" htmlUrl=""/>
     <outline type="rss" text="[PREORDER] DX Gochizo Party Set - Kamen Rider Gavv Ver 03" title="[PREORDER] DX Gochizo Party Set - Kamen Rider Gavv Ver 03" xmlUrl="https://tokullectibles.com/collections/kamen-rider-gavv.atom" htmlUrl=""/>
+    <outline type="rss" text="Augmented Code" title="Augmented Code" xmlUrl="https://augmentedcode.io/feed" htmlUrl=""/>
     <outline type="rss" text="bogdanthegeek.github.io" title="bogdanthegeek.github.io" xmlUrl="https://bogdanthegeek.github.io/blog/index.xml" htmlUrl="https://bogdanthegeek.github.io"/>
     <outline type="rss" text="BREAKDEV" title="BREAKDEV" xmlUrl="http://breakdev.org/rss" htmlUrl="https://breakdev.org/"/>
     <outline type="rss" text="CALL FOR TENDERS: Consultancy services to produce the Universal Jurisdiction Annual Review 2027" title="CALL FOR TENDERS: Consultancy services to produce the Universal Jurisdiction Annual Review 2027" xmlUrl="https://trialinternational.org/feed" htmlUrl=""/>
@@ -16,11 +17,19 @@
     <outline type="rss" text="feed" title="feed" xmlUrl="https://borischerny.com/feed.xml" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="https://iamfran.com/feed.rss" htmlUrl=""/>
     <outline type="rss" text="feed" title="feed" xmlUrl="http://johnkeefe.net/posts.atom" htmlUrl=""/>
-    <outline type="rss" text="GDTR" title="GDTR" xmlUrl="http://gdtr.wordpress.com/feed" htmlUrl="https://gdtr.wordpress.com"/>
+    <outline type="rss" text="Firecrawl(@firecrawl_dev)" title="Firecrawl(@firecrawl_dev)" xmlUrl="https://api.xgo.ing/rss/user/c04abb206bbf4f91b22795024d6c0614" htmlUrl=""/>
+    <outline type="rss" text="freeCodeCamp.org" title="freeCodeCamp.org" xmlUrl="https://www.freecodecamp.org/news/rss" htmlUrl=""/>
+    <outline type="rss" text="Geek(@geekbb)" title="Geek(@geekbb)" xmlUrl="https://api.xgo.ing/rss/user/9cb3b60e689e4445a7fbdfd0be144126" htmlUrl=""/>
+    <outline type="rss" text="GitHub(@github)" title="GitHub(@github)" xmlUrl="https://api.xgo.ing/rss/user/fa5b15f68a2e4df1ab301e26a4ab9190" htmlUrl=""/>
     <outline type="rss" text="Global Infrastructure, Shared Responsibility — UN Open Source Week 2026" title="Global Infrastructure, Shared Responsibility — UN Open Source Week 2026" xmlUrl="https://www.sovereign.tech/feed.rss" htmlUrl=""/>
+    <outline type="rss" text="Google Open Source Blog" title="Google Open Source Blog" xmlUrl="http://feeds.feedburner.com/GoogleOpenSourceBlog" htmlUrl="http://opensource.googleblog.com/"/>
     <outline type="rss" text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl=""/>
+    <outline type="rss" text="hidecloud(@hidecloud)" title="hidecloud(@hidecloud)" xmlUrl="https://api.xgo.ing/rss/user/23d41992b29340788aa3d09d8364c5f5" htmlUrl=""/>
     <outline type="rss" text="How to fill cracks and drainage holes in resin 3D prints" title="How to fill cracks and drainage holes in resin 3D prints" xmlUrl="https://savimade.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="HTTP Toolkit" title="HTTP Toolkit" xmlUrl="https://httptoolkit.tech/rss.xml" htmlUrl="https://httptoolkit.com/blog/"/>
     <outline type="rss" text="Inkscape supports German petition to recognize Open Source volunteers" title="Inkscape supports German petition to recognize Open Source volunteers" xmlUrl="https://inkscape.org/news/feed" htmlUrl=""/>
+    <outline type="rss" text="JetBrains News | JetBrains Blog" title="JetBrains News | JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed" htmlUrl=""/>
+    <outline type="rss" text="keygen.sh" title="keygen.sh" xmlUrl="https://keygen.sh/blog/feed.xml" htmlUrl="https://keygen.sh"/>
     <outline type="rss" text="Linux Foundation Blogs" title="Linux Foundation Blogs" xmlUrl="https://www.linuxfoundation.org/blog/rss.xml" htmlUrl="https://www.linuxfoundation.org"/>
     <outline type="rss" text="Migrate your data with the Tigris CLI" title="Migrate your data with the Tigris CLI" xmlUrl="https://www.tigrisdata.com/blog/rss.xml" htmlUrl=""/>
     <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="https://oleb.net/blog/atom.xml" htmlUrl=""/>
@@ -29,15 +38,15 @@
     <outline type="rss" text="Overview of Haskell security tooling" title="Overview of Haskell security tooling" xmlUrl="https://blog.haskell.org/atom.xml" htmlUrl=""/>
     <outline type="rss" text="Portland’s Best Mexican Restaurants and Food Carts" title="Portland’s Best Mexican Restaurants and Food Carts" xmlUrl="https://pdx.eater.com/rss/index.xml" htmlUrl=""/>
     <outline type="rss" text="Quinn Emanuel News – UK Court of Appeal Upholds Illiquidx Victory in Venezuelan Debt Fund Dispute" title="Quinn Emanuel News – UK Court of Appeal Upholds Illiquidx Victory in Venezuelan Debt Fund Dispute" xmlUrl="https://www.lawfuel.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Show Hacker News" title="Show Hacker News" xmlUrl="https://news.ycombinator.com/showrss" htmlUrl="https://news.ycombinator.com/show"/>
     <outline type="rss" text="splinter_code blog" title="splinter_code blog" xmlUrl="https://antoniococo.github.io/rss.xml" htmlUrl="https://splintercod3.blogspot.com/"/>
     <outline type="rss" text="Sr Account Manager - CA" title="Sr Account Manager - CA" xmlUrl="https://opensourcejobhub.com/rss" htmlUrl=""/>
-    <outline type="rss" text="sysexit" title="sysexit" xmlUrl="https://sysexit.wordpress.com/feed" htmlUrl="https://sysexit.wordpress.com"/>
     <outline type="rss" text="The bsky-docker script" title="The bsky-docker script" xmlUrl="https://ingram-braun.net/erga/feed" htmlUrl=""/>
     <outline type="rss" text="The Crumbling Crown EP4" title="The Crumbling Crown EP4" xmlUrl="https://opensourcesoul.substack.com/feed?sectionId=197497" htmlUrl=""/>
     <outline type="rss" text="The Open-Source Piano Teacher" title="The Open-Source Piano Teacher" xmlUrl="https://donwatkins.info/feed" htmlUrl=""/>
     <outline type="rss" text="The Splinter Report: July 10th" title="The Splinter Report: July 10th" xmlUrl="https://www.popularwoodworking.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Tim's Tech Blog" title="Tim's Tech Blog" xmlUrl="https://timtech.blog/feed/feed.xml" htmlUrl=""/>
     <outline type="rss" text="UN Open Source Week, AI Fellowship, and 2025 Annual Report" title="UN Open Source Week, AI Fellowship, and 2025 Annual Report" xmlUrl="https://opensource.org/feed" htmlUrl=""/>
-    <outline type="rss" text="Vimeo / Offensive Security’s videos" title="Vimeo / Offensive Security’s videos" xmlUrl="http://vimeo.com/offsec/videos/rss" htmlUrl="https://vimeo.com"/>
     <outline type="rss" text="WRTC 2026" title="WRTC 2026" xmlUrl="https://www.dx-world.net/feed" htmlUrl=""/>
     <outline type="rss" text="‘Buddy’ Teaser Trailer – First Look at Casper Kelly’s Twisted Horror Nightmare Starring Topher Grace, Keegan-Michael Key, Michael Shannon" title="‘Buddy’ Teaser Trailer – First Look at Casper Kelly’s Twisted Horror Nightmare Starring Topher Grace, Keegan-Michael Key, Michael Shannon" xmlUrl="https://vimooz.com/feed" htmlUrl=""/>
   </body>

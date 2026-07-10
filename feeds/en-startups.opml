@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Startups &amp; Indie Hackers</title>
-    <dateCreated>2026-07-10T19:31:27Z</dateCreated>
+    <dateCreated>2026-07-10T20:05:17Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="https://www.aiwire.net/feed" title="https://www.aiwire.net/feed" xmlUrl="https://www.aiwire.net/feed" htmlUrl=""/>
@@ -10,11 +10,16 @@
     <outline type="rss" text="15 Years of Indie Dev In 4 Bits of Advice" title="15 Years of Indie Dev In 4 Bits of Advice" xmlUrl="https://www.pentadact.com/feed" htmlUrl=""/>
     <outline type="rss" text="A Stunning SpaceX Launch Turned the Night Sky Into a Giant Glowing Jellyfish" title="A Stunning SpaceX Launch Turned the Night Sky Into a Giant Glowing Jellyfish" xmlUrl="https://dailygalaxy.com/feed" htmlUrl=""/>
     <outline type="rss" text="A success for the maiden launch of the Chinese Long March 10B rocket" title="A success for the maiden launch of the Chinese Long March 10B rocket" xmlUrl="https://english.tachyonbeam.com/feed" htmlUrl=""/>
+    <outline type="rss" text="a16z(@a16z)" title="a16z(@a16z)" xmlUrl="https://api.xgo.ing/rss/user/f3fedf817599470dbf8d8d11f0872475" htmlUrl=""/>
+    <outline type="rss" text="Adam D'Angelo(@adamdangelo)" title="Adam D'Angelo(@adamdangelo)" xmlUrl="https://api.xgo.ing/rss/user/3042b6f912b24f64982cc23f7bd59681" htmlUrl=""/>
     <outline type="rss" text="Affirmations for Entrepreneurs That Actually Work" title="Affirmations for Entrepreneurs That Actually Work" xmlUrl="https://danawilde.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Akshay Kothari(@akothari)" title="Akshay Kothari(@akothari)" xmlUrl="https://api.xgo.ing/rss/user/3434c0d56ee0446f991fb6af42bfac4b" htmlUrl=""/>
     <outline type="rss" text="Alienware Launches 30th Anniversary Monitor Lineup This Week, With More Details Shared" title="Alienware Launches 30th Anniversary Monitor Lineup This Week, With More Details Shared" xmlUrl="https://www.cgmagonline.com/feed" htmlUrl=""/>
     <outline type="rss" text="American Oversight Launches Investigation Into Federal Policing of Freedom 250 Events in Wake of Reflecting Pool Arrests" title="American Oversight Launches Investigation Into Federal Policing of Freedom 250 Events in Wake of Reflecting Pool Arrests" xmlUrl="https://americanoversight.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Amjad Masad(@amasad)" title="Amjad Masad(@amasad)" xmlUrl="https://api.xgo.ing/rss/user/5fb1814c610c4af2911caa98c5c5ef82" htmlUrl=""/>
     <outline type="rss" text="Amtrak launches New Haven to Providence Capacity Planning Study" title="Amtrak launches New Haven to Providence Capacity Planning Study" xmlUrl="https://transportationtodaynews.com/feed" htmlUrl=""/>
     <outline type="rss" text="An Artist Who Launched His Career in Iran, and Now Documents its Violence from a World Away" title="An Artist Who Launched His Career in Iran, and Now Documents its Violence from a World Away" xmlUrl="https://southwestcontemporary.com/feed" htmlUrl=""/>
+    <outline type="rss" text="andrew chen(@andrewchen)" title="andrew chen(@andrewchen)" xmlUrl="https://api.xgo.ing/rss/user/a3eb6beb2d894da3a9b7ab6d2e46790e" htmlUrl=""/>
     <outline type="rss" text="Apple relaunches Project Titan as Project Titanic" title="Apple relaunches Project Titan as Project Titanic" xmlUrl="https://scoopertino.com/feed" htmlUrl=""/>
     <outline type="rss" text="Applying ‘Unreasonable Hospitality’ to startups" title="Applying ‘Unreasonable Hospitality’ to startups" xmlUrl="https://paulmiller.org/feed" htmlUrl=""/>
     <outline type="rss" text="Augur Society Launches a New Book Club: The Augur Bookshelf" title="Augur Society Launches a New Book Club: The Augur Bookshelf" xmlUrl="https://augursociety.org/feed" htmlUrl=""/>
@@ -29,7 +34,6 @@
     <outline type="rss" text="Buffalo Startup Helping Broken-Up Couples Stay Broken-Up With AI Robot" title="Buffalo Startup Helping Broken-Up Couples Stay Broken-Up With AI Robot" xmlUrl="https://buffalomud.com/feed" htmlUrl=""/>
     <outline type="rss" text="Building Great Companies Through Great People: A Conversation on Talent, Culture, and Scaling Startups" title="Building Great Companies Through Great People: A Conversation on Talent, Culture, and Scaling Startups" xmlUrl="https://ecovg.com/feed" htmlUrl=""/>
     <outline type="rss" text="Business Plan for a Startup Company: What Investors Want to See" title="Business Plan for a Startup Company: What Investors Want to See" xmlUrl="https://legacybusinessplans.com/feed" htmlUrl=""/>
-    <outline type="rss" text="BusinessWorld" title="BusinessWorld" xmlUrl="https://www.bworldonline.com/feed" htmlUrl=""/>
     <outline type="rss" text="CAM4 Launches Sexy Summer Gifting Contest 2026" title="CAM4 Launches Sexy Summer Gifting Contest 2026" xmlUrl="https://bcams-magazine.com/feed" htmlUrl=""/>
     <outline type="rss" text="Careers and Entrepreneurship team win Sustainable Careers Award and Top Prize at Graduate Futures Awards" title="Careers and Entrepreneurship team win Sustainable Careers Award and Top Prize at Graduate Futures Awards" xmlUrl="https://www.sussex.ac.uk/broadcast/feed/news/school-of-law-politics-and-sociology.atom" htmlUrl=""/>
     <outline type="rss" text="Case study: How Queue Points launched their podcast hub on Beamly" title="Case study: How Queue Points launched their podcast hub on Beamly" xmlUrl="https://podcastpage.io/feed" htmlUrl=""/>
@@ -63,6 +67,7 @@
     <outline type="rss" text="Get Physical and M.A.N.D.Y. Co-Founder Philipp Jung Has Passed Away" title="Get Physical and M.A.N.D.Y. Co-Founder Philipp Jung Has Passed Away" xmlUrl="https://xlr8r.com/feed" htmlUrl=""/>
     <outline type="rss" text="GIS Cloud Launches Platform-Wide AI, Turning the First Online GIS Into an AI-Native Platform" title="GIS Cloud Launches Platform-Wide AI, Turning the First Online GIS Into an AI-Native Platform" xmlUrl="https://www.agi.org.uk/feed" htmlUrl=""/>
     <outline type="rss" text="Grants Guide: Quebec Small Business Grants" title="Grants Guide: Quebec Small Business Grants" xmlUrl="https://www.canadastartups.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Hacker News: Launches" title="Hacker News: Launches" xmlUrl="https://hnrss.org/launches" htmlUrl=""/>
     <outline type="rss" text="HCS Head Start Launches Tomorrow’s Teachers Program" title="HCS Head Start Launches Tomorrow’s Teachers Program" xmlUrl="https://healthcarenews.com/feed" htmlUrl=""/>
     <outline type="rss" text="Hitmaking Producer Benny Blanco Launches ‘Hermoso’ Era With “Joven y Salvaje”" title="Hitmaking Producer Benny Blanco Launches ‘Hermoso’ Era With “Joven y Salvaje”" xmlUrl="https://www.thatericalper.com/feed" htmlUrl=""/>
     <outline type="rss" text="HitPaw Launches 6th Anniversary Celebration: Spin to Win Big Prizes and Save Up to 50-percent on AI Tools" title="HitPaw Launches 6th Anniversary Celebration: Spin to Win Big Prizes and Save Up to 50-percent on AI Tools" xmlUrl="https://www.send2press.com/wire/feed" htmlUrl=""/>
@@ -74,14 +79,18 @@
     <outline type="rss" text="Interior Dept requests advice from offshore launch platform companies" title="Interior Dept requests advice from offshore launch platform companies" xmlUrl="https://behindtheblack.com/feed" htmlUrl=""/>
     <outline type="rss" text="John Egan" title="John Egan" xmlUrl="http://jwegan.com/feed/rss" htmlUrl=""/>
     <outline type="rss" text="JOIN our wegg® Virtual Cafe Gathering Today, 7/7 at 4 PM CT" title="JOIN our wegg® Virtual Cafe Gathering Today, 7/7 at 4 PM CT" xmlUrl="https://womenentrepreneursgrowglobal.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Justin Welsh(@thejustinwelsh)" title="Justin Welsh(@thejustinwelsh)" xmlUrl="https://api.xgo.ing/rss/user/58894bf2934a426ca833c682da2bc810" htmlUrl=""/>
+    <outline type="rss" text="Justine Moore(@venturetwins)" title="Justine Moore(@venturetwins)" xmlUrl="https://api.xgo.ing/rss/user/c61046471f174d86bc0eb76cb44a21c3" htmlUrl=""/>
     <outline type="rss" text="Landmine Monitor Country Report in Burmese launched at press conference" title="Landmine Monitor Country Report in Burmese launched at press conference" xmlUrl="https://minefreemyanmar.info/feed" htmlUrl=""/>
     <outline type="rss" text="Launch of Quilts Databases" title="Launch of Quilts Databases" xmlUrl="https://cain.ulster.ac.uk/conflicttextiles/feed" htmlUrl=""/>
     <outline type="rss" text="Launching the Omni-American Commons" title="Launching the Omni-American Commons" xmlUrl="https://freeblackthought.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Launching Your Game Demo: Setting Up for Success" title="Launching Your Game Demo: Setting Up for Success" xmlUrl="https://heyitsdora.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Lenny Rachitsky(@lennysan)" title="Lenny Rachitsky(@lennysan)" xmlUrl="https://api.xgo.ing/rss/user/77d5ce4736854b0ebae603e4b54d3095" htmlUrl=""/>
     <outline type="rss" text="Levtek’s Autonomous Robots Deployed at Voi’s Warehouse" title="Levtek’s Autonomous Robots Deployed at Voi’s Warehouse" xmlUrl="https://oresundstartups.com/feed" htmlUrl=""/>
     <outline type="rss" text="LinkedIn Launches Creator Marketplace to Help Brands Discover and Partner With Creators: Why It Matters for B2B Creator Marketing" title="LinkedIn Launches Creator Marketplace to Help Brands Discover and Partner With Creators: Why It Matters for B2B Creator Marketing" xmlUrl="https://www.lindseygamble.com/blog?format=rss" htmlUrl=""/>
     <outline type="rss" text="Long Distance Launch Event! Stage Three ‘a philosopHER walks’" title="Long Distance Launch Event! Stage Three ‘a philosopHER walks’" xmlUrl="https://aphilosopherwalks.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="Loveland Magazine Founder and Editor Leaves Incredible Legacy Behind" title="Loveland Magazine Founder and Editor Leaves Incredible Legacy Behind" xmlUrl="https://lovelandmagazine.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Marc Andreessen 🇺🇸(@pmarca)" title="Marc Andreessen 🇺🇸(@pmarca)" xmlUrl="https://api.xgo.ing/rss/user/63316630d94543f5a6480f230f483008" htmlUrl=""/>
     <outline type="rss" text="Mayor Mamdani Launches WhatsApp Channel—en Español" title="Mayor Mamdani Launches WhatsApp Channel—en Español" xmlUrl="https://citylimits.org/feed" htmlUrl=""/>
     <outline type="rss" text="Mayor Mamdani Launches ‘El Chisme’ to Connect with Latinos Chismosos in NYC" title="Mayor Mamdani Launches ‘El Chisme’ to Connect with Latinos Chismosos in NYC" xmlUrl="https://miblogestublog.com/feed" htmlUrl=""/>
     <outline type="rss" text="MBA Voices: From London Business School To The World Fencing League: Why I Chose To Launch A Sports Venture" title="MBA Voices: From London Business School To The World Fencing League: Why I Chose To Launch A Sports Venture" xmlUrl="https://poetsandquants.com/feed" htmlUrl=""/>
@@ -90,12 +99,14 @@
     <outline type="rss" text="MEXC Launches VVIP Futures Loss Coverage Program 2.0 with 1,000,000 USDT Prize Pool" title="MEXC Launches VVIP Futures Loss Coverage Program 2.0 with 1,000,000 USDT Prize Pool" xmlUrl="https://mpost.io/feed" htmlUrl=""/>
     <outline type="rss" text="Mexico relaunches bidding on $840 million Rosarito Desalination Plant after void tender" title="Mexico relaunches bidding on $840 million Rosarito Desalination Plant after void tender" xmlUrl="https://smartwatermagazine.com/rss/news" htmlUrl=""/>
     <outline type="rss" text="microRNApro.com launch (4)" title="microRNApro.com launch (4)" xmlUrl="https://rna-mediated.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Mike Krieger(@mikeyk)" title="Mike Krieger(@mikeyk)" xmlUrl="https://api.xgo.ing/rss/user/78d7b99318b04b309b04000f7e24da29" htmlUrl=""/>
     <outline type="rss" text="Ministers launch crackdown on child-friendly vape marketing" title="Ministers launch crackdown on child-friendly vape marketing" xmlUrl="https://www.openaccessgovernment.org/feed" htmlUrl=""/>
     <outline type="rss" text="MTU Maintenance Opens Expanded Fort Worth Engine Facility, Launches LEAP Program" title="MTU Maintenance Opens Expanded Fort Worth Engine Facility, Launches LEAP Program" xmlUrl="https://fortworthinc.com/news/index.rss" htmlUrl=""/>
     <outline type="rss" text="Murder probe launched into death of British Catholic politician Ann Widdecombe" title="Murder probe launched into death of British Catholic politician Ann Widdecombe" xmlUrl="https://angelusnews.com/feed" htmlUrl=""/>
     <outline type="rss" text="NAACP Launches $20 Million Plan to Mobilize 6.5 Million Black Voters" title="NAACP Launches $20 Million Plan to Mobilize 6.5 Million Black Voters" xmlUrl="https://capitalbnews.org/feed" htmlUrl=""/>
     <outline type="rss" text="Name, Logo, Launch Plan Unveiled for Standalone INDYCAR Video Game" title="Name, Logo, Launch Plan Unveiled for Standalone INDYCAR Video Game" xmlUrl="https://thepitwindow.blog/feed" htmlUrl=""/>
     <outline type="rss" text="National Listening Tour Launches As New Survey Shows 62% of Gen Z Believe the Country is Headed in the Wrong Direction" title="National Listening Tour Launches As New Survey Shows 62% of Gen Z Believe the Country is Headed in the Wrong Direction" xmlUrl="https://whenweallvote.org/feed" htmlUrl=""/>
+    <outline type="rss" text="Naval(@naval)" title="Naval(@naval)" xmlUrl="https://api.xgo.ing/rss/user/b43bc203409e4c5a9c3ae86fe1ac00c9" htmlUrl=""/>
     <outline type="rss" text="New MenB Drop-In Vaccination Clinics Launched for Young People" title="New MenB Drop-In Vaccination Clinics Launched for Young People" xmlUrl="https://nhsforthvalley.com/feed" htmlUrl=""/>
     <outline type="rss" text="New Podcast ‘American Futbol’ Launches, Exploring the Soul of U.S. Soccer Ahead of the Men’s World Cup" title="New Podcast ‘American Futbol’ Launches, Exploring the Soul of U.S. Soccer Ahead of the Men’s World Cup" xmlUrl="https://www.futuromediagroup.org/feed" htmlUrl=""/>
     <outline type="rss" text="NEW: Spanberger Launches “United for Virginia’s Future PAC” to Recruit and Support “Commonsense Candidates”" title="NEW: Spanberger Launches “United for Virginia’s Future PAC” to Recruit and Support “Commonsense Candidates”" xmlUrl="https://abigailspanberger.com/feed" htmlUrl=""/>
@@ -106,6 +117,7 @@
     <outline type="rss" text="Padilla Joins Senate Judiciary Democrats in Launching Inquiry Into Closure of Tom Homan Corruption Investigation" title="Padilla Joins Senate Judiciary Democrats in Launching Inquiry Into Closure of Tom Homan Corruption Investigation" xmlUrl="https://www.padilla.senate.gov/feed" htmlUrl=""/>
     <outline type="rss" text="PAL launches US$300M bond offering" title="PAL launches US$300M bond offering" xmlUrl="https://aviationupdatesph.com/feed" htmlUrl=""/>
     <outline type="rss" text="Palworld Grows Up – The Survival Phenomenon Officially Launches" title="Palworld Grows Up – The Survival Phenomenon Officially Launches" xmlUrl="https://www.thexboxhub.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Pat Walls" title="Pat Walls" xmlUrl="https://patwalls.com/feed" htmlUrl="https://patwalls.com"/>
     <outline type="rss" text="Penderyn Distillery Launches Age-Statement Collection" title="Penderyn Distillery Launches Age-Statement Collection" xmlUrl="https://onemoredram.com/feed" htmlUrl=""/>
     <outline type="rss" text="Pink Palm Puff Just Launched the Cutest Pottery Barn Teen Collection — &amp; My Tween Is Already Making a Wish List" title="Pink Palm Puff Just Launched the Cutest Pottery Barn Teen Collection — &amp; My Tween Is Already Making a Wish List" xmlUrl="https://www.sheknows.com/feed/rss" htmlUrl=""/>
     <outline type="rss" text="Pinterest Launches 2 Powerful AI Marketing Tools." title="Pinterest Launches 2 Powerful AI Marketing Tools." xmlUrl="https://immediatefuture.co.uk/feed" htmlUrl=""/>
@@ -132,6 +144,7 @@
     <outline type="rss" text="Stanislaus County launches 911 Nurse Navigation to ease demand for ambulances in non-emergency cases" title="Stanislaus County launches 911 Nurse Navigation to ease demand for ambulances in non-emergency cases" xmlUrl="https://theintersectionreports.org/feed" htmlUrl=""/>
     <outline type="rss" text="Startup Stories - Mixergy" title="Startup Stories - Mixergy" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" htmlUrl=""/>
     <outline type="rss" text="Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page" title="Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page" xmlUrl="https://www.roadtovr.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Steve Blank" title="Steve Blank" xmlUrl="http://steveblank.com/feed" htmlUrl=""/>
     <outline type="rss" text="Stripe merchant of record: What it actually means and whether it’s enough for your SaaS" title="Stripe merchant of record: What it actually means and whether it’s enough for your SaaS" xmlUrl="https://freemius.com/blog/feed" htmlUrl=""/>
     <outline type="rss" text="Tampa Bay tech, entrepreneur, and nerd events list (Monday, July 13 – Sunday, July 19)" title="Tampa Bay tech, entrepreneur, and nerd events list (Monday, July 13 – Sunday, July 19)" xmlUrl="https://www.globalnerdy.com/feed" htmlUrl=""/>
     <outline type="rss" text="TechGenyz" title="TechGenyz" xmlUrl="http://feeds.feedburner.com/techgenyz" htmlUrl=""/>
