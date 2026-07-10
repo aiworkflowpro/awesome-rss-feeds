@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Essays &amp; Ideas</title>
-    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
+    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="https://bricolage.micro.blog/feed.xml" title="https://bricolage.micro.blog/feed.xml" xmlUrl="https://bricolage.micro.blog/feed.xml" htmlUrl=""/>
@@ -17,6 +17,7 @@
     <outline type="rss" text="https://puran.blog/feed.xml" title="https://puran.blog/feed.xml" xmlUrl="https://puran.blog/feed.xml" htmlUrl=""/>
     <outline type="rss" text="https://matthewhurst.micro.blog/feed.xml" title="https://matthewhurst.micro.blog/feed.xml" xmlUrl="https://matthewhurst.micro.blog/feed.xml" htmlUrl=""/>
     <outline type="rss" text="https://hookland.wordpress.com/feed" title="https://hookland.wordpress.com/feed" xmlUrl="https://hookland.wordpress.com/feed" htmlUrl=""/>
+    <outline type="rss" text="https://chinai.substack.com/feed" title="https://chinai.substack.com/feed" xmlUrl="https://chinai.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="&quot;Cole Allen,&quot; Scare Quotes" title="&quot;Cole Allen,&quot; Scare Quotes" xmlUrl="https://slowcivilwar.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="&quot;Kash Me Out&quot;" title="&quot;Kash Me Out&quot;" xmlUrl="https://therealmichaelcohen.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="&quot;Lauren Ipsum&quot; no. 531" title="&quot;Lauren Ipsum&quot; no. 531" xmlUrl="https://laurenipsum.substack.com/feed" htmlUrl=""/>
@@ -146,6 +147,7 @@
     <outline type="rss" text="African Drumming with MS Ireland" title="African Drumming with MS Ireland" xmlUrl="https://msmartinecom.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="AI Evals Are Not Model Beauty Pageants" title="AI Evals Are Not Model Beauty Pageants" xmlUrl="https://deanpeters.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="AI Safety Events &amp; Training: 2026 week 28 update" title="AI Safety Events &amp; Training: 2026 week 28 update" xmlUrl="https://aisafetyeventsandtraining.substack.com/feed" htmlUrl=""/>
+    <outline type="rss" text="AI Snake Oil" title="AI Snake Oil" xmlUrl="https://aisnakeoil.substack.com/feed" htmlUrl="https://aisnakeoil.substack.com"/>
     <outline type="rss" text="Alberta is getting a HUGE new data centre thanks to Meta. Here are the (significant) downsides of that" title="Alberta is getting a HUGE new data centre thanks to Meta. Here are the (significant) downsides of that" xmlUrl="https://rachelgilmore.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Alec Gores revealed as poker foe who filed $26M income form on Thomas Goldstein" title="Alec Gores revealed as poker foe who filed $26M income form on Thomas Goldstein" xmlUrl="https://haleyhintze.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Alex Ionescu’s Blog" title="Alex Ionescu’s Blog" xmlUrl="http://alex-ionescu.com/?feed=rss2" htmlUrl="https://www.alex-ionescu.com"/>
@@ -380,6 +382,7 @@
     <outline type="rss" text="Dancho Danchev's Blog - Mind Streams of Information Security Knowledge" title="Dancho Danchev's Blog - Mind Streams of Information Security Knowledge" xmlUrl="http://feeds.feedburner.com/DanchoDanchevOnSecurityAndNewMedia" htmlUrl="http://ddanchev.blogspot.com/"/>
     <outline type="rss" text="Dancing In The Wind" title="Dancing In The Wind" xmlUrl="https://kmabarrett.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="Dark clouds all around us" title="Dark clouds all around us" xmlUrl="https://rantingsofathirdkind.blog/feed" htmlUrl=""/>
+    <outline type="rss" text="Data Machina" title="Data Machina" xmlUrl="https://datamachina.substack.com/feed" htmlUrl="https://datamachina.substack.com"/>
     <outline type="rss" text="David Reads The Trades: July 9, 2026" title="David Reads The Trades: July 9, 2026" xmlUrl="https://davidpoland.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Day 4938: Upsides and Downsides" title="Day 4938: Upsides and Downsides" xmlUrl="https://annkoplow.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="Day of the Devs 2026 – My Impressions as a First-Time Attendee" title="Day of the Devs 2026 – My Impressions as a First-Time Attendee" xmlUrl="https://unexpectedgames.blog/feed" htmlUrl=""/>
@@ -1477,6 +1480,7 @@
     <outline type="rss" text="There’s a Secret Weapon Out There for the Rest of the NFC South" title="There’s a Secret Weapon Out There for the Rest of the NFC South" xmlUrl="https://cannoncrunch.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="These Might Be the Best Robot Hands Ever Built" title="These Might Be the Best Robot Hands Ever Built" xmlUrl="https://droids.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="These things are not luxuries" title="These things are not luxuries" xmlUrl="https://juststimming.wordpress.com/feed" htmlUrl=""/>
+    <outline type="rss" text="TheSequence" title="TheSequence" xmlUrl="https://thesequence.substack.com/feed" htmlUrl="https://thesequence.substack.com"/>
     <outline type="rss" text="Thetford Priory" title="Thetford Priory" xmlUrl="https://saesferd.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="They Are Coming" title="They Are Coming" xmlUrl="https://blindgordieblog.wordpress.com/feed" htmlUrl=""/>
     <outline type="rss" text="They are freedom" title="They are freedom" xmlUrl="https://pocketsized.substack.com/feed" htmlUrl=""/>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Backend &amp; Systems</title>
-    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
+    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="(Slightly) Random Broken Thoughts" title="(Slightly) Random Broken Thoughts" xmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/feeds/posts/default" htmlUrl="http://slightlyrandombrokenthoughts.blogspot.com/"/>
@@ -109,6 +109,7 @@
     <outline type="rss" text="Geek(@geekbb)" title="Geek(@geekbb)" xmlUrl="https://api.xgo.ing/rss/user/9cb3b60e689e4445a7fbdfd0be144126" htmlUrl=""/>
     <outline type="rss" text="Geoffrey Hinton(@geoffreyhinton)" title="Geoffrey Hinton(@geoffreyhinton)" xmlUrl="https://api.xgo.ing/rss/user/cb6169815e2e447e8e6148a4af3f9686" htmlUrl=""/>
     <outline type="rss" text="Get Data from Password Protected Access Database" title="Get Data from Password Protected Access Database" xmlUrl="https://excelguru.ca/feed" htmlUrl=""/>
+    <outline type="rss" text="GitHub Changelog" title="GitHub Changelog" xmlUrl="https://github.blog/changelog/feed" htmlUrl=""/>
     <outline type="rss" text="GitHub(@github)" title="GitHub(@github)" xmlUrl="https://api.xgo.ing/rss/user/fa5b15f68a2e4df1ab301e26a4ab9190" htmlUrl=""/>
     <outline type="rss" text="Go again" title="Go again" xmlUrl="https://billycarpenter.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Go Ask Alex: How do I leave an abusive bf when I've no money or place to go?" title="Go Ask Alex: How do I leave an abusive bf when I've no money or place to go?" xmlUrl="https://www.out.com/feeds/voices.rss" htmlUrl=""/>
@@ -156,6 +157,7 @@
     <outline type="rss" text="Kling AI(@Kling_ai)" title="Kling AI(@Kling_ai)" xmlUrl="https://api.xgo.ing/rss/user/564237c3de274d58a04f064920817888" htmlUrl=""/>
     <outline type="rss" text="Kristi Noem Begins Divorce Proceedings After Photos Purportedly Showing Her Husband Bryon Noem Cross-Dressing Go Viral" title="Kristi Noem Begins Divorce Proceedings After Photos Purportedly Showing Her Husband Bryon Noem Cross-Dressing Go Viral" xmlUrl="https://elizabethblog.com.ng/feed" htmlUrl=""/>
     <outline type="rss" text="LAKEFRONT BREWERY INVITES WISCONSIN TO GO LONG WITH THEIR NEW YEAR-ROUND IPA, NOON GAME" title="LAKEFRONT BREWERY INVITES WISCONSIN TO GO LONG WITH THEIR NEW YEAR-ROUND IPA, NOON GAME" xmlUrl="https://allaboutbeer.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Latent Space Podcast" title="Latent Space Podcast" xmlUrl="https://api.substack.com/feed/podcast/265424/s/1354.rss" htmlUrl="https://www.latent.space"/>
     <outline type="rss" text="Lenny Rachitsky(@lennysan)" title="Lenny Rachitsky(@lennysan)" xmlUrl="https://api.xgo.ing/rss/user/77d5ce4736854b0ebae603e4b54d3095" htmlUrl=""/>
     <outline type="rss" text="letter from the editor" title="letter from the editor" xmlUrl="https://fifthwheelpress.com/anth6backend?format=rss" htmlUrl=""/>
     <outline type="rss" text="Lex Fridman(@lexfridman)" title="Lex Fridman(@lexfridman)" xmlUrl="https://api.xgo.ing/rss/user/adf65931519340f795e2336910b4cd15" htmlUrl=""/>
@@ -206,6 +208,7 @@
     <outline type="rss" text="Philipp Schmid(@_philschmid)" title="Philipp Schmid(@_philschmid)" xmlUrl="https://api.xgo.ing/rss/user/ce352bbf72e44033985bc756db2ee0e2" htmlUrl=""/>
     <outline type="rss" text="Pi App Studio Adds Backend Infrastructure Support and App Planning for Newly Created Apps" title="Pi App Studio Adds Backend Infrastructure Support and App Planning for Newly Created Apps" xmlUrl="https://minepi.com/feed" htmlUrl=""/>
     <outline type="rss" text="Poe(@poe_platform)" title="Poe(@poe_platform)" xmlUrl="https://api.xgo.ing/rss/user/17687b1051204b2dbaed4ea4c9178f28" htmlUrl=""/>
+    <outline type="rss" text="Postgres Weekly" title="Postgres Weekly" xmlUrl="https://postgresweekly.com/rss" htmlUrl=""/>
     <outline type="rss" text="PostgreSQL 19 Release: New Features, Release Date, and Upgrade Notes" title="PostgreSQL 19 Release: New Features, Release Date, and Upgrade Notes" xmlUrl="https://blog.devart.com/feed" htmlUrl=""/>
     <outline type="rss" text="PostgreSQL Conference Japan 2026" title="PostgreSQL Conference Japan 2026" xmlUrl="https://www.postgresql.org/events.rss" htmlUrl=""/>
     <outline type="rss" text="Protecting Your Work as AI Models Rapidly Come and Go" title="Protecting Your Work as AI Models Rapidly Come and Go" xmlUrl="https://www.marketingaiinstitute.com/blog/rss.xml" htmlUrl=""/>

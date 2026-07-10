@@ -2,9 +2,11 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI Engineering &amp; LLM</title>
-    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
+    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://techcrunch.com/category/artificial-intelligence/feed" title="https://techcrunch.com/category/artificial-intelligence/feed" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed" htmlUrl=""/>
+    <outline type="rss" text="https://www.technologyreview.com/topic/artificial-intelligence/feed" title="https://www.technologyreview.com/topic/artificial-intelligence/feed" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl=""/>
     <outline type="rss" text="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" title="#2307 Eric Ries: Why Anthropic Won and How To Build Incurruptible companies" xmlUrl="https://mixergy.com/?feed=mixergy_feed" htmlUrl=""/>
     <outline type="rss" text="(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, &amp; DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak" title="(SEMI-)CROSSPOST: JOEY BROOKHART, CRYSTAL HUANG, &amp; DYLAN PATEL: Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak" xmlUrl="https://braddelong.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="10 Claude Code Settings That Made Me a Faster Software Architect" title="10 Claude Code Settings That Made Me a Faster Software Architect" xmlUrl="https://jsdev.space/rss.xml" htmlUrl=""/>
@@ -13,7 +15,9 @@
     <outline type="rss" text="Agent" title="Agent" xmlUrl="https://lostfocus.de/feed" htmlUrl=""/>
     <outline type="rss" text="AI Basics for Developers: Tokens, Inference, Embeddings, Vector Databases and RAG Explained" title="AI Basics for Developers: Tokens, Inference, Embeddings, Vector Databases and RAG Explained" xmlUrl="https://www.ottorinobruni.com/feed" htmlUrl=""/>
     <outline type="rss" text="AI Engineer(@aiDotEngineer)" title="AI Engineer(@aiDotEngineer)" xmlUrl="https://api.xgo.ing/rss/user/7d19a619a1cc4a9896129211269d2c85" htmlUrl=""/>
+    <outline type="rss" text="AI Explained" title="AI Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw" htmlUrl="https://www.youtube.com/@aiexplained-official"/>
     <outline type="rss" text="AI Shepherds and Electric Sheep: Leading and Teaching in the Age of Artificial Intelligence" title="AI Shepherds and Electric Sheep: Leading and Teaching in the Age of Artificial Intelligence" xmlUrl="https://scholars.wlu.ca/consensus/recent.rss" htmlUrl=""/>
+    <outline type="rss" text="All About AI" title="All About AI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR9j1jqqB5Rse69wjUnbYwA" htmlUrl="https://www.youtube.com/@AllAboutAI"/>
     <outline type="rss" text="Allen Institute for Artificial Intelligence (AI2) - YouTube" title="Allen Institute for Artificial Intelligence (AI2) - YouTube" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEqgmyWChwvt6MFGGlmUQCQ" htmlUrl="AI2"/>
     <outline type="rss" text="Amazon Science Homepage" title="Amazon Science Homepage" xmlUrl="https://www.amazon.science/index.rss" htmlUrl=""/>
     <outline type="rss" text="Another interesting case of an LLM-story" title="Another interesting case of an LLM-story" xmlUrl="https://camestrosfelapton.wordpress.com/feed" htmlUrl=""/>
@@ -50,6 +54,7 @@
     <outline type="rss" text="cat(@_catwu)" title="cat(@_catwu)" xmlUrl="https://api.xgo.ing/rss/user/66a6b39ddcfa42e39621e0ab293c1bdd" htmlUrl=""/>
     <outline type="rss" text="China’s New Brain Chip Delivers Real-time Brain Mapping up to 478 Times Faster Than Nvidia A100" title="China’s New Brain Chip Delivers Real-time Brain Mapping up to 478 Times Faster Than Nvidia A100" xmlUrl="https://4techviews.net/feed" htmlUrl=""/>
     <outline type="rss" text="Chinese AI models are eating into OpenAI and Anthropic’s API business, but it's not a bad news for your business" title="Chinese AI models are eating into OpenAI and Anthropic’s API business, but it's not a bad news for your business" xmlUrl="https://mixed-news.com/en/feed" htmlUrl=""/>
+    <outline type="rss" text="Chip Huyen" title="Chip Huyen" xmlUrl="https://huyenchip.com/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Claude and the Shadow of a Self. A conversation" title="Claude and the Shadow of a Self. A conversation" xmlUrl="https://americannotes.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="Claude Blog" title="Claude Blog" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/claude-blog.xml" htmlUrl="https://claude.com/blog"/>
     <outline type="rss" text="Claude desktop app for Linux enters beta" title="Claude desktop app for Linux enters beta" xmlUrl="https://www.omgubuntu.co.uk/feed" htmlUrl=""/>
@@ -91,6 +96,8 @@
     <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="https://gizmodo.com/rss" htmlUrl=""/>
     <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="https://ai.googleblog.com/"/>
     <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl=""/>
+    <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleaiblog.blogspot.com/atom.xml" htmlUrl="https://ai.googleblog.com"/>
+    <outline type="rss" text="Google Engineering" title="Google Engineering" xmlUrl="https://developers.googleblog.com/atom.xml" htmlUrl=""/>
     <outline type="rss" text="GPT 5.6 Arrives in Microsoft 365 Copilot, But Microsoft Hides What You Get" title="GPT 5.6 Arrives in Microsoft 365 Copilot, But Microsoft Hides What You Get" xmlUrl="https://office-watch.com/feed" htmlUrl=""/>
     <outline type="rss" text="GPT-5.6" title="GPT-5.6" xmlUrl="https://hn.algolia.com/rss" htmlUrl=""/>
     <outline type="rss" text="GPT-5.6 launches, Meta EU design breach, reading crisis" title="GPT-5.6 launches, Meta EU design breach, reading crisis" xmlUrl="https://newslit.substack.com/feed" htmlUrl=""/>
@@ -208,7 +215,9 @@
     <outline type="rss" text="The EU AI Act Newsletter #105: Transparency Tools Land" title="The EU AI Act Newsletter #105: Transparency Tools Land" xmlUrl="https://artificialintelligenceact.substack.com/feed" htmlUrl=""/>
     <outline type="rss" text="The future is now: College of Computing &amp; Artificial Intelligence officially launches" title="The future is now: College of Computing &amp; Artificial Intelligence officially launches" xmlUrl="https://datascience.wisc.edu/feed" htmlUrl=""/>
     <outline type="rss" text="The Future of Work: Gaming GenAI Responsibly" title="The Future of Work: Gaming GenAI Responsibly" xmlUrl="https://www.admscentre.org.au/feed" htmlUrl=""/>
+    <outline type="rss" text="The Guardian AI" title="The Guardian AI" xmlUrl="https://www.theguardian.com/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
     <outline type="rss" text="The Knowledge Project" title="The Knowledge Project" xmlUrl="https://feeds.megaphone.fm/FSMI7575968096" htmlUrl="https://fs.blog/knowledge-project-podcast/"/>
+    <outline type="rss" text="The Rundown AI" title="The Rundown AI" xmlUrl="https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml" htmlUrl="https://therundown.ai"/>
     <outline type="rss" text="TLDR AI" title="TLDR AI" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/tldr-ai.xml" htmlUrl="https://tldr.tech/ai/archives"/>
     <outline type="rss" text="Tokenized Finance: What Are the Tradeoffs?" title="Tokenized Finance: What Are the Tradeoffs?" xmlUrl="https://conversableeconomist.com/feed" htmlUrl=""/>
     <outline type="rss" text="TomWikiAssist: The AI Agent Who Complained About Getting Blocked on Wikipedia" title="TomWikiAssist: The AI Agent Who Complained About Getting Blocked on Wikipedia" xmlUrl="https://www.thewikipedian.net/feed" htmlUrl=""/>

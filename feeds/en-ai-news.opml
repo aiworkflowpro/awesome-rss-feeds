@@ -2,12 +2,15 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · AI News &amp; Insights</title>
-    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
+    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
   </head>
   <body>
+    <outline type="rss" text="https://artificialintelligence-news.com/feed" title="https://artificialintelligence-news.com/feed" xmlUrl="https://artificialintelligence-news.com/feed" htmlUrl=""/>
+    <outline type="rss" text="AI Business" title="AI Business" xmlUrl="https://aibusiness.com/rss.xml" htmlUrl="https://aibusiness.com"/>
     <outline type="rss" text="AI Legislative Update: July 10, 2026" title="AI Legislative Update: July 10, 2026" xmlUrl="https://www.transparencycoalition.ai/news?format=rss" htmlUrl=""/>
     <outline type="rss" text="AI News Wrap-Up: 8th July 2026" title="AI News Wrap-Up: 8th July 2026" xmlUrl="https://www.aiassistantstore.com/blogs/latest-news.atom" htmlUrl=""/>
     <outline type="rss" text="Ai2 News (Allen Institute for AI)" title="Ai2 News (Allen Institute for AI)" xmlUrl="https://raw.githubusercontent.com/alan-turing-institute/ai-rss-feeds/refs/heads/main/feeds/allenai-news.xml" htmlUrl="https://allenai.org/news"/>
+    <outline type="rss" text="Artificial Intelligence News" title="Artificial Intelligence News" xmlUrl="https://www.artificialintelligence-news.com/feed/rss" htmlUrl="https://www.artificialintelligence-news.com"/>
     <outline type="rss" text="Banning 7-OH Will Make Consumers Less Safe" title="Banning 7-OH Will Make Consumers Less Safe" xmlUrl="https://www.painnewsnetwork.org/stories?format=rss" htmlUrl=""/>
     <outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/"/>
     <outline type="rss" text="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" title="Delta's Q2 Revenue Hits Record $19.8B, But Soaring Fuel Costs Erode Profitability" xmlUrl="https://www.signalbloom.ai/news/rss.xml" htmlUrl=""/>

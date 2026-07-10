@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · Cybersecurity</title>
-    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
+    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="&quot;Having Birth&quot;: What Florida's New Security Law Is Actually For" title="&quot;Having Birth&quot;: What Florida's New Security Law Is Actually For" xmlUrl="https://www.hackingbutlegal.com/feed" htmlUrl=""/>
@@ -76,6 +76,7 @@
     <outline type="rss" text="Check Point Software" title="Check Point Software" xmlUrl="http://blog.checkpoint.com/feed" htmlUrl=""/>
     <outline type="rss" text="Chromostereopsis" title="Chromostereopsis" xmlUrl="https://mindhacks.com/feed" htmlUrl=""/>
     <outline type="rss" text="Chybeta" title="Chybeta" xmlUrl="http://chybeta.github.io/atom.xml" htmlUrl="/atom.xml"/>
+    <outline type="rss" text="CISA Alerts" title="CISA Alerts" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/all.xml" htmlUrl=""/>
     <outline type="rss" text="CODE WHITE | Blog" title="CODE WHITE | Blog" xmlUrl="https://codewhitesec.blogspot.com/feeds/posts/default" htmlUrl="https://codewhitesec.blogspot.com/"/>
     <outline type="rss" text="CODE WHITE | Blog" title="CODE WHITE | Blog" xmlUrl="https://codewhitesec.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://codewhitesec.blogspot.com/"/>
     <outline type="rss" text="CodeWatch" title="CodeWatch" xmlUrl="https://codewatch.org/feed" htmlUrl="https://codewatch.org"/>
@@ -173,6 +174,7 @@
     <outline type="rss" text="Hackaday Podcast Episode Ep 377: Parallel Pixels, Wiggly Consoles, and Seven Segments" title="Hackaday Podcast Episode Ep 377: Parallel Pixels, Wiggly Consoles, and Seven Segments" xmlUrl="https://hackaday.com/feed" htmlUrl=""/>
     <outline type="rss" text="hackademix.net" title="hackademix.net" xmlUrl="https://hackademix.net/feed" htmlUrl="https://hackademix.net"/>
     <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl=""/>
+    <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl=""/>
     <outline type="rss" text="Hacker News: Launches" title="Hacker News: Launches" xmlUrl="https://hnrss.org/launches" htmlUrl=""/>
     <outline type="rss" text="Hacker News: Show HN" title="Hacker News: Show HN" xmlUrl="http://hnrss.org/show" htmlUrl=""/>
     <outline type="rss" text="Hacker Street" title="Hacker Street" xmlUrl="https://0x221b.github.io/feed.xml" htmlUrl="http://localhost:4000/"/>
@@ -319,6 +321,7 @@
     <outline type="rss" text="Product Hunt" title="Product Hunt" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com/"/>
     <outline type="rss" text="Progress Urges ShareFile Admins to Shut Down Servers Over Credible Security Threat" title="Progress Urges ShareFile Admins to Shut Down Servers Over Credible Security Threat" xmlUrl="https://cybersecuritynews.com/feed" htmlUrl=""/>
     <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+    <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl=""/>
     <outline type="rss" text="Psycho’s Corner" title="Psycho’s Corner" xmlUrl="https://sparkes.zone/blog/feed.xml" htmlUrl="https://sparkes.zone/blog/"/>
     <outline type="rss" text="Public Update Post: June 2026" title="Public Update Post: June 2026" xmlUrl="https://www.katehackett.com/feed" htmlUrl=""/>
     <outline type="rss" text="Publications on STAR Labs" title="Publications on STAR Labs" xmlUrl="https://starlabs.sg/publications/index.xml" htmlUrl="https://starlabs.sg"/>

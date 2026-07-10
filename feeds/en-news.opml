@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · News &amp; Politics</title>
-    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
+    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="&quot;Crackpot Empire&quot;" title="&quot;Crackpot Empire&quot;" xmlUrl="https://www.unpopularfront.news/feed" htmlUrl=""/>
@@ -246,7 +246,9 @@
     <outline type="rss" text="Episode 1, 2026 – Westminster Award Selection Special" title="Episode 1, 2026 – Westminster Award Selection Special" xmlUrl="https://feeds.buzzsprout.com/2449929.rss" htmlUrl=""/>
     <outline type="rss" text="Episode 382 – Carney’s Senate Snooker" title="Episode 382 – Carney’s Senate Snooker" xmlUrl="https://sandyandnora.com/feed" htmlUrl=""/>
     <outline type="rss" text="Erdogan’s drone mogul son-in-law aims to be the first to prove autonomous jets in a war: ‘We’ll demonstrate it to the world’" title="Erdogan’s drone mogul son-in-law aims to be the first to prove autonomous jets in a war: ‘We’ll demonstrate it to the world’" xmlUrl="https://nordicmonitor.com/feed" htmlUrl=""/>
+    <outline type="rss" text="ESA News" title="ESA News" xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Space_News" htmlUrl=""/>
     <outline type="rss" text="Euro Weekly News Spain" title="Euro Weekly News Spain" xmlUrl="https://www.euroweeklynews.com/feed" htmlUrl=""/>
+    <outline type="rss" text="Euronews" title="Euronews" xmlUrl="https://www.euronews.com/rss?level=theme&amp;name=news" htmlUrl=""/>
     <outline type="rss" text="European Parliament clears path for digital euro talks" title="European Parliament clears path for digital euro talks" xmlUrl="https://www.electronicpaymentsinternational.com/feed" htmlUrl=""/>
     <outline type="rss" text="Even in the Darkest Times" title="Even in the Darkest Times" xmlUrl="https://zooeychapman.com/feed" htmlUrl=""/>
     <outline type="rss" text="Every human has been exposed to this toxic chemical since birth" title="Every human has been exposed to this toxic chemical since birth" xmlUrl="https://news.immunologic.org/feed?sectionId=193268" htmlUrl=""/>
@@ -583,6 +585,7 @@
     <outline type="rss" text="NYT &gt; Travel" title="NYT &gt; Travel" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl=""/>
     <outline type="rss" text="NYT &gt; World News" title="NYT &gt; World News" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl=""/>
     <outline type="rss" text="NYT Spelling Bee Answers Today: July 10, 2026 Word List, Pangram &amp; Hints" title="NYT Spelling Bee Answers Today: July 10, 2026 Word List, Pangram &amp; Hints" xmlUrl="https://easternherald.com/feed" htmlUrl=""/>
+    <outline type="rss" text="NYT Technology" title="NYT Technology" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" htmlUrl="https://www.nytimes.com/section/technology"/>
     <outline type="rss" text="ODT quiz: July 11" title="ODT quiz: July 11" xmlUrl="https://www.odt.co.nz/news/feed" htmlUrl=""/>
     <outline type="rss" text="Officials work tour Cancun International to ensure customs and baggage collection improvements for travelers" title="Officials work tour Cancun International to ensure customs and baggage collection improvements for travelers" xmlUrl="https://riviera-maya-news.com/feed" htmlUrl=""/>
     <outline type="rss" text="Ogden Pioneer Days" title="Ogden Pioneer Days" xmlUrl="https://www.theogdenite.com/news?format=rss" htmlUrl=""/>

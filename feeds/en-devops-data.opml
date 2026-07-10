@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>awesome-rss-feeds · DevOps &amp; Data</title>
-    <dateCreated>2026-07-10T19:15:17Z</dateCreated>
+    <dateCreated>2026-07-10T19:19:44Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="'₹500 For Sex!': Video Of Auto Driver's Shocking Offer To Female Passenger In Andhra Goes Viral, Sparks Outrage" title="'₹500 For Sex!': Video Of Auto Driver's Shocking Offer To Female Passenger In Andhra Goes Viral, Sparks Outrage" xmlUrl="https://www.republicworld.com/rss/viral.xml" htmlUrl=""/>
@@ -32,6 +32,7 @@
     <outline type="rss" text="feed" title="feed" xmlUrl="https://backstage.io/blog/rss.xml" htmlUrl=""/>
     <outline type="rss" text="From Web Dev Courses to AI Pipelines: How I Built Skills I Use Every Day" title="From Web Dev Courses to AI Pipelines: How I Built Skills I Use Every Day" xmlUrl="https://www.codecademy.com/resources/blog/feed" htmlUrl=""/>
     <outline type="rss" text="Genspark(@genspark_ai)" title="Genspark(@genspark_ai)" xmlUrl="https://api.xgo.ing/rss/user/71ffd342cb5d478185ef7d55bdfca011" htmlUrl=""/>
+    <outline type="rss" text="GitLab Blog" title="GitLab Blog" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl=""/>
     <outline type="rss" text="Hamas Quietly Relocates Center Of Gravity From Doha To Ankara" title="Hamas Quietly Relocates Center Of Gravity From Doha To Ankara" xmlUrl="https://a.jfeed.com/v1/rss/articles/166/rss2" htmlUrl=""/>
     <outline type="rss" text="Happy Friday! #ThePositivityWave #44 😀 #HappyFriday #SecretLibraryBookBlog" title="Happy Friday! #ThePositivityWave #44 😀 #HappyFriday #SecretLibraryBookBlog" xmlUrl="https://secretlibrarybookblog.com/feed" htmlUrl=""/>
     <outline type="rss" text="He Showed Me What One Person Could Do: A Tribute to Jon Ketler" title="He Showed Me What One Person Could Do: A Tribute to Jon Ketler" xmlUrl="https://www.gettingsmart.com/feed" htmlUrl=""/>
@@ -43,6 +44,7 @@
     <outline type="rss" text="ireallylovemusic vs dursley rocks 2025 setlist" title="ireallylovemusic vs dursley rocks 2025 setlist" xmlUrl="http://ireallylovemusic.co.uk/blog?feed=rss2" htmlUrl=""/>
     <outline type="rss" text="Is ACA Data Engineer Certification Right For You?" title="Is ACA Data Engineer Certification Right For You?" xmlUrl="https://www.bigdataprep.com/feed" htmlUrl=""/>
     <outline type="rss" text="Kafka’s world, our reality: The writer who predicted modern anxiety" title="Kafka’s world, our reality: The writer who predicted modern anxiety" xmlUrl="https://www.eduwire.lk/feed" htmlUrl=""/>
+    <outline type="rss" text="Kubernetes Blog" title="Kubernetes Blog" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl=""/>
     <outline type="rss" text="Man exposes friend who always expects someone else to cover her bill during dinner parties: 'Before ordering, I quietly asked if everyone was okay paying for their own meals. Everyone agreed'" title="Man exposes friend who always expects someone else to cover her bill during dinner parties: 'Before ordering, I quietly asked if everyone was okay paying for their own meals. Everyone agreed'" xmlUrl="https://failblog.cheezburger.com/rss" htmlUrl=""/>
     <outline type="rss" text="Mass layoffs of Myanmar migrant workers in Thailand spark wage theft allegations" title="Mass layoffs of Myanmar migrant workers in Thailand spark wage theft allegations" xmlUrl="https://english.dvb.no/feed" htmlUrl=""/>
     <outline type="rss" text="Mastering Observability at the Source" title="Mastering Observability at the Source" xmlUrl="https://humainary.io/feed" htmlUrl=""/>
