@@ -5,7 +5,7 @@
 > 💎 **8936+ curated, live, HTTP-validated English RSS feeds — the most complete open RSS library**
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](LICENSE)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat)](LICENSE)
 [![Live feeds](https://img.shields.io/badge/Live_feeds-8936+-10B981?style=flat)](LIST.md)
 [![Categories](https://img.shields.io/badge/Categories-21-blue?style=flat)](#-quick-start)
 
@@ -121,7 +121,7 @@ This repository aggregates and re-indexes the public, open-source upstream lists
 
 ## 📄 License
 
-MIT License © 2026 AI Workflow Pro. Feed data is aggregated from public open-source upstream lists; those lists retain their own licenses.
+CC0-1.0 — dedicated to the public domain, see [LICENSE](LICENSE). Feed data is aggregated from public open-source upstream lists; those lists retain their own licenses.
 
 ---
 
