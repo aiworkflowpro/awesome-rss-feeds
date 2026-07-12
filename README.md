@@ -109,17 +109,32 @@ This repository aggregates and re-indexes the public, open-source upstream lists
 
 [🌐 aiworkflowpro.com](https://aiworkflowpro.com) · [𝕏 @aiworkflowprolk](https://x.com/aiworkflowprolk) · [💻 GitHub](https://github.com/aiworkflowpro)
 
-## 🧩 More from AI Workflow Pro
-
-| Project | What it is |
-|---|---|
-| [workflow-agent-skill-spec](https://github.com/aiworkflowpro/workflow-agent-skill-spec) | Spec for building production-grade Claude Code Skills |
-| [video-editing-skill](https://github.com/aiworkflowpro/video-editing-skill) | Claude Code Skill — automated video editing |
-| ✅ [awesome-rss-feeds](https://github.com/aiworkflowpro/awesome-rss-feeds) | 8936+ curated English RSS feeds, 21 categories |
-| [awesome-ai-practices](https://github.com/aiworkflowpro/awesome-ai-practices) | Real AI best practices, auto-curated every 6h |
-
-🌐 [aiworkflowpro.com](https://aiworkflowpro.com) · 👤 [@aiworkflowpro](https://github.com/aiworkflowpro) · 𝕏 [@aiworkflowprolk](https://x.com/aiworkflowprolk)
-
 ## 📄 License
 
 MIT License © 2026 AI Workflow Pro. Feed data is aggregated from public open-source upstream lists; those lists retain their own licenses.
+
+---
+
+## More from AI Workflow Pro
+
+| Project | What it is |
+|---|---|
+| ✅ [awesome-rss-feeds-list](https://github.com/aiworkflowpro/awesome-rss-feeds-list) | 8936+ curated English RSS feeds across 21 categories |
+| [awesome-ai-practices-list](https://github.com/aiworkflowpro/awesome-ai-practices-list) | AI best practices, auto-curated every 6h by DigestOps |
+| [awp-workflow-agent-spec](https://github.com/aiworkflowpro/awp-workflow-agent-spec) | Specification for production-grade Claude Code Skills |
+| [awp-video-editing-skill](https://github.com/aiworkflowpro/awp-video-editing-skill) | Claude Code Skill for automated video editing |
+
+🌐 [aiworkflowpro.com](https://aiworkflowpro.com) · 👤 [@aiworkflowpro](https://github.com/aiworkflowpro)
+
+---
+
+<div align="center">
+
+### If this list saves you time, a ⭐ helps others find it
+
+[![Website](https://img.shields.io/badge/🌐_Website-aiworkflowpro.com-10B981?style=flat)](https://aiworkflowpro.com)
+[![X](https://img.shields.io/badge/𝕏-@aiworkflowprolk-000000?style=flat)](https://x.com/aiworkflowprolk)
+
+**Building AI tools in public — the products, the process, the lessons.**
+
+</div>
